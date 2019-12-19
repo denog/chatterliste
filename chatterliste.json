@@ -18,7 +18,7 @@
         "Name": "Joerg Jungermann",
         "NIC Handle": "",
         "ASN": [
-            "42263"
+            42263
         ],
         "Organisation": [
             {
@@ -32,7 +32,7 @@
         "Name": "Christopher Kunz",
         "NIC Handle": "CK1643-RIPE",
         "ASN": [
-            "47215"
+            47215
         ],
         "Organisation": [
             {
@@ -46,7 +46,7 @@
         "Name": "Sven Ludwig",
         "NIC Handle": "",
         "ASN": [
-            "8292"
+            8292
         ],
         "Organisation": [
             {
@@ -60,7 +60,7 @@
         "Name": "Alexander Karl",
         "NIC Handle": "AK14946-RIPE",
         "ASN": [
-            "203531"
+            203531
         ],
         "Organisation": [
             {
@@ -74,8 +74,8 @@
         "Name": "Julian Seifert",
         "NIC Handle": "JULI-RIPE",
         "ASN": [
-            "28876",
-            "50642"
+            28876,
+            50642
         ],
         "Organisation": [
             {
@@ -101,7 +101,7 @@
         "Name": "Werner Detter",
         "NIC Handle": "WD8481-RIPE",
         "ASN": [
-            "8481"
+            8481
         ],
         "Organisation": [
             {
@@ -115,8 +115,8 @@
         "Name": "Andreas Rammhold",
         "NIC Handle": "NX101",
         "ASN": [
-            "62023",
-            "6766"
+            62023,
+            6766
         ],
         "Organisation": [
             {
@@ -130,7 +130,7 @@
         "Name": "Andre Mamitzsch",
         "NIC Handle": "AM4880-RIPE",
         "ASN": [
-            "58243"
+            58243
         ],
         "Organisation": [
             {
@@ -144,7 +144,7 @@
         "Name": "Andreas Götz",
         "NIC Handle": "",
         "ASN": [
-            "33891"
+            33891
         ],
         "Organisation": [
             {
@@ -158,7 +158,7 @@
         "Name": "Martin Kluge",
         "NIC Handle": "KLM-RIPE",
         "ASN": [
-            "35292"
+            35292
         ],
         "Organisation": [
             {
@@ -172,7 +172,7 @@
         "Name": "Tobias Neumann",
         "NIC Handle": "TN6695-RIPE",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -198,7 +198,7 @@
         "Name": "Arne Böttger",
         "NIC Handle": "APB9-RIPE",
         "ASN": [
-            "20694"
+            20694
         ],
         "Organisation": [
             {
@@ -212,8 +212,8 @@
         "Name": "Andre Scholz",
         "NIC Handle": "ATS",
         "ASN": [
-            "8475",
-            "196608"
+            8475,
+            196608
         ],
         "Organisation": [
             {
@@ -227,7 +227,7 @@
         "Name": "Martin Prager",
         "NIC Handle": "NP2275-RIPE",
         "ASN": [
-            "43847"
+            43847
         ],
         "Organisation": [
             {
@@ -241,7 +241,7 @@
         "Name": "Axel Fischer",
         "NIC Handle": "AFI5-RIPE",
         "ASN": [
-            "49024"
+            49024
         ],
         "Organisation": [
             {
@@ -267,7 +267,7 @@
         "Name": "Christopher Dworczak",
         "NIC Handle": "",
         "ASN": [
-            "13237"
+            13237
         ],
         "Organisation": [
             {
@@ -281,7 +281,7 @@
         "Name": "Maximilian Wilhelm",
         "NIC Handle": "MWFF12-RIPE",
         "ASN": [
-            "201701"
+            201701
         ],
         "Organisation": [
             {
@@ -313,8 +313,8 @@
         "Name": "Bernhard Schmidt",
         "NIC Handle": "BSC-RIPE",
         "ASN": [
-            "12816",
-            "29259"
+            12816,
+            29259
         ],
         "Organisation": [
             {
@@ -332,8 +332,8 @@
         "Name": "Marco Prause",
         "NIC Handle": "",
         "ASN": [
-            "31529",
-            "8763"
+            31529,
+            8763
         ],
         "Organisation": [
             {
@@ -373,7 +373,7 @@
         "Name": "Matthias Kupfer",
         "NIC Handle": "KUMA-RIPE",
         "ASN": [
-            "20686"
+            20686
         ],
         "Organisation": [
             {
@@ -387,7 +387,7 @@
         "Name": "Gregor Möller",
         "NIC Handle": "GM-RIPE",
         "ASN": [
-            "12731"
+            12731
         ],
         "Organisation": [
             {
@@ -401,7 +401,7 @@
         "Name": "Jens Lüdemann",
         "NIC Handle": "",
         "ASN": [
-            "13237"
+            13237
         ],
         "Organisation": [
             {
@@ -415,7 +415,7 @@
         "Name": "Jörg Städele",
         "NIC Handle": "JSTN",
         "ASN": [
-            "21385"
+            21385
         ],
         "Organisation": [
             {
@@ -429,7 +429,7 @@
         "Name": "Stefan Funke",
         "NIC Handle": "",
         "ASN": [
-            "20647"
+            20647
         ],
         "Organisation": [
             {
@@ -467,7 +467,7 @@
         "Name": "Gerd Feiner",
         "NIC Handle": "GF84-RIPE",
         "ASN": [
-            "35244"
+            35244
         ],
         "Organisation": [
             {
@@ -481,7 +481,7 @@
         "Name": "Jens Brey",
         "NIC Handle": "NSJB-RIPEMSJB1-RIPEDEJB-RIPE",
         "ASN": [
-            "34115"
+            34115
         ],
         "Organisation": [
             {
@@ -495,7 +495,7 @@
         "Name": "Christian Schmidt",
         "NIC Handle": "CPS1-RIPE",
         "ASN": [
-            "8495"
+            8495
         ],
         "Organisation": [
             {
@@ -509,7 +509,7 @@
         "Name": "Christoph Neukirch",
         "NIC Handle": "CN202-RIPECHN42-RIPE",
         "ASN": [
-            "50343"
+            50343
         ],
         "Organisation": [
             {
@@ -523,7 +523,7 @@
         "Name": "Yves Roquette",
         "NIC Handle": "YR198-RIPE",
         "ASN": [
-            "15657"
+            15657
         ],
         "Organisation": [
             {
@@ -549,7 +549,7 @@
         "Name": "Christian Schmidt",
         "NIC Handle": "CHSC-RIPE",
         "ASN": [
-            "50629"
+            50629
         ],
         "Organisation": [
             {
@@ -563,8 +563,8 @@
         "Name": "Christian Kildau",
         "NIC Handle": "CKPL",
         "ASN": [
-            "12306",
-            "206564"
+            12306,
+            206564
         ],
         "Organisation": [
             {
@@ -578,7 +578,7 @@
         "Name": "Christan Gebhardt",
         "NIC Handle": "",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -592,7 +592,7 @@
         "Name": "Raphael Rosenberg",
         "NIC Handle": "CLK1338-RIPE",
         "ASN": [
-            "60955"
+            60955
         ],
         "Organisation": [
             {
@@ -606,7 +606,7 @@
         "Name": "Eric Dorr",
         "NIC Handle": "ED51861-RIPE",
         "ASN": [
-            "51861"
+            51861
         ],
         "Organisation": []
     },
@@ -615,7 +615,7 @@
         "Name": "Anton Khonych",
         "NIC Handle": "",
         "ASN": [
-            "28876"
+            28876
         ],
         "Organisation": [
             {
@@ -629,7 +629,7 @@
         "Name": "Georg Kröber",
         "NIC Handle": "GKSK-RIPE",
         "ASN": [
-            "41470"
+            41470
         ],
         "Organisation": [
             {
@@ -647,7 +647,7 @@
         "Name": "Christian Kratzer",
         "NIC Handle": "CK12-RIPE",
         "ASN": [
-            "57407"
+            57407
         ],
         "Organisation": [
             {
@@ -661,9 +661,9 @@
         "Name": "Gert Döring",
         "NIC Handle": "GERT-RIPE",
         "ASN": [
-            "5539",
-            "8878",
-            "196611"
+            5539,
+            8878,
+            196611
         ],
         "Organisation": [
             {
@@ -693,7 +693,7 @@
         "Name": "Christoph Klünter",
         "NIC Handle": "CK207-RIPE",
         "ASN": [
-            "12731"
+            12731
         ],
         "Organisation": [
             {
@@ -707,7 +707,7 @@
         "Name": "Daniel Gründler",
         "NIC Handle": "DaGr100-RIPE",
         "ASN": [
-            "12399"
+            12399
         ],
         "Organisation": [
             {
@@ -721,7 +721,7 @@
         "Name": "Dan Luedtke",
         "NIC Handle": "DAN1337-RIPE",
         "ASN": [
-            "57821"
+            57821
         ],
         "Organisation": [
             {
@@ -735,9 +735,9 @@
         "Name": "Daniel Czerwonk",
         "NIC Handle": "DC16585-RIPEDAN213-RIPE",
         "ASN": [
-            "48821",
-            "202739",
-            "206356"
+            48821,
+            202739,
+            206356
         ],
         "Organisation": [
             {
@@ -755,7 +755,7 @@
         "Name": "Daniel Maresch",
         "NIC Handle": "DM2147-RIPE",
         "ASN": [
-            "33891"
+            33891
         ],
         "Organisation": [
             {
@@ -769,8 +769,8 @@
         "Name": "David Croft",
         "NIC Handle": "DC5052-RIPE",
         "ASN": [
-            "32346",
-            "42579"
+            32346,
+            42579
         ],
         "Organisation": [
             {
@@ -784,7 +784,7 @@
         "Name": "Peter Fabeck",
         "NIC Handle": "PF3862-RIPE",
         "ASN": [
-            "13237"
+            13237
         ],
         "Organisation": [
             {
@@ -814,8 +814,8 @@
         "Name": "Andreas John",
         "NIC Handle": "JOHN-RIPE",
         "ASN": [
-            "20755",
-            "8804"
+            20755,
+            8804
         ],
         "Organisation": [
             {
@@ -829,7 +829,7 @@
         "Name": "Dirk Meyer",
         "NIC Handle": "DM996-RIPE",
         "ASN": [
-            "20810"
+            20810
         ],
         "Organisation": [
             {
@@ -843,7 +843,7 @@
         "Name": "Oliver Dreier",
         "NIC Handle": "OD55-RIPE",
         "ASN": [
-            "15763"
+            15763
         ],
         "Organisation": [
             {
@@ -857,7 +857,7 @@
         "Name": "Dennis Kögel",
         "NIC Handle": "AMF-RIPE",
         "ASN": [
-            "20621"
+            20621
         ],
         "Organisation": [
             {
@@ -871,7 +871,7 @@
         "Name": "Gerald Krause",
         "NIC Handle": "GKR-RIPE",
         "ASN": [
-            "20783"
+            20783
         ],
         "Organisation": [
             {
@@ -885,7 +885,7 @@
         "Name": "Sascha E. Pollok",
         "NIC Handle": "SEP7-RIPE",
         "ASN": [
-            "12731"
+            12731
         ],
         "Organisation": [
             {
@@ -899,8 +899,8 @@
         "Name": "Lutz Donnerhacke",
         "NIC Handle": "LD26",
         "ASN": [
-            "15725",
-            "199284"
+            15725,
+            199284
         ],
         "Organisation": [
             {
@@ -922,7 +922,7 @@
         "Name": "Daniel Rösen",
         "NIC Handle": "CLUE-RIPEDARO-RIPE",
         "ASN": [
-            "5401"
+            5401
         ],
         "Organisation": [
             {
@@ -947,8 +947,8 @@
         "Name": "Andreas Schwarz",
         "NIC Handle": "ASZ-RIPE",
         "ASN": [
-            "13184",
-            "6805"
+            13184,
+            6805
         ],
         "Organisation": []
     },
@@ -964,7 +964,7 @@
         "Name": "Daniel Spierling",
         "NIC Handle": "",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -978,9 +978,9 @@
         "Name": "Dennis Thomas",
         "NIC Handle": "DTH",
         "ASN": [
-            "16509",
-            "38895",
-            "31010"
+            16509,
+            38895,
+            31010
         ],
         "Organisation": [
             {
@@ -994,7 +994,7 @@
         "Name": "Jürgen Unger",
         "NIC Handle": "JU1-RIPE",
         "ASN": [
-            "29472"
+            29472
         ],
         "Organisation": [
             {
@@ -1008,7 +1008,7 @@
         "Name": "Yvonne Hahn",
         "NIC Handle": "YH6695-RIPE",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -1022,7 +1022,7 @@
         "Name": "Alexander Koch",
         "NIC Handle": "AKO4-RIPE",
         "ASN": [
-            "1299"
+            1299
         ],
         "Organisation": [
             {
@@ -1036,9 +1036,9 @@
         "Name": "Dominik Bay",
         "NIC Handle": "DB4242-RIPE",
         "ASN": [
-            "702",
-            "35244",
-            "39138"
+            702,
+            35244,
+            39138
         ],
         "Organisation": [
             {
@@ -1060,7 +1060,7 @@
         "Name": "Gregor Radtke",
         "NIC Handle": "",
         "ASN": [
-            "51176"
+            51176
         ],
         "Organisation": [
             {
@@ -1074,7 +1074,7 @@
         "Name": "Peter Maisel",
         "NIC Handle": "PM1",
         "ASN": [
-            "16316"
+            16316
         ],
         "Organisation": [
             {
@@ -1088,7 +1088,7 @@
         "Name": "Edwin Punt",
         "NIC Handle": "EP",
         "ASN": [
-            "46489"
+            46489
         ],
         "Organisation": [
             {
@@ -1102,7 +1102,7 @@
         "Name": "Falk Brockerhoff",
         "NIC Handle": "FB1992-RIPE",
         "ASN": [
-            "35548"
+            35548
         ],
         "Organisation": [
             {
@@ -1116,7 +1116,7 @@
         "Name": "Falk Stern",
         "NIC Handle": "FS12874-RIPE",
         "ASN": [
-            "204127"
+            204127
         ],
         "Organisation": []
     },
@@ -1125,9 +1125,9 @@
         "Name": "Immo Wehrenberg",
         "NIC Handle": "FAUL-RIPEIW4242-RIPE",
         "ASN": [
-            "31371",
-            "35675",
-            "39138"
+            31371,
+            35675,
+            39138
         ],
         "Organisation": [
             {
@@ -1145,7 +1145,7 @@
         "Name": "Felix Schueren",
         "NIC Handle": "",
         "ASN": [
-            "20773"
+            20773
         ],
         "Organisation": [
             {
@@ -1159,7 +1159,7 @@
         "Name": "Florian Sippel",
         "NIC Handle": "FLO-RIPE",
         "ASN": [
-            "12337"
+            12337
         ],
         "Organisation": [
             {
@@ -1173,7 +1173,7 @@
         "Name": "Ralf Weber",
         "NIC Handle": "",
         "ASN": [
-            "8220"
+            8220
         ],
         "Organisation": [
             {
@@ -1199,7 +1199,7 @@
         "Name": "Florian Lenzen",
         "NIC Handle": "",
         "ASN": [
-            "47215"
+            47215
         ],
         "Organisation": [
             {
@@ -1220,9 +1220,9 @@
         "Name": "Frederik Kriewitz",
         "NIC Handle": "NX123",
         "ASN": [
-            "62023",
-            "197711",
-            "200519"
+            62023,
+            197711,
+            200519
         ],
         "Organisation": [
             {
@@ -1236,7 +1236,7 @@
         "Name": "Oliver Haake",
         "NIC Handle": "OHPS-RIPE",
         "ASN": [
-            "13237"
+            13237
         ],
         "Organisation": [
             {
@@ -1250,7 +1250,7 @@
         "Name": "Dr. Jens Harbott",
         "NIC Handle": "",
         "ASN": [
-            "60664"
+            60664
         ],
         "Organisation": [
             {
@@ -1264,8 +1264,8 @@
         "Name": "Florian Täger",
         "NIC Handle": "FT-RIPE",
         "ASN": [
-            "3356",
-            "35684"
+            3356,
+            35684
         ],
         "Organisation": [
             {
@@ -1279,8 +1279,8 @@
         "Name": "Markus Weber",
         "NIC Handle": "FVD5-RIPE",
         "ASN": [
-            "286",
-            "517"
+            286,
+            517
         ],
         "Organisation": [
             {
@@ -1294,7 +1294,7 @@
         "Name": "Gerald Nowitzky",
         "NIC Handle": "GN2536-RIPE",
         "ASN": [
-            "48484"
+            48484
         ],
         "Organisation": [
             {
@@ -1315,7 +1315,7 @@
         "Name": "Wolfgang Tremmel",
         "NIC Handle": "WT5-RIPE",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -1329,7 +1329,7 @@
         "Name": "Gerhard Scholz",
         "NIC Handle": "GERD1-RIPE",
         "ASN": [
-            "9145"
+            9145
         ],
         "Organisation": [
             {
@@ -1343,7 +1343,7 @@
         "Name": "Martin Weigelt",
         "NIC Handle": "",
         "ASN": [
-            "58243"
+            58243
         ],
         "Organisation": [
             {
@@ -1357,8 +1357,8 @@
         "Name": "Christian Seitz",
         "NIC Handle": "CHSE-RIPECHRS-RIPE",
         "ASN": [
-            "6724",
-            "29670"
+            6724,
+            29670
         ],
         "Organisation": [
             {
@@ -1376,7 +1376,7 @@
         "Name": "Hans-Christoph Deeken",
         "NIC Handle": "HCD20-RIPE",
         "ASN": [
-            "8878"
+            8878
         ],
         "Organisation": [
             {
@@ -1390,7 +1390,7 @@
         "Name": "Daniel Odoj",
         "NIC Handle": "GFDO-RIPE",
         "ASN": [
-            "59407"
+            59407
         ],
         "Organisation": [
             {
@@ -1404,7 +1404,7 @@
         "Name": "Sebastian Wiesinger",
         "NIC Handle": "GPF-RIPE",
         "ASN": [
-            "12337"
+            12337
         ],
         "Organisation": [
             {
@@ -1418,7 +1418,7 @@
         "Name": "Martin Mersberger",
         "NIC Handle": "MM22282-RIPEMAME-RIPE",
         "ASN": [
-            "8489"
+            8489
         ],
         "Organisation": [
             {
@@ -1432,7 +1432,7 @@
         "Name": "Michael Riexinger",
         "NIC Handle": "RIEX-RIPE",
         "ASN": [
-            "8196"
+            8196
         ],
         "Organisation": [
             {
@@ -1446,7 +1446,7 @@
         "Name": "Philip Gulati",
         "NIC Handle": "PG2978-RIPE",
         "ASN": [
-            "12731"
+            12731
         ],
         "Organisation": [
             {
@@ -1467,7 +1467,7 @@
         "Name": "Roman Schliessmeyer",
         "NIC Handle": "RS8888-RIPE",
         "ASN": [
-            "196763"
+            196763
         ],
         "Organisation": [
             {
@@ -1485,7 +1485,7 @@
         "Name": "Hendrik Kahmann",
         "NIC Handle": "",
         "ASN": [
-            "9145"
+            9145
         ],
         "Organisation": [
             {
@@ -1499,7 +1499,7 @@
         "Name": "Martin Weinelt",
         "NIC Handle": "WT1191-RIPE",
         "ASN": [
-            "6766"
+            6766
         ],
         "Organisation": [
             {
@@ -1513,7 +1513,7 @@
         "Name": "Roman Schliessmeyer",
         "NIC Handle": "RS8888-RIPE",
         "ASN": [
-            "196763"
+            196763
         ],
         "Organisation": [
             {
@@ -1531,7 +1531,7 @@
         "Name": "Malte von dem Hagen",
         "NIC Handle": "HONK",
         "ASN": [
-            "20773"
+            20773
         ],
         "Organisation": [
             {
@@ -1545,7 +1545,7 @@
         "Name": "Jürgen Gotteswinter",
         "NIC Handle": "JG2487-RIPE",
         "ASN": [
-            "15456"
+            15456
         ],
         "Organisation": [
             {
@@ -1559,7 +1559,7 @@
         "Name": "Johannes Treml",
         "NIC Handle": "JT405-RIPE",
         "ASN": [
-            "25279"
+            25279
         ],
         "Organisation": [
             {
@@ -1580,7 +1580,7 @@
         "Name": "Kristian Köhntopp",
         "NIC Handle": "",
         "ASN": [
-            "43996"
+            43996
         ],
         "Organisation": [
             {
@@ -1601,7 +1601,7 @@
         "Name": "Tobias Heister",
         "NIC Handle": "TH5876-RIPE",
         "ASN": [
-            "203520"
+            203520
         ],
         "Organisation": [
             {
@@ -1615,7 +1615,7 @@
         "Name": "Jan Marquardt",
         "NIC Handle": "JM13768-RIPE",
         "ASN": [
-            "8893"
+            8893
         ],
         "Organisation": [
             {
@@ -1629,7 +1629,7 @@
         "Name": "Robert Klostermann",
         "NIC Handle": "",
         "ASN": [
-            "20694"
+            20694
         ],
         "Organisation": [
             {
@@ -1643,7 +1643,7 @@
         "Name": "Frederic Jaeckel",
         "NIC Handle": "",
         "ASN": [
-            "36459"
+            36459
         ],
         "Organisation": [
             {
@@ -1657,7 +1657,7 @@
         "Name": "Tobias Rosenstock",
         "NIC Handle": "TRO-RIPETOBI42-RIPE",
         "ASN": [
-            "50324"
+            50324
         ],
         "Organisation": [
             {
@@ -1683,7 +1683,7 @@
         "Name": "Jens Remme",
         "NIC Handle": "JR1428-RIPE",
         "ASN": [
-            "20899"
+            20899
         ],
         "Organisation": [
             {
@@ -1697,7 +1697,7 @@
         "Name": "Christian Meutes",
         "NIC Handle": "JESK-RIPE",
         "ASN": [
-            "50061"
+            50061
         ],
         "Organisation": [
             {
@@ -1711,7 +1711,7 @@
         "Name": "Johannes Mattes",
         "NIC Handle": "JM1448-RIPE",
         "ASN": [
-            "12731"
+            12731
         ],
         "Organisation": [
             {
@@ -1725,7 +1725,7 @@
         "Name": "Job Snijders",
         "NIC Handle": "JWJS1-RIPE",
         "ASN": [
-            "2914"
+            2914
         ],
         "Organisation": [
             {
@@ -1739,7 +1739,7 @@
         "Name": "Jan-Philipp Benecke",
         "NIC Handle": "JB16811-RIPE",
         "ASN": [
-            "206479"
+            206479
         ],
         "Organisation": [
             {
@@ -1757,9 +1757,9 @@
         "Name": "Kay Rechthien",
         "NIC Handle": "XTC23-RIPE",
         "ASN": [
-            "13020",
-            "20940",
-            "50472"
+            13020,
+            20940,
+            50472
         ],
         "Organisation": [
             {
@@ -1781,7 +1781,7 @@
         "Name": "Fabian Lenker",
         "NIC Handle": "FL3390-RIPE",
         "ASN": [
-            "13247"
+            13247
         ],
         "Organisation": [
             {
@@ -1795,7 +1795,7 @@
         "Name": "Sascha Growe",
         "NIC Handle": "SG13291-RIPE",
         "ASN": [
-            "61157"
+            61157
         ],
         "Organisation": [
             {
@@ -1809,7 +1809,7 @@
         "Name": "Elmar K. Bins",
         "NIC Handle": "ELMI-RIPE",
         "ASN": [
-            "42856"
+            42856
         ],
         "Organisation": []
     },
@@ -1818,7 +1818,7 @@
         "Name": "Thomas Kühling",
         "NIC Handle": "TK2325-RIPE",
         "ASN": [
-            "9145"
+            9145
         ],
         "Organisation": [
             {
@@ -1832,7 +1832,7 @@
         "Name": "Patrick Rother",
         "NIC Handle": "KRD2",
         "ASN": [
-            "5430"
+            5430
         ],
         "Organisation": [
             {
@@ -1846,7 +1846,7 @@
         "Name": "Steffen Weinreich",
         "NIC Handle": "SW4568-RIPE",
         "ASN": [
-            "200567"
+            200567
         ],
         "Organisation": [
             {
@@ -1860,7 +1860,7 @@
         "Name": "Ralf Ertzinger",
         "NIC Handle": "RE2256-RIPE",
         "ASN": [
-            "43996"
+            43996
         ],
         "Organisation": [
             {
@@ -1874,7 +1874,7 @@
         "Name": "Lars Bussmann",
         "NIC Handle": "",
         "ASN": [
-            "201701"
+            201701
         ],
         "Organisation": [
             {
@@ -1888,7 +1888,7 @@
         "Name": "Andreas Worbs",
         "NIC Handle": "ANW5-RIPE",
         "ASN": [
-            "8893"
+            8893
         ],
         "Organisation": [
             {
@@ -1902,7 +1902,7 @@
         "Name": "Markus Frosch",
         "NIC Handle": "",
         "ASN": [
-            "61303"
+            61303
         ],
         "Organisation": [
             {
@@ -1916,7 +1916,7 @@
         "Name": "Leopold Schabel",
         "NIC Handle": "",
         "ASN": [
-            "199610"
+            199610
         ],
         "Organisation": []
     },
@@ -1925,8 +1925,8 @@
         "Name": "Leon Weber",
         "NIC Handle": "LWE42-RIPE",
         "ASN": [
-            "9033",
-            "13020"
+            9033,
+            13020
         ],
         "Organisation": [
             {
@@ -1944,7 +1944,7 @@
         "Name": "Lorenz Barth",
         "NIC Handle": "LB1811-RIPE",
         "ASN": [
-            "50189"
+            50189
         ],
         "Organisation": [
             {
@@ -1958,7 +1958,7 @@
         "Name": "Jens Ott",
         "NIC Handle": "",
         "ASN": [
-            "48200"
+            48200
         ],
         "Organisation": []
     },
@@ -1967,7 +1967,7 @@
         "Name": "Lucian Cioltan",
         "NIC Handle": "",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -1981,7 +1981,7 @@
         "Name": "Michael Hufnagl",
         "NIC Handle": "MH3220-RIPE",
         "ASN": [
-            "8741"
+            8741
         ],
         "Organisation": [
             {
@@ -1995,8 +1995,8 @@
         "Name": "Lukas Gerhold",
         "NIC Handle": "LG128-RIPE",
         "ASN": [
-            "8365",
-            "35548"
+            8365,
+            35548
         ],
         "Organisation": [
             {
@@ -2014,7 +2014,7 @@
         "Name": "Robert Blechinger",
         "NIC Handle": "LUKE-RIPE",
         "ASN": [
-            "5539"
+            5539
         ],
         "Organisation": [
             {
@@ -2028,7 +2028,7 @@
         "Name": "Marcus Stögbauer",
         "NIC Handle": "LYS-RIPE",
         "ASN": [
-            "9033"
+            9033
         ],
         "Organisation": [
             {
@@ -2042,9 +2042,9 @@
         "Name": "Peter Lieven",
         "NIC Handle": "ELCH-RIPE",
         "ASN": [
-            "9033",
-            "8648",
-            "25074"
+            9033,
+            8648,
+            25074
         ],
         "Organisation": [
             {
@@ -2065,7 +2065,7 @@
         "Name": "Mathias Handsche",
         "NIC Handle": "",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -2079,7 +2079,7 @@
         "Name": "Marc Langer",
         "NIC Handle": "MLA-RIPE",
         "ASN": [
-            "15747"
+            15747
         ],
         "Organisation": [
             {
@@ -2093,8 +2093,8 @@
         "Name": "Martin List-Petersen",
         "NIC Handle": "ML6710-RIPEMLP91-RIPE",
         "ASN": [
-            "42227",
-            "47490"
+            42227,
+            47490
         ],
         "Organisation": [
             {
@@ -2112,7 +2112,7 @@
         "Name": "Robert Finze",
         "NIC Handle": "",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -2126,9 +2126,9 @@
         "Name": "Sascha Lenz",
         "NIC Handle": "SL277-RIPESLZ-RIPE",
         "ASN": [
-            "12657",
-            "12817",
-            "29317"
+            12657,
+            12817,
+            29317
         ],
         "Organisation": [
             {
@@ -2150,7 +2150,7 @@
         "Name": "Matthias Behn",
         "NIC Handle": "",
         "ASN": [
-            "9211"
+            9211
         ],
         "Organisation": [
             {
@@ -2164,8 +2164,8 @@
         "Name": "Rico Glöckner",
         "NIC Handle": "RICO-RIPE",
         "ASN": [
-            "33988",
-            "21083"
+            33988,
+            21083
         ],
         "Organisation": [
             {
@@ -2183,7 +2183,7 @@
         "Name": "Soenke Mumm",
         "NIC Handle": "SOM-RIPE",
         "ASN": [
-            "4589"
+            4589
         ],
         "Organisation": [
             {
@@ -2197,7 +2197,7 @@
         "Name": "Roman Hochuli",
         "NIC Handle": "RHO3-RIPE",
         "ASN": [
-            "31424"
+            31424
         ],
         "Organisation": [
             {
@@ -2211,7 +2211,7 @@
         "Name": "Michael Ankelin",
         "NIC Handle": "MA1225-RIPE",
         "ASN": [
-            "13054"
+            13054
         ],
         "Organisation": [
             {
@@ -2244,7 +2244,7 @@
         "Name": "Moritz Augsburger",
         "NIC Handle": "MOAU-RIPE",
         "ASN": [
-            "41698"
+            41698
         ],
         "Organisation": [
             {
@@ -2258,7 +2258,7 @@
         "Name": "Mohammad Moghaddas",
         "NIC Handle": "MM34938",
         "ASN": [
-            "47823"
+            47823
         ],
         "Organisation": []
     },
@@ -2267,7 +2267,7 @@
         "Name": "Moritz Frenzel",
         "NIC Handle": "MOMO23-RIPE",
         "ASN": [
-            "48918"
+            48918
         ],
         "Organisation": [
             {
@@ -2281,7 +2281,7 @@
         "Name": "Dirk Willbrandt",
         "NIC Handle": "",
         "ASN": [
-            "24905"
+            24905
         ],
         "Organisation": [
             {
@@ -2295,7 +2295,7 @@
         "Name": "Matthias Ordner",
         "NIC Handle": "MORD-RIPE",
         "ASN": [
-            "12337"
+            12337
         ],
         "Organisation": [
             {
@@ -2309,7 +2309,7 @@
         "Name": "Simon Frerichs",
         "NIC Handle": "SFX23-RIPE",
         "ASN": [
-            "50629"
+            50629
         ],
         "Organisation": [
             {
@@ -2323,7 +2323,7 @@
         "Name": "Moritz Kaspar Rudert",
         "NIC Handle": "MKR26-RIPE",
         "ASN": [
-            "49855"
+            49855
         ],
         "Organisation": [
             {
@@ -2337,7 +2337,7 @@
         "Name": "Bjørn Bürger",
         "NIC Handle": "BJOE1-RIPE",
         "ASN": [
-            "201824"
+            201824
         ],
         "Organisation": [
             {
@@ -2367,8 +2367,8 @@
         "Name": "Thomas Eichhorn",
         "NIC Handle": "TE999-RIPE",
         "ASN": [
-            "43911",
-            "25291"
+            43911,
+            25291
         ],
         "Organisation": [
             {
@@ -2382,8 +2382,8 @@
         "Name": "Jan Gilla",
         "NIC Handle": "",
         "ASN": [
-            "209844",
-            "205614"
+            209844,
+            205614
         ],
         "Organisation": [
             {
@@ -2401,7 +2401,7 @@
         "Name": "Michael Stevens",
         "NIC Handle": "MST",
         "ASN": [
-            "24961"
+            24961
         ],
         "Organisation": [
             {
@@ -2422,7 +2422,7 @@
         "Name": "Nikolas Brodermann",
         "NIC Handle": "",
         "ASN": [
-            "6695"
+            6695
         ],
         "Organisation": [
             {
@@ -2436,7 +2436,7 @@
         "Name": "Martin Neitzel",
         "NIC Handle": "MN40-RIPE",
         "ASN": [
-            "24956"
+            24956
         ],
         "Organisation": [
             {
@@ -2450,7 +2450,7 @@
         "Name": "Joey Julian König",
         "NIC Handle": "JJK57-RIPE",
         "ASN": [
-            "49697"
+            49697
         ],
         "Organisation": [
             {
@@ -2464,8 +2464,8 @@
         "Name": "Stefan Neufeind",
         "NIC Handle": "NEUF-RIPE",
         "ASN": [
-            "34225",
-            "41692"
+            34225,
+            41692
         ],
         "Organisation": [
             {
@@ -2483,7 +2483,7 @@
         "Name": "Sebastian Neuner",
         "NIC Handle": "NEUN9-RIPE",
         "ASN": [
-            "553"
+            553
         ],
         "Organisation": [
             {
@@ -2497,9 +2497,9 @@
         "Name": "Michael Horn",
         "NIC Handle": "HORN-RIPEMH250-RIPE",
         "ASN": [
-            "248",
-            "249",
-            "250"
+            248,
+            249,
+            250
         ],
         "Organisation": [
             {
@@ -2533,8 +2533,8 @@
         "Name": "Nick Vollmar",
         "NIC Handle": "VOLL-RIPE",
         "ASN": [
-            "31333",
-            "33956"
+            31333,
+            33956
         ],
         "Organisation": [
             {
@@ -2548,8 +2548,8 @@
         "Name": "Nicola von Thadden",
         "NIC Handle": "",
         "ASN": [
-            "15945",
-            "21473"
+            15945,
+            21473
         ],
         "Organisation": [
             {
@@ -2567,7 +2567,7 @@
         "Name": "Nils Dohse",
         "NIC Handle": "NIDO-RIPE",
         "ASN": [
-            "25415"
+            25415
         ],
         "Organisation": [
             {
@@ -2581,7 +2581,7 @@
         "Name": "Christian Pössinger",
         "NIC Handle": "CP2379-RIPE",
         "ASN": [
-            "12817"
+            12817
         ],
         "Organisation": [
             {
@@ -2595,7 +2595,7 @@
         "Name": "Frank Bergknecht",
         "NIC Handle": "FB8-RIPE",
         "ASN": [
-            "12579"
+            12579
         ],
         "Organisation": [
             {
@@ -2609,7 +2609,7 @@
         "Name": "Olaf Baumert",
         "NIC Handle": "OLBA-RIPE",
         "ASN": [
-            "8881"
+            8881
         ],
         "Organisation": []
     },
@@ -2618,7 +2618,7 @@
         "Name": "Oliver Sachs",
         "NIC Handle": "OS4038-RIPE",
         "ASN": [
-            "62177"
+            62177
         ],
         "Organisation": [
             {
@@ -2632,7 +2632,7 @@
         "Name": "Oliver Bartels",
         "NIC Handle": "OB6-RIPE",
         "ASN": [
-            "15434"
+            15434
         ],
         "Organisation": [
             {
@@ -2646,7 +2646,7 @@
         "Name": "Michael Renzmann",
         "NIC Handle": "",
         "ASN": [
-            "15844"
+            15844
         ],
         "Organisation": [
             {
@@ -2660,7 +2660,7 @@
         "Name": "Lars Stenzel",
         "NIC Handle": "",
         "ASN": [
-            "20676"
+            20676
         ],
         "Organisation": [
             {
@@ -2674,7 +2674,7 @@
         "Name": "Ruben Herold",
         "NIC Handle": "RH6896-rIPE",
         "ASN": [
-            "62086"
+            62086
         ],
         "Organisation": []
     },
@@ -2683,8 +2683,8 @@
         "Name": "Philip Berndroth",
         "NIC Handle": "PB19268-RIPE",
         "ASN": [
-            "201701",
-            "199714"
+            201701,
+            199714
         ],
         "Organisation": [
             {
@@ -2722,7 +2722,7 @@
         "Name": "Philipp Schmidt",
         "NIC Handle": "PHIL-RIPE",
         "ASN": [
-            "29670"
+            29670
         ],
         "Organisation": [
             {
@@ -2736,7 +2736,7 @@
         "Name": "Andreas Kist",
         "NIC Handle": "",
         "ASN": [
-            "9183"
+            9183
         ],
         "Organisation": [
             {
@@ -2757,8 +2757,8 @@
         "Name": "Erik Wenzel",
         "NIC Handle": "EW12-RIPE",
         "ASN": [
-            "6724",
-            "15506"
+            6724,
+            15506
         ],
         "Organisation": [
             {
@@ -2772,7 +2772,7 @@
         "Name": "Inga Mewes",
         "NIC Handle": "IM9-RIPE",
         "ASN": [
-            "6659"
+            6659
         ],
         "Organisation": [
             {
@@ -2786,7 +2786,7 @@
         "Name": "Dieter Hirt",
         "NIC Handle": "DH1053-RIPE",
         "ASN": [
-            "12399"
+            12399
         ],
         "Organisation": [
             {
@@ -2807,8 +2807,8 @@
         "Name": "Jan-Philipp Warmers",
         "NIC Handle": "JW940-RIPE",
         "ASN": [
-            "31371",
-            "47556"
+            31371,
+            47556
         ],
         "Organisation": [
             {
@@ -2840,7 +2840,7 @@
         "Name": "Robyn Bachofer",
         "NIC Handle": "RB12621-RIPE",
         "ASN": [
-            "20677"
+            20677
         ],
         "Organisation": [
             {
@@ -2861,7 +2861,7 @@
         "Name": "Sven Grewe",
         "NIC Handle": "SG11315-RIPE",
         "ASN": [
-            "20694"
+            20694
         ],
         "Organisation": [
             {
@@ -2875,8 +2875,8 @@
         "Name": "Hannes Rist",
         "NIC Handle": "",
         "ASN": [
-            "48918",
-            "59745"
+            48918,
+            59745
         ],
         "Organisation": [
             {
@@ -2910,7 +2910,7 @@
         "Name": "Frank Altpeter",
         "NIC Handle": "FA-RIPE",
         "ASN": [
-            "13135"
+            13135
         ],
         "Organisation": [
             {
@@ -2924,10 +2924,10 @@
         "Name": "Michael Hayler",
         "NIC Handle": "MH16422-RIPE, MH8562-RIPE",
         "ASN": [
-            "12857",
-            "28918",
-            "205867",
-            "49097"
+            12857,
+            28918,
+            205867,
+            49097
         ],
         "Organisation": [
             {
@@ -2941,7 +2941,7 @@
         "Name": "Fredy Künzler",
         "NIC Handle": "FKU-RIPE",
         "ASN": [
-            "13030"
+            13030
         ],
         "Organisation": [
             {
@@ -2955,7 +2955,7 @@
         "Name": "Rudolph Bott",
         "NIC Handle": "",
         "ASN": [
-            "15594"
+            15594
         ],
         "Organisation": [
             {
@@ -2969,7 +2969,7 @@
         "Name": "Rene Caspari",
         "NIC Handle": "RC3481-RIPE",
         "ASN": [
-            "35258"
+            35258
         ],
         "Organisation": [
             {
@@ -2983,7 +2983,7 @@
         "Name": "Sven Kalkbrenner",
         "NIC Handle": "SKA42-RIPE",
         "ASN": [
-            "24679"
+            24679
         ],
         "Organisation": [
             {
@@ -2997,7 +2997,7 @@
         "Name": "Richard Hartmann",
         "NIC Handle": "RMH23-RIPE",
         "ASN": [
-            "5539"
+            5539
         ],
         "Organisation": [
             {
@@ -3011,7 +3011,7 @@
         "Name": "Alexander Kinscher",
         "NIC Handle": "AKIN-RIPE",
         "ASN": [
-            "1668"
+            1668
         ],
         "Organisation": [
             {
@@ -3056,8 +3056,8 @@
         "Name": "Robin Kara",
         "NIC Handle": "ROBI-RIPE",
         "ASN": [
-            "33988",
-            "21083"
+            33988,
+            21083
         ],
         "Organisation": [
             {
@@ -3082,7 +3082,7 @@
         "Name": "Robert Remenyi",
         "NIC Handle": "RR4510-RIPE",
         "ASN": [
-            "13045"
+            13045
         ],
         "Organisation": [
             {
@@ -3096,7 +3096,7 @@
         "Name": "Ronny Boesger",
         "NIC Handle": "ROBO-RIPE",
         "ASN": [
-            "35366"
+            35366
         ],
         "Organisation": [
             {
@@ -3118,7 +3118,7 @@
         "Name": "Sven Rohweder",
         "NIC Handle": "SR4711-RIPE",
         "ASN": [
-            "8223"
+            8223
         ],
         "Organisation": [
             {
@@ -3132,8 +3132,8 @@
         "Name": "Sascha Bielski",
         "NIC Handle": "SBI",
         "ASN": [
-            "34549",
-            "51058"
+            34549,
+            51058
         ],
         "Organisation": [
             {
@@ -3151,7 +3151,7 @@
         "Name": "Jan Czmok",
         "NIC Handle": "JC226-RIPE",
         "ASN": [
-            "9033"
+            9033
         ],
         "Organisation": []
     },
@@ -3167,7 +3167,7 @@
         "Name": "Marco Eulenfeld",
         "NIC Handle": "",
         "ASN": [
-            "16509"
+            16509
         ],
         "Organisation": [
             {
@@ -3181,8 +3181,8 @@
         "Name": "Stefan Hedenig",
         "NIC Handle": "SH13964-RIPE",
         "ASN": [
-            "47147",
-            "42473"
+            47147,
+            42473
         ],
         "Organisation": [
             {
@@ -3196,8 +3196,8 @@
         "Name": "Torsten-Sven Urbas",
         "NIC Handle": "TUPS-RIPE",
         "ASN": [
-            "8972",
-            "34088"
+            8972,
+            34088
         ],
         "Organisation": [
             {
@@ -3211,7 +3211,7 @@
         "Name": "Sebastian Laubscher",
         "NIC Handle": "SHL4-RIPE",
         "ASN": [
-            "8560"
+            8560
         ],
         "Organisation": [
             {
@@ -3225,7 +3225,7 @@
         "Name": "Simo Radenovic",
         "NIC Handle": "",
         "ASN": [
-            "20940"
+            20940
         ],
         "Organisation": [
             {
@@ -3239,8 +3239,8 @@
         "Name": "Stefan Jakob",
         "NIC Handle": "SJ8763-RIPE",
         "ASN": [
-            "8763",
-            "31529"
+            8763,
+            31529
         ],
         "Organisation": [
             {
@@ -3254,8 +3254,8 @@
         "Name": "Magnus Fruehling",
         "NIC Handle": "MF16389-RIPE",
         "ASN": [
-            "58145",
-            "64475"
+            58145,
+            64475
         ],
         "Organisation": [
             {
@@ -3269,7 +3269,7 @@
         "Name": "Nicolaj Kamensek",
         "NIC Handle": "NKA-RIPE",
         "ASN": [
-            "31400"
+            31400
         ],
         "Organisation": [
             {
@@ -3283,7 +3283,7 @@
         "Name": "Peter Heidenreich",
         "NIC Handle": "PHSG",
         "ASN": [
-            "51483"
+            51483
         ],
         "Organisation": [
             {
@@ -3297,9 +3297,9 @@
         "Name": "Jens Heisterkamp",
         "NIC Handle": "HJ-RIPE",
         "ASN": [
-            "15598",
-            "24899",
-            "24900"
+            15598,
+            24899,
+            24900
         ],
         "Organisation": [
             {
@@ -3317,7 +3317,7 @@
         "Name": "Jan Dirnberger",
         "NIC Handle": "",
         "ASN": [
-            "12337"
+            12337
         ],
         "Organisation": [
             {
@@ -3331,7 +3331,7 @@
         "Name": "Daniel Berg",
         "NIC Handle": "",
         "ASN": [
-            "33687"
+            33687
         ],
         "Organisation": []
     },
@@ -3340,8 +3340,8 @@
         "Name": "Maurice Funke",
         "NIC Handle": "MAFU-RIPE",
         "ASN": [
-            "25486",
-            "34764"
+            25486,
+            34764
         ],
         "Organisation": [
             {
@@ -3355,8 +3355,8 @@
         "Name": "Jan Wagner",
         "NIC Handle": "JW8767-RIPE",
         "ASN": [
-            "16316",
-            "33896"
+            16316,
+            33896
         ],
         "Organisation": [
             {
@@ -3386,7 +3386,7 @@
         "Name": "Stefan Schellenberg",
         "NIC Handle": "STS",
         "ASN": [
-            "8495"
+            8495
         ],
         "Organisation": [
             {
@@ -3400,7 +3400,7 @@
         "Name": "Frank Steinborn",
         "NIC Handle": "FS4020-RIPE",
         "ASN": [
-            "15594"
+            15594
         ],
         "Organisation": [
             {
@@ -3418,7 +3418,7 @@
         "Name": "Stephan Fischer",
         "NIC Handle": "SF3464-RIPE",
         "ASN": [
-            "12429"
+            12429
         ],
         "Organisation": [
             {
@@ -3432,7 +3432,7 @@
         "Name": "Steven Glogger",
         "NIC Handle": "SG7777-RIPE",
         "ASN": [
-            "12429"
+            12429
         ],
         "Organisation": [
             {
@@ -3446,7 +3446,7 @@
         "Name": "Stefan Plug",
         "NIC Handle": "",
         "ASN": [
-            "9033"
+            9033
         ],
         "Organisation": [
             {
@@ -3460,7 +3460,7 @@
         "Name": "Franz Bettag",
         "NIC Handle": "FB67-RIPE",
         "ASN": [
-            "34868"
+            34868
         ],
         "Organisation": [
             {
@@ -3486,8 +3486,8 @@
         "Name": "Stefan Wahl",
         "NIC Handle": "",
         "ASN": [
-            "208262",
-            "9033"
+            208262,
+            9033
         ],
         "Organisation": [
             {
@@ -3521,7 +3521,7 @@
         "Name": "Christian Korn",
         "NIC Handle": "CHK2342-RIPE",
         "ASN": [
-            "60955"
+            60955
         ],
         "Organisation": [
             {
@@ -3535,7 +3535,7 @@
         "Name": "Ralph J. Mayer",
         "NIC Handle": "",
         "ASN": [
-            "AS33848"
+            33848
         ],
         "Organisation": [
             {
@@ -3549,9 +3549,9 @@
         "Name": "Oliver Herms",
         "NIC Handle": "TAKT1-RIPE",
         "ASN": [
-            "15169",
-            "201701",
-            "199714"
+            15169,
+            201701,
+            199714
         ],
         "Organisation": [
             {
@@ -3569,7 +3569,7 @@
         "Name": "Norbert Surowy",
         "NIC Handle": "NOBY-RIPE",
         "ASN": [
-            "9145"
+            9145
         ],
         "Organisation": [
             {
@@ -3583,7 +3583,7 @@
         "Name": "Michael Neumann",
         "NIC Handle": "MN5",
         "ASN": [
-            "38955"
+            38955
         ],
         "Organisation": [
             {
@@ -3597,7 +3597,7 @@
         "Name": "Matthias Fetzer",
         "NIC Handle": "MF17425-RIPE",
         "ASN": [
-            "205365"
+            205365
         ],
         "Organisation": []
     },
@@ -3606,7 +3606,7 @@
         "Name": "Thomas Voigt",
         "NIC Handle": "TV1427-RIPE",
         "ASN": [
-            "196714"
+            196714
         ],
         "Organisation": [
             {
@@ -3620,8 +3620,8 @@
         "Name": "Thomas Drewermann",
         "NIC Handle": "TD2676-RIPEtdre",
         "ASN": [
-            "201701",
-            "197965"
+            201701,
+            197965
         ],
         "Organisation": [
             {
@@ -3639,8 +3639,8 @@
         "Name": "Torsten Blum",
         "NIC Handle": "TBAK-RIPE",
         "ASN": [
-            "20940",
-            "32787"
+            20940,
+            32787
         ],
         "Organisation": [
             {
@@ -3654,7 +3654,7 @@
         "Name": "Tim Kleefass",
         "NIC Handle": "",
         "ASN": [
-            "51324"
+            51324
         ],
         "Organisation": [
             {
@@ -3668,7 +3668,7 @@
         "Name": "Tom Spier",
         "NIC Handle": "TS5901-RIPE",
         "ASN": [
-            "25394"
+            25394
         ],
         "Organisation": [
             {
@@ -3682,7 +3682,7 @@
         "Name": "Tobias Rehn",
         "NIC Handle": "TOBI-RIPE",
         "ASN": [
-            "47447"
+            47447
         ],
         "Organisation": [
             {
@@ -3696,7 +3696,7 @@
         "Name": "Tobias Hadem",
         "NIC Handle": "THDE-RIPE",
         "ASN": [
-            "42135"
+            42135
         ],
         "Organisation": [
             {
@@ -3710,7 +3710,7 @@
         "Name": "Torsten Jerzembeck",
         "NIC Handle": "EJOT-RIPE",
         "ASN": [
-            "41698"
+            41698
         ],
         "Organisation": [
             {
@@ -3724,7 +3724,7 @@
         "Name": "Torben von Nolcken",
         "NIC Handle": "TN847-RIPE",
         "ASN": [
-            "12731"
+            12731
         ],
         "Organisation": [
             {
@@ -3738,7 +3738,7 @@
         "Name": "Thomas Wiebe",
         "NIC Handle": "TW1225-RIPE",
         "ASN": [
-            "39928"
+            39928
         ],
         "Organisation": [
             {
@@ -3756,8 +3756,8 @@
         "Name": "Thomas Jessen",
         "NIC Handle": "TOSH1-RIPE",
         "ASN": [
-            "286",
-            "517"
+            286,
+            517
         ],
         "Organisation": [
             {
@@ -3771,7 +3771,7 @@
         "Name": "Stefan Rauscher",
         "NIC Handle": "",
         "ASN": [
-            "21385"
+            21385
         ],
         "Organisation": []
     },
@@ -3780,7 +3780,7 @@
         "Name": "Florian Bauhaus",
         "NIC Handle": "FBH-RIPE",
         "ASN": [
-            "52088"
+            52088
         ],
         "Organisation": [
             {
@@ -3794,7 +3794,7 @@
         "Name": "Ronny Lippold",
         "NIC Handle": "RL2513-RIPE",
         "ASN": [
-            "41039"
+            41039
         ],
         "Organisation": [
             {
@@ -3808,8 +3808,8 @@
         "Name": "Theo Voss",
         "NIC Handle": "ANXT-RIPETHEO-RIPE",
         "ASN": [
-            "47147",
-            "42473"
+            47147,
+            42473
         ],
         "Organisation": [
             {
@@ -3823,8 +3823,8 @@
         "Name": "Tizian Cardinal von Widdern",
         "NIC Handle": "TCVW-RIPE",
         "ASN": [
-            "203507",
-            "206970"
+            203507,
+            206970
         ],
         "Organisation": [
             {
@@ -3838,7 +3838,7 @@
         "Name": "Ulf Fischer",
         "NIC Handle": "ULF-RIPE",
         "ASN": [
-            "12731"
+            12731
         ],
         "Organisation": [
             {
@@ -3852,7 +3852,7 @@
         "Name": "Ulrich Köhler",
         "NIC Handle": "UK489-RIPE",
         "ASN": [
-            "33891"
+            33891
         ],
         "Organisation": [
             {
@@ -3866,8 +3866,8 @@
         "Name": "David Weber",
         "NIC Handle": "DW5217-RIPE",
         "ASN": [
-            "208942",
-            "9136"
+            208942,
+            9136
         ],
         "Organisation": []
     },
@@ -3876,7 +3876,7 @@
         "Name": "Matthias Döring",
         "NIC Handle": "",
         "ASN": [
-            "35258"
+            35258
         ],
         "Organisation": [
             {
@@ -3890,8 +3890,8 @@
         "Name": "Peter S.",
         "NIC Handle": "VT100",
         "ASN": [
-            "1764",
-            "25538"
+            1764,
+            25538
         ],
         "Organisation": [
             {
@@ -3909,8 +3909,8 @@
         "Name": "Tim Weippert",
         "NIC Handle": "TW739-RIPE",
         "ASN": [
-            "12857",
-            "28918"
+            12857,
+            28918
         ],
         "Organisation": [
             {
@@ -3924,9 +3924,9 @@
         "Name": "Winfried Haug",
         "NIC Handle": "WH9",
         "ASN": [
-            "6666",
-            "5549",
-            "20968"
+            6666,
+            5549,
+            20968
         ],
         "Organisation": [
             {
@@ -3962,8 +3962,8 @@
         "Name": "Kai 'wusel' Siering",
         "NIC Handle": "KS281",
         "ASN": [
-            "49475",
-            "206813"
+            49475,
+            206813
         ],
         "Organisation": [
             {
@@ -3981,7 +3981,7 @@
         "Name": "Stefan Schmidt",
         "NIC Handle": "ZAP",
         "ASN": [
-            "60955"
+            60955
         ],
         "Organisation": [
             {
@@ -4026,7 +4026,7 @@
         "Name": "Garry Glendown",
         "NIC Handle": "GGRN-RIPE",
         "ASN": [
-            "8319"
+            8319
         ],
         "Organisation": [
             {
@@ -4040,7 +4040,7 @@
         "Name": "Moritz Krause",
         "NIC Handle": "MK14357-RIPE",
         "ASN": [
-            "24679"
+            24679
         ],
         "Organisation": [
             {
@@ -4054,10 +4054,10 @@
         "Name": "Sebastian Becker",
         "NIC Handle": "SB15220-RIPE",
         "ASN": [
-            "3320",
-            "20570",
-            "44178",
-            "48951"
+            3320,
+            20570,
+            44178,
+            48951
         ],
         "Organisation": [
             {
