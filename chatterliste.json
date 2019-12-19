@@ -1,0 +1,4073 @@
+[
+    {
+        "Nick": "a-zlex",
+        "Name": "Alexander Schlensog",
+        "NIC Handle": "ALEX42-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "abien",
+        "Name": "Alexander Bien",
+        "NIC Handle": "BIEN-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "abraXxl",
+        "Name": "Joerg Jungermann",
+        "NIC Handle": "",
+        "ASN": [
+            "42263"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Innovo Cloud"
+            }
+        ]
+    },
+    {
+        "Nick": "absynth",
+        "Name": "Christopher Kunz",
+        "NIC Handle": "CK1643-RIPE",
+        "ASN": [
+            "47215"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.filoo.de/",
+                "name": "Filoo GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "adan0s",
+        "Name": "Sven Ludwig",
+        "NIC Handle": "",
+        "ASN": [
+            "8292"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "CamData GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "akarl",
+        "Name": "Alexander Karl",
+        "NIC Handle": "AK14946-RIPE",
+        "ASN": [
+            "203531"
+        ],
+        "Organisation": [
+            {
+                "url": "AS203531.net",
+                "name": "AS203531"
+            }
+        ]
+    },
+    {
+        "Nick": "alamar",
+        "Name": "Julian Seifert",
+        "NIC Handle": "JULI-RIPE",
+        "ASN": [
+            "28876",
+            "50642"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "DNCC GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "almi",
+        "Name": "Alexander Mischke",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Layertec"
+            }
+        ]
+    },
+    {
+        "Nick": "aloah",
+        "Name": "Werner Detter",
+        "NIC Handle": "WD8481-RIPE",
+        "ASN": [
+            "8481"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.trans.net",
+                "name": "Transnet Internet Services GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "andi-",
+        "Name": "Andreas Rammhold",
+        "NIC Handle": "NX101",
+        "ASN": [
+            "62023",
+            "6766"
+        ],
+        "Organisation": [
+            {
+                "url": "http://nynex.de/",
+                "name": "NYNEX satellite OHG"
+            }
+        ]
+    },
+    {
+        "Nick": "andm100",
+        "Name": "Andre Mamitzsch",
+        "NIC Handle": "AM4880-RIPE",
+        "ASN": [
+            "58243"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.tele-ag.de/",
+                "name": "TELE AG"
+            }
+        ]
+    },
+    {
+        "Nick": "Andreas5555",
+        "Name": "Andreas Götz",
+        "NIC Handle": "",
+        "ASN": [
+            "33891"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.core-backbone.com",
+                "name": "Core-Backbone GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Any",
+        "Name": "Martin Kluge",
+        "NIC Handle": "KLM-RIPE",
+        "ASN": [
+            "35292"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.elxsi.de",
+                "name": "Elxsi Security"
+            }
+        ]
+    },
+    {
+        "Nick": "arcturus",
+        "Name": "Tobias Neumann",
+        "NIC Handle": "TN6695-RIPE",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.de-cix.net/",
+                "name": "DE-CIX"
+            }
+        ]
+    },
+    {
+        "Nick": "argonius",
+        "Name": "Patrick Kaiser",
+        "NIC Handle": "PK3264-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.internetx.de",
+                "name": "InterNetX GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "arnotron",
+        "Name": "Arne Böttger",
+        "NIC Handle": "APB9-RIPE",
+        "ASN": [
+            "20694"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.nmmn.com/",
+                "name": "NMMN"
+            }
+        ]
+    },
+    {
+        "Nick": "as.as.as",
+        "Name": "Andre Scholz",
+        "NIC Handle": "ATS",
+        "ASN": [
+            "8475",
+            "196608"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.internic.de",
+                "name": "INTERNIC GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "atraxs",
+        "Name": "Martin Prager",
+        "NIC Handle": "NP2275-RIPE",
+        "ASN": [
+            "43847"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.nbiserv.de/",
+                "name": "NbIServ"
+            }
+        ]
+    },
+    {
+        "Nick": "axel-49024",
+        "Name": "Axel Fischer",
+        "NIC Handle": "AFI5-RIPE",
+        "ASN": [
+            "49024"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.fhe3.com",
+                "name": "FHE3 GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "baboo",
+        "Name": "Sebastian Posner",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "DTAG P&I"
+            }
+        ]
+    },
+    {
+        "Nick": "bapho",
+        "Name": "Christopher Dworczak",
+        "NIC Handle": "",
+        "ASN": [
+            "13237"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.lambdanet.de/",
+                "name": "Lambdanet"
+            }
+        ]
+    },
+    {
+        "Nick": "Barbarossa",
+        "Name": "Maximilian Wilhelm",
+        "NIC Handle": "MWFF12-RIPE",
+        "ASN": [
+            "201701"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Universität Paderborn"
+            },
+            {
+                "url": null,
+                "name": "Freifunk Rheinland"
+            }
+        ]
+    },
+    {
+        "Nick": "Ba|rog",
+        "Name": "Axel Eble",
+        "NIC Handle": "AE12-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "bedeck",
+        "Name": "Christoph Badura",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "berniv6",
+        "Name": "Bernhard Schmidt",
+        "NIC Handle": "BSC-RIPE",
+        "ASN": [
+            "12816",
+            "29259"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.lrz-muenchen.de",
+                "name": "LRZ München"
+            },
+            {
+                "url": "http://www.teleport-iabg.de",
+                "name": "IABG mbH"
+            }
+        ]
+    },
+    {
+        "Nick": "bitjab",
+        "Name": "Marco Prause",
+        "NIC Handle": "",
+        "ASN": [
+            "31529",
+            "8763"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.denic.de/",
+                "name": "DENIC eG"
+            }
+        ]
+    },
+    {
+        "Nick": "bj",
+        "Name": "Björn  Engels",
+        "NIC Handle": "BE298-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://www.peakwork.com/",
+                "name": "peakwork AG"
+            }
+        ]
+    },
+    {
+        "Nick": "Blackblade",
+        "Name": "Michael Heck",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "blackwing",
+        "Name": "Sebastian Werner",
+        "NIC Handle": "GEEK-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "bnfh",
+        "Name": "Matthias Kupfer",
+        "NIC Handle": "KUMA-RIPE",
+        "ASN": [
+            "20686"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.bisping.de",
+                "name": "Bisping & Bisping GmbH & Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "Bommel",
+        "Name": "Gregor Möller",
+        "NIC Handle": "GM-RIPE",
+        "ASN": [
+            "12731"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.iphh.net/",
+                "name": "IPHH Internet Port Hamburg GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "boosty",
+        "Name": "Jens Lüdemann",
+        "NIC Handle": "",
+        "ASN": [
+            "13237"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.lambdanet.de/",
+                "name": "LambdaNet"
+            }
+        ]
+    },
+    {
+        "Nick": "brainy",
+        "Name": "Jörg Städele",
+        "NIC Handle": "JSTN",
+        "ASN": [
+            "21385"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.trusted-network.de",
+                "name": "Trusted Network (TNIB)"
+            }
+        ]
+    },
+    {
+        "Nick": "bundy",
+        "Name": "Stefan Funke",
+        "NIC Handle": "",
+        "ASN": [
+            "20647"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.carrier-colo.com",
+                "name": "IPB, CarrierColo"
+            }
+        ]
+    },
+    {
+        "Nick": "carp",
+        "Name": "Marc Redeker",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.synovis.de",
+                "name": "synovis Netzwerke"
+            }
+        ]
+    },
+    {
+        "Nick": "caz",
+        "Name": "Carsten Zimmermann",
+        "NIC Handle": "CZ2-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.serima.de",
+                "name": "serima Consulting GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "cerbfs",
+        "Name": "Gerd Feiner",
+        "NIC Handle": "GF84-RIPE",
+        "ASN": [
+            "35244"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.cablesurf.de",
+                "name": "Cablesurf"
+            }
+        ]
+    },
+    {
+        "Nick": "Chaotarch",
+        "Name": "Jens Brey",
+        "NIC Handle": "NSJB-RIPEMSJB1-RIPEDEJB-RIPE",
+        "ASN": [
+            "34115"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.navteq.com/",
+                "name": "Navteq"
+            }
+        ]
+    },
+    {
+        "Nick": "Charlie`",
+        "Name": "Christian Schmidt",
+        "NIC Handle": "CPS1-RIPE",
+        "ASN": [
+            "8495"
+        ],
+        "Organisation": [
+            {
+                "url": "http://internic.de",
+                "name": "INTERNIC GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "chn",
+        "Name": "Christoph Neukirch",
+        "NIC Handle": "CN202-RIPECHN42-RIPE",
+        "ASN": [
+            "50343"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.xing.com/",
+                "name": "XING AG"
+            }
+        ]
+    },
+    {
+        "Nick": "Chosen",
+        "Name": "Yves Roquette",
+        "NIC Handle": "YR198-RIPE",
+        "ASN": [
+            "15657"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.computacenter.de/",
+                "name": "Computacenter AG & Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "Chosi",
+        "Name": "Alexander Bienzeisler",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://www.invia.de/",
+                "name": "Invia SSC Germany GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "chrische",
+        "Name": "Christian Schmidt",
+        "NIC Handle": "CHSC-RIPE",
+        "ASN": [
+            "50629"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.lwlcom.com",
+                "name": "LWLcom GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "chrisk",
+        "Name": "Christian Kildau",
+        "NIC Handle": "CKPL",
+        "ASN": [
+            "12306",
+            "206564"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.plusline.net",
+                "name": "Plus.line AG"
+            }
+        ]
+    },
+    {
+        "Nick": "Chrissi1",
+        "Name": "Christan Gebhardt",
+        "NIC Handle": "",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.de-cix.net/",
+                "name": "DE-CIX"
+            }
+        ]
+    },
+    {
+        "Nick": "clockwork",
+        "Name": "Raphael Rosenberg",
+        "NIC Handle": "CLK1338-RIPE",
+        "ASN": [
+            "60955"
+        ],
+        "Organisation": [
+            {
+                "url": "http://wavecon.de/",
+                "name": "Wavecon GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "CoreTex-51861",
+        "Name": "Eric Dorr",
+        "NIC Handle": "ED51861-RIPE",
+        "ASN": [
+            "51861"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "Cornholio21",
+        "Name": "Anton Khonych",
+        "NIC Handle": "",
+        "ASN": [
+            "28876"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.glasfaser-ins-haus.de",
+                "name": "süc//dacor GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "crampl",
+        "Name": "Georg Kröber",
+        "NIC Handle": "GKSK-RIPE",
+        "ASN": [
+            "41470"
+        ],
+        "Organisation": [
+            {
+                "url": "http://serverkarree.de",
+                "name": "ServerKarree"
+            },
+            {
+                "url": "http://www.gs-wd.de",
+                "name": "GS Webdesign"
+            }
+        ]
+    },
+    {
+        "Nick": "cratzer",
+        "Name": "Christian Kratzer",
+        "NIC Handle": "CK12-RIPE",
+        "ASN": [
+            "57407"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.cksoft.de/",
+                "name": "CK Software GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "cron2",
+        "Name": "Gert Döring",
+        "NIC Handle": "GERT-RIPE",
+        "ASN": [
+            "5539",
+            "8878",
+            "196611"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.spacenet.de",
+                "name": "SpaceNet AG"
+            },
+            {
+                "url": "http://www.muc.de",
+                "name": "MUC.DE e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "cy",
+        "Name": "Christian Kühn",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.synyx.de",
+                "name": "synyx GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "cz8s",
+        "Name": "Christoph Klünter",
+        "NIC Handle": "CK207-RIPE",
+        "ASN": [
+            "12731"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.iphh.net/",
+                "name": "IPHH Internet Port Hamburg GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "dAEnG",
+        "Name": "Daniel Gründler",
+        "NIC Handle": "DaGr100-RIPE",
+        "ASN": [
+            "12399"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.scan-plus.de/",
+                "name": "ScanPlus GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "danrl",
+        "Name": "Dan Luedtke",
+        "NIC Handle": "DAN1337-RIPE",
+        "ASN": [
+            "57821"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.nonattached.net/",
+                "name": "Nonattached Network"
+            }
+        ]
+    },
+    {
+        "Nick": "dan_nrw",
+        "Name": "Daniel Czerwonk",
+        "NIC Handle": "DC16585-RIPEDAN213-RIPE",
+        "ASN": [
+            "48821",
+            "202739",
+            "206356"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.mauve.de/",
+                "name": "Mauve Mailorder Software GmbH & Co. KG"
+            },
+            {
+                "url": "https://www.freifunk-essen.de",
+                "name": "Freifunk Essen e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "daster",
+        "Name": "Daniel Maresch",
+        "NIC Handle": "DM2147-RIPE",
+        "ASN": [
+            "33891"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.core-backbone.com",
+                "name": "Core-Backbone GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "davidc",
+        "Name": "David Croft",
+        "NIC Handle": "DC5052-RIPE",
+        "ASN": [
+            "32346",
+            "42579"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.sargasso.de/",
+                "name": "Sargasso Networks"
+            }
+        ]
+    },
+    {
+        "Nick": "DC1PF",
+        "Name": "Peter Fabeck",
+        "NIC Handle": "PF3862-RIPE",
+        "ASN": [
+            "13237"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.lambdanet.de/",
+                "name": "LambdaNet"
+            }
+        ]
+    },
+    {
+        "Nick": "Der-Tim",
+        "Name": "Tim Korves",
+        "NIC Handle": "WHTK-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.whtec.net",
+                "name": "whTec"
+            },
+            {
+                "url": "http://wir-helfen.tv/",
+                "name": "wir-helfen.TV e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "derjohn",
+        "Name": "Andreas John",
+        "NIC Handle": "JOHN-RIPE",
+        "ASN": [
+            "20755",
+            "8804"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.net-lab.de/",
+                "name": "net-lab"
+            }
+        ]
+    },
+    {
+        "Nick": "dinoex",
+        "Name": "Dirk Meyer",
+        "NIC Handle": "DM996-RIPE",
+        "ASN": [
+            "20810"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.netcom-kassel.de/",
+                "name": "Netcom Kassel"
+            }
+        ]
+    },
+    {
+        "Nick": "dinux",
+        "Name": "Oliver Dreier",
+        "NIC Handle": "OD55-RIPE",
+        "ASN": [
+            "15763"
+        ],
+        "Organisation": [
+            {
+                "url": "http://dokom21.de/",
+                "name": "Dokom GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "dk",
+        "Name": "Dennis Kögel",
+        "NIC Handle": "AMF-RIPE",
+        "ASN": [
+            "20621"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.openit.de",
+                "name": "OpenIT GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Dlareg",
+        "Name": "Gerald Krause",
+        "NIC Handle": "GKR-RIPE",
+        "ASN": [
+            "20783"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.pop-i.de",
+                "name": "pop-interactive GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "dockmaster",
+        "Name": "Sascha E. Pollok",
+        "NIC Handle": "SEP7-RIPE",
+        "ASN": [
+            "12731"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.iphh.de",
+                "name": "IPHH Internet Port Hamburg GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Donner",
+        "Name": "Lutz Donnerhacke",
+        "NIC Handle": "LD26",
+        "ASN": [
+            "15725",
+            "199284"
+        ],
+        "Organisation": [
+            {
+                "url": "http://lutz.donnerhacke.de/",
+                "name": "IKS Service"
+            },
+            {
+                "url": null,
+                "name": "Thüringen Netz"
+            },
+            {
+                "url": null,
+                "name": "encoLine"
+            }
+        ]
+    },
+    {
+        "Nick": "dr",
+        "Name": "Daniel Rösen",
+        "NIC Handle": "CLUE-RIPEDARO-RIPE",
+        "ASN": [
+            "5401"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.cluenet.de",
+                "name": "The ClueNet Project"
+            },
+            {
+                "url": "http://www.dimensiondata.com/",
+                "name": "Dimension Data"
+            }
+        ]
+    },
+    {
+        "Nick": "dr3x",
+        "Name": "Hendrik Braasch",
+        "NIC Handle": "HB4202-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "DrB",
+        "Name": "Andreas Schwarz",
+        "NIC Handle": "ASZ-RIPE",
+        "ASN": [
+            "13184",
+            "6805"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "Drizzt",
+        "Name": "Jens Roesen",
+        "NIC Handle": "JENS6-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "dspierling",
+        "Name": "Daniel Spierling",
+        "NIC Handle": "",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.www.de-cix.net/",
+                "name": "DE-CIX"
+            }
+        ]
+    },
+    {
+        "Nick": "dth",
+        "Name": "Dennis Thomas",
+        "NIC Handle": "DTH",
+        "ASN": [
+            "16509",
+            "38895",
+            "31010"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.fastit.de",
+                "name": "Amazon"
+            }
+        ]
+    },
+    {
+        "Nick": "dwalin",
+        "Name": "Jürgen Unger",
+        "NIC Handle": "JU1-RIPE",
+        "ASN": [
+            "29472"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.jpru.de/",
+                "name": "IT Consulting J. Unger"
+            }
+        ]
+    },
+    {
+        "Nick": "E1-6695",
+        "Name": "Yvonne Hahn",
+        "NIC Handle": "YH6695-RIPE",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.de-cix.net/",
+                "name": "DE-CIX Management GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "efraim",
+        "Name": "Alexander Koch",
+        "NIC Handle": "AKO4-RIPE",
+        "ASN": [
+            "1299"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.teliasoneraic.com/",
+                "name": "TeliaSonera International Carrier"
+            }
+        ]
+    },
+    {
+        "Nick": "Eimann",
+        "Name": "Dominik Bay",
+        "NIC Handle": "DB4242-RIPE",
+        "ASN": [
+            "702",
+            "35244",
+            "39138"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.verizonbusiness.de",
+                "name": "Verizon Business"
+            },
+            {
+                "url": "http://www.cablesurf.de",
+                "name": "Cablesurf"
+            },
+            {
+                "url": "http://www.openap-wireless.net",
+                "name": "OpenAP"
+            }
+        ]
+    },
+    {
+        "Nick": "elch",
+        "Name": "Gregor Radtke",
+        "NIC Handle": "",
+        "ASN": [
+            "51176"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.magellan-net.de/",
+                "name": "magellan netzwerke GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "enux",
+        "Name": "Peter Maisel",
+        "NIC Handle": "PM1",
+        "ASN": [
+            "16316"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.tmt.de/",
+                "name": "TMT Teleservice GmbH & Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "EP",
+        "Name": "Edwin Punt",
+        "NIC Handle": "EP",
+        "ASN": [
+            "46489"
+        ],
+        "Organisation": [
+            {
+                "url": "www.twitch.tv",
+                "name": "Twitch"
+            }
+        ]
+    },
+    {
+        "Nick": "fairlight0815",
+        "Name": "Falk Brockerhoff",
+        "NIC Handle": "FB1992-RIPE",
+        "ASN": [
+            "35548"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.smartterra.de/",
+                "name": "smartTERRA"
+            }
+        ]
+    },
+    {
+        "Nick": "falk",
+        "Name": "Falk Stern",
+        "NIC Handle": "FS12874-RIPE",
+        "ASN": [
+            "204127"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "FaUL",
+        "Name": "Immo Wehrenberg",
+        "NIC Handle": "FAUL-RIPEIW4242-RIPE",
+        "ASN": [
+            "31371",
+            "35675",
+            "39138"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.free.de/",
+                "name": "rrbone"
+            },
+            {
+                "url": "http://www.rrbone.net/",
+                "name": "Wissenschaftsladen Dortmund"
+            }
+        ]
+    },
+    {
+        "Nick": "Felix-20773",
+        "Name": "Felix Schueren",
+        "NIC Handle": "",
+        "ASN": [
+            "20773"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.hosteurope.de/",
+                "name": "Host Europe"
+            }
+        ]
+    },
+    {
+        "Nick": "fl0",
+        "Name": "Florian Sippel",
+        "NIC Handle": "FLO-RIPE",
+        "ASN": [
+            "12337"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.noris.net/",
+                "name": "noris network AG"
+            }
+        ]
+    },
+    {
+        "Nick": "fl1ger",
+        "Name": "Ralf Weber",
+        "NIC Handle": "",
+        "ASN": [
+            "8220"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.colt.net/",
+                "name": "Colt"
+            }
+        ]
+    },
+    {
+        "Nick": "florian",
+        "Name": "Florian Hibler",
+        "NIC Handle": "FH-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.arista.com",
+                "name": "Arista Networks"
+            }
+        ]
+    },
+    {
+        "Nick": "flotu",
+        "Name": "Florian Lenzen",
+        "NIC Handle": "",
+        "ASN": [
+            "47215"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Filoo GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "FrauStief",
+        "Name": "Kerstin Mende",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "freddy436",
+        "Name": "Frederik Kriewitz",
+        "NIC Handle": "NX123",
+        "ASN": [
+            "62023",
+            "197711",
+            "200519"
+        ],
+        "Organisation": [
+            {
+                "url": "https://nynex.de/",
+                "name": "NYNEX satellite OHG"
+            }
+        ]
+    },
+    {
+        "Nick": "FredNeuberger",
+        "Name": "Oliver Haake",
+        "NIC Handle": "OHPS-RIPE",
+        "ASN": [
+            "13237"
+        ],
+        "Organisation": [
+            {
+                "url": "https://eunetworks.com",
+                "name": "euNetworks GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "frickler",
+        "Name": "Dr. Jens Harbott",
+        "NIC Handle": "",
+        "ASN": [
+            "60664"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "x-ion GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "ftaeger",
+        "Name": "Florian Täger",
+        "NIC Handle": "FT-RIPE",
+        "ASN": [
+            "3356",
+            "35684"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.level3.com/",
+                "name": "Level(3) Inc."
+            }
+        ]
+    },
+    {
+        "Nick": "FvD",
+        "Name": "Markus Weber",
+        "NIC Handle": "FVD5-RIPE",
+        "ASN": [
+            "286",
+            "517"
+        ],
+        "Organisation": [
+            {
+                "url": "https://as286.net",
+                "name": "KPN EuroRings B.V."
+            }
+        ]
+    },
+    {
+        "Nick": "gaggaman",
+        "Name": "Gerald Nowitzky",
+        "NIC Handle": "GN2536-RIPE",
+        "ASN": [
+            "48484"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.ign.de/",
+                "name": "IGN GbR"
+            }
+        ]
+    },
+    {
+        "Nick": "Galaxis",
+        "Name": "Alexander Bochmann",
+        "NIC Handle": "AB54-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "Garf",
+        "Name": "Wolfgang Tremmel",
+        "NIC Handle": "WT5-RIPE",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.de-cix.net",
+                "name": "DE-CIX"
+            }
+        ]
+    },
+    {
+        "Nick": "GERD",
+        "Name": "Gerhard Scholz",
+        "NIC Handle": "GERD1-RIPE",
+        "ASN": [
+            "9145"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.ewetel.de/",
+                "name": "EWETEL"
+            }
+        ]
+    },
+    {
+        "Nick": "GigaStorm",
+        "Name": "Martin Weigelt",
+        "NIC Handle": "",
+        "ASN": [
+            "58243"
+        ],
+        "Organisation": [
+            {
+                "url": "www.ccgmbh.de / www.tele-ag.de",
+                "name": "Communication Concept GmbH / TELE AG"
+            }
+        ]
+    },
+    {
+        "Nick": "gizzmo",
+        "Name": "Christian Seitz",
+        "NIC Handle": "CHSE-RIPECHRS-RIPE",
+        "ASN": [
+            "6724",
+            "29670"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.strato.de",
+                "name": "STRATO AG"
+            },
+            {
+                "url": "http://www.in-berlin.de",
+                "name": "Individual Network Berlin e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "Glenlivet",
+        "Name": "Hans-Christoph Deeken",
+        "NIC Handle": "HCD20-RIPE",
+        "ASN": [
+            "8878"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.nfon.com",
+                "name": "NFON AG"
+            }
+        ]
+    },
+    {
+        "Nick": "glowfish",
+        "Name": "Daniel Odoj",
+        "NIC Handle": "GFDO-RIPE",
+        "ASN": [
+            "59407"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.glowfish.de/",
+                "name": "Glowfish GmbH & Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "GPF",
+        "Name": "Sebastian Wiesinger",
+        "NIC Handle": "GPF-RIPE",
+        "ASN": [
+            "12337"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.noris.de/",
+                "name": "noris network AG"
+            }
+        ]
+    },
+    {
+        "Nick": "gremlin",
+        "Name": "Martin Mersberger",
+        "NIC Handle": "MM22282-RIPEMAME-RIPE",
+        "ASN": [
+            "8489"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.portal-to-web.de",
+                "name": "Portal-to-Web"
+            }
+        ]
+    },
+    {
+        "Nick": "grind_",
+        "Name": "Michael Riexinger",
+        "NIC Handle": "RIEX-RIPE",
+        "ASN": [
+            "8196"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.claranet.de",
+                "name": "Claranet GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "guphi2600",
+        "Name": "Philip Gulati",
+        "NIC Handle": "PG2978-RIPE",
+        "ASN": [
+            "12731"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.iphh.net/",
+                "name": "IPHH Internet Port Hamburg GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "hajo",
+        "Name": "Heiko Schabert",
+        "NIC Handle": "HS3657-ripe",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "HammerFall",
+        "Name": "Roman Schliessmeyer",
+        "NIC Handle": "RS8888-RIPE",
+        "ASN": [
+            "196763"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.key-systems.net/",
+                "name": "Key-Systems GmbH"
+            },
+            {
+                "url": "http://www.skyway-datacenter.de/",
+                "name": "SKYWAY DataCenter GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "hendrik",
+        "Name": "Hendrik Kahmann",
+        "NIC Handle": "",
+        "ASN": [
+            "9145"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.ewetel.de/",
+                "name": "EWWE TEL GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "hexa-",
+        "Name": "Martin Weinelt",
+        "NIC Handle": "WT1191-RIPE",
+        "ASN": [
+            "6766"
+        ],
+        "Organisation": [
+            {
+                "url": "http://darmstadt.ccc.de/",
+                "name": "Chaos Darmstadt e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "hf|work",
+        "Name": "Roman Schliessmeyer",
+        "NIC Handle": "RS8888-RIPE",
+        "ASN": [
+            "196763"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.key-systems.net/",
+                "name": "Key-Systems GmbH"
+            },
+            {
+                "url": "http://www.skyway-datacenter.de/",
+                "name": "SKYWAY DataCenter GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Honk-20773",
+        "Name": "Malte von dem Hagen",
+        "NIC Handle": "HONK",
+        "ASN": [
+            "20773"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.hosteurope.de/",
+                "name": "Hosteurope"
+            }
+        ]
+    },
+    {
+        "Nick": "insane^",
+        "Name": "Jürgen Gotteswinter",
+        "NIC Handle": "JG2487-RIPE",
+        "ASN": [
+            "15456"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.internetx.de",
+                "name": "InternetX GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "ipmaniac",
+        "Name": "Johannes Treml",
+        "NIC Handle": "JT405-RIPE",
+        "ASN": [
+            "25279"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.treml-sturm.de",
+                "name": "Treml & Sturm Datentechnik GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "iQ",
+        "Name": "Jan Walzer",
+        "NIC Handle": "IQ-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "Isotopp",
+        "Name": "Kristian Köhntopp",
+        "NIC Handle": "",
+        "ASN": [
+            "43996"
+        ],
+        "Organisation": [
+            {
+                "url": "https://google.com/+KristianKohntopp",
+                "name": "Booking.com"
+            }
+        ]
+    },
+    {
+        "Nick": "ixs",
+        "Name": "Andreas Thienemann",
+        "NIC Handle": "AT1918-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "izemaen",
+        "Name": "Tobias Heister",
+        "NIC Handle": "TH5876-RIPE",
+        "ASN": [
+            "203520"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.xantaro.net/",
+                "name": "Xantaro Deutschland GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "janno",
+        "Name": "Jan Marquardt",
+        "NIC Handle": "JM13768-RIPE",
+        "ASN": [
+            "8893"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.artfiles.de/",
+                "name": "Artfiles GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Jay2k1",
+        "Name": "Robert Klostermann",
+        "NIC Handle": "",
+        "ASN": [
+            "20694"
+        ],
+        "Organisation": [
+            {
+                "url": "http://nmmn.com/",
+                "name": "NMMN New Media Markets & Networks IT-Services GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "jchome",
+        "Name": "Frederic Jaeckel",
+        "NIC Handle": "",
+        "ASN": [
+            "36459"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Github Inc."
+            }
+        ]
+    },
+    {
+        "Nick": "jeedi",
+        "Name": "Tobias Rosenstock",
+        "NIC Handle": "TRO-RIPETOBI42-RIPE",
+        "ASN": [
+            "50324"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Hofnetz & IT Services GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "jens",
+        "Name": "Jens Reichmann",
+        "NIC Handle": "JR52-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.jr-online.com/www.denog.de/info/chatlist.php",
+                "name": "jr online"
+            }
+        ]
+    },
+    {
+        "Nick": "JEns`",
+        "Name": "Jens Remme",
+        "NIC Handle": "JR1428-RIPE",
+        "ASN": [
+            "20899"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.tradehaven.de/",
+                "name": "Trade Haven GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "jesk",
+        "Name": "Christian Meutes",
+        "NIC Handle": "JESK-RIPE",
+        "ASN": [
+            "50061"
+        ],
+        "Organisation": [
+            {
+                "url": "www.pwc.com",
+                "name": "PwC"
+            }
+        ]
+    },
+    {
+        "Nick": "jmahamburg",
+        "Name": "Johannes Mattes",
+        "NIC Handle": "JM1448-RIPE",
+        "ASN": [
+            "12731"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.iphh.de",
+                "name": "IPHH Internet Port Hamburg GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "job",
+        "Name": "Job Snijders",
+        "NIC Handle": "JWJS1-RIPE",
+        "ASN": [
+            "2914"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.us.ntt.net",
+                "name": "NTT Communications"
+            }
+        ]
+    },
+    {
+        "Nick": "jpbe",
+        "Name": "Jan-Philipp Benecke",
+        "NIC Handle": "JB16811-RIPE",
+        "ASN": [
+            "206479"
+        ],
+        "Organisation": [
+            {
+                "url": "https://as206479.net/",
+                "name": "FastEthernet"
+            },
+            {
+                "url": "https://www.cleverreach.com",
+                "name": "CleverReach GmbH & Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "kay",
+        "Name": "Kay Rechthien",
+        "NIC Handle": "XTC23-RIPE",
+        "ASN": [
+            "13020",
+            "20940",
+            "50472"
+        ],
+        "Organisation": [
+            {
+                "url": "https://events.ccc.de/",
+                "name": "CCC Event Network"
+            },
+            {
+                "url": "https://www.akamai.com/",
+                "name": "Akamai Technologies"
+            },
+            {
+                "url": "https://www.ccc.de/",
+                "name": "CCC e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "kn",
+        "Name": "Fabian Lenker",
+        "NIC Handle": "FL3390-RIPE",
+        "ASN": [
+            "13247"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.erdenreich.net/",
+                "name": "erdenreich.net"
+            }
+        ]
+    },
+    {
+        "Nick": "KnicklichtJedi",
+        "Name": "Sascha Growe",
+        "NIC Handle": "SG13291-RIPE",
+        "ASN": [
+            "61157"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.plusserver.com/",
+                "name": "PlusServer GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "KnockandO",
+        "Name": "Elmar K. Bins",
+        "NIC Handle": "ELMI-RIPE",
+        "ASN": [
+            "42856"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "kraut",
+        "Name": "Thomas Kühling",
+        "NIC Handle": "TK2325-RIPE",
+        "ASN": [
+            "9145"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.ewetel.de",
+                "name": "EWE TEL GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "krd",
+        "Name": "Patrick Rother",
+        "NIC Handle": "KRD2",
+        "ASN": [
+            "5430"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.freenet-ag.de",
+                "name": "freenet Cityline GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "lairsdragon",
+        "Name": "Steffen Weinreich",
+        "NIC Handle": "SW4568-RIPE",
+        "ASN": [
+            "200567"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.mdex.de/",
+                "name": "mdex AG"
+            }
+        ]
+    },
+    {
+        "Nick": "Lalufu",
+        "Name": "Ralf Ertzinger",
+        "NIC Handle": "RE2256-RIPE",
+        "ASN": [
+            "43996"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.booking.com/",
+                "name": "Booking.com"
+            }
+        ]
+    },
+    {
+        "Nick": "LarsB",
+        "Name": "Lars Bussmann",
+        "NIC Handle": "",
+        "ASN": [
+            "201701"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Freifunk Rheinland e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "laxxie",
+        "Name": "Andreas Worbs",
+        "NIC Handle": "ANW5-RIPE",
+        "ASN": [
+            "8893"
+        ],
+        "Organisation": [
+            {
+                "url": "https://artfiles.de/",
+                "name": "Artfiles New Media GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "lazyfrosch",
+        "Name": "Markus Frosch",
+        "NIC Handle": "",
+        "ASN": [
+            "61303"
+        ],
+        "Organisation": [
+            {
+                "url": "www.netways.de",
+                "name": "NETWAYS"
+            }
+        ]
+    },
+    {
+        "Nick": "leoluk",
+        "Name": "Leopold Schabel",
+        "NIC Handle": "",
+        "ASN": [
+            "199610"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "leonn",
+        "Name": "Leon Weber",
+        "NIC Handle": "LWE42-RIPE",
+        "ASN": [
+            "9033",
+            "13020"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "ECIX"
+            },
+            {
+                "url": null,
+                "name": "CCC"
+            }
+        ]
+    },
+    {
+        "Nick": "lolob",
+        "Name": "Lorenz Barth",
+        "NIC Handle": "LB1811-RIPE",
+        "ASN": [
+            "50189"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.pbx-network.de/",
+                "name": "PBX-network GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Lorddusty",
+        "Name": "Jens Ott",
+        "NIC Handle": "",
+        "ASN": [
+            "48200"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "lucian-decix",
+        "Name": "Lucian Cioltan",
+        "NIC Handle": "",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.de-cix.net/",
+                "name": "DE-CIX Management GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "lucius_",
+        "Name": "Michael Hufnagl",
+        "NIC Handle": "MH3220-RIPE",
+        "ASN": [
+            "8741"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.ecore.de",
+                "name": "ecore Kommunikations AG"
+            }
+        ]
+    },
+    {
+        "Nick": "lukas",
+        "Name": "Lukas Gerhold",
+        "NIC Handle": "LG128-RIPE",
+        "ASN": [
+            "8365",
+            "35548"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "man-da.de GmbH"
+            },
+            {
+                "url": null,
+                "name": "smartTERRA GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Luke6",
+        "Name": "Robert Blechinger",
+        "NIC Handle": "LUKE-RIPE",
+        "ASN": [
+            "5539"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "SpaceNet AG"
+            }
+        ]
+    },
+    {
+        "Nick": "Lysis",
+        "Name": "Marcus Stögbauer",
+        "NIC Handle": "LYS-RIPE",
+        "ASN": [
+            "9033"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.ecix.net",
+                "name": "ECIX / Peering GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "m00se",
+        "Name": "Peter Lieven",
+        "NIC Handle": "ELCH-RIPE",
+        "ASN": [
+            "9033",
+            "8648",
+            "25074"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.ecix.de/",
+                "name": "ECIX"
+            }
+        ]
+    },
+    {
+        "Nick": "macna",
+        "Name": "Mario Nacke",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "maha",
+        "Name": "Mathias Handsche",
+        "NIC Handle": "",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.de-cix.net",
+                "name": "DE-CIX"
+            }
+        ]
+    },
+    {
+        "Nick": "MarcL",
+        "Name": "Marc Langer",
+        "NIC Handle": "MLA-RIPE",
+        "ASN": [
+            "15747"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.osnatel.de",
+                "name": "osnatel GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "marlow",
+        "Name": "Martin List-Petersen",
+        "NIC Handle": "ML6710-RIPEMLP91-RIPE",
+        "ASN": [
+            "42227",
+            "47490"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.airwire.ie/",
+                "name": "Airwire"
+            },
+            {
+                "url": "http://www.tuxbox.nu/",
+                "name": "TuxBox"
+            }
+        ]
+    },
+    {
+        "Nick": "marvin",
+        "Name": "Robert Finze",
+        "NIC Handle": "",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "DE-CIX"
+            }
+        ]
+    },
+    {
+        "Nick": "master",
+        "Name": "Sascha Lenz",
+        "NIC Handle": "SL277-RIPESLZ-RIPE",
+        "ASN": [
+            "12657",
+            "12817",
+            "29317"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.baycix.de",
+                "name": "BayCIX GmbH"
+            },
+            {
+                "url": "http://www.gefoekom.de",
+                "name": "GeFoekoM e.V."
+            },
+            {
+                "url": "http://www.s-lz.net",
+                "name": "s-lz.net"
+            }
+        ]
+    },
+    {
+        "Nick": "matthias",
+        "Name": "Matthias Behn",
+        "NIC Handle": "",
+        "ASN": [
+            "9211"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.work.de/",
+                "name": "n@work"
+            }
+        ]
+    },
+    {
+        "Nick": "mc",
+        "Name": "Rico Glöckner",
+        "NIC Handle": "RICO-RIPE",
+        "ASN": [
+            "33988",
+            "21083"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.teamix.de",
+                "name": "Team(ix) GmbH"
+            },
+            {
+                "url": "http://www.n-ix.net",
+                "name": "N-IX (Nürnberg Internet Exchange)"
+            }
+        ]
+    },
+    {
+        "Nick": "McMurphy",
+        "Name": "Soenke Mumm",
+        "NIC Handle": "SOM-RIPE",
+        "ASN": [
+            "4589"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.easynet.de/",
+                "name": "Easynet GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "medea61",
+        "Name": "Roman Hochuli",
+        "NIC Handle": "RHO3-RIPE",
+        "ASN": [
+            "31424"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.swissix.ch/",
+                "name": "SwissIX"
+            }
+        ]
+    },
+    {
+        "Nick": "Milin",
+        "Name": "Michael Ankelin",
+        "NIC Handle": "MA1225-RIPE",
+        "ASN": [
+            "13054"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.freinet.de/",
+                "name": "FreiNet GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "mm",
+        "Name": "Mirko Mach",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.mpcservice.com/",
+                "name": "MPC Service GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "mmi",
+        "Name": "Christian Zeng",
+        "NIC Handle": "XZM1-SIXXS",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "moemoe",
+        "Name": "Moritz Augsburger",
+        "NIC Handle": "MOAU-RIPE",
+        "ASN": [
+            "41698"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.bfk.de/",
+                "name": "BFK edv-consulting GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "moghaddas",
+        "Name": "Mohammad Moghaddas",
+        "NIC Handle": "MM34938",
+        "ASN": [
+            "47823"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "momorientes",
+        "Name": "Moritz Frenzel",
+        "NIC Handle": "MOMO23-RIPE",
+        "ASN": [
+            "48918"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.globalways.net/",
+                "name": "Globalways"
+            }
+        ]
+    },
+    {
+        "Nick": "MoneySack",
+        "Name": "Dirk Willbrandt",
+        "NIC Handle": "",
+        "ASN": [
+            "24905"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.terralink.de/",
+                "name": "terralink GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "mordner",
+        "Name": "Matthias Ordner",
+        "NIC Handle": "MORD-RIPE",
+        "ASN": [
+            "12337"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.noris.de/",
+                "name": "noris network AG"
+            }
+        ]
+    },
+    {
+        "Nick": "morpheus",
+        "Name": "Simon Frerichs",
+        "NIC Handle": "SFX23-RIPE",
+        "ASN": [
+            "50629"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.lwlcom.de",
+                "name": "LWLcom GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "mortzu",
+        "Name": "Moritz Kaspar Rudert",
+        "NIC Handle": "MKR26-RIPE",
+        "ASN": [
+            "49855"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.plutex.de/",
+                "name": "PLUTEX GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "motp",
+        "Name": "Bjørn Bürger",
+        "NIC Handle": "BJOE1-RIPE",
+        "ASN": [
+            "201824"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.pengutronix.de",
+                "name": "Pengutronix"
+            }
+        ]
+    },
+    {
+        "Nick": "mrjack",
+        "Name": "Florian Wiessner",
+        "NIC Handle": "FLOW-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.smart-weblications.com/",
+                "name": "Smart Weblications GmbH"
+            },
+            {
+                "url": "http://www.smart-kvm.com/",
+                "name": "smart-kvm"
+            }
+        ]
+    },
+    {
+        "Nick": "MrTux",
+        "Name": "Thomas Eichhorn",
+        "NIC Handle": "TE999-RIPE",
+        "ASN": [
+            "43911",
+            "25291"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "te3 Networks"
+            }
+        ]
+    },
+    {
+        "Nick": "MrXermon",
+        "Name": "Jan Gilla",
+        "NIC Handle": "",
+        "ASN": [
+            "209844",
+            "205614"
+        ],
+        "Organisation": [
+            {
+                "url": " https://level66.network",
+                "name": "level66.network"
+            },
+            {
+                "url": "https://www.medialine.ag",
+                "name": "Medialine EuroTrade AG"
+            }
+        ]
+    },
+    {
+        "Nick": "mst",
+        "Name": "Michael Stevens",
+        "NIC Handle": "MST",
+        "ASN": [
+            "24961"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.myloc.de",
+                "name": "myLoc managed IT AG"
+            }
+        ]
+    },
+    {
+        "Nick": "mutax",
+        "Name": "Florian Streibelt",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "nbrodermann",
+        "Name": "Nikolas Brodermann",
+        "NIC Handle": "",
+        "ASN": [
+            "6695"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.de-cix.net/",
+                "name": "DE-CIX"
+            }
+        ]
+    },
+    {
+        "Nick": "neitzel",
+        "Name": "Martin Neitzel",
+        "NIC Handle": "MN40-RIPE",
+        "ASN": [
+            "24956"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.gaertner.de/",
+                "name": "Gaertner Datensysteme"
+            }
+        ]
+    },
+    {
+        "Nick": "NetFreak",
+        "Name": "Joey Julian König",
+        "NIC Handle": "JJK57-RIPE",
+        "ASN": [
+            "49697"
+        ],
+        "Organisation": [
+            {
+                "url": "www.joey-network.de",
+                "name": "Joey-Network"
+            }
+        ]
+    },
+    {
+        "Nick": "neufeind",
+        "Name": "Stefan Neufeind",
+        "NIC Handle": "NEUF-RIPE",
+        "ASN": [
+            "34225",
+            "41692"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.speedpartner.de",
+                "name": "SpeedPartner GmbH"
+            },
+            {
+                "url": "http://www.opencarrier.eu",
+                "name": "OpenCarrier e.G."
+            }
+        ]
+    },
+    {
+        "Nick": "neuner",
+        "Name": "Sebastian Neuner",
+        "NIC Handle": "NEUN9-RIPE",
+        "ASN": [
+            "553"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.belwue.de/",
+                "name": "BelWü"
+            }
+        ]
+    },
+    {
+        "Nick": "nibbler",
+        "Name": "Michael Horn",
+        "NIC Handle": "HORN-RIPEMH250-RIPE",
+        "ASN": [
+            "248",
+            "249",
+            "250"
+        ],
+        "Organisation": [
+            {
+                "url": "http://openbgpd.decix.ccc.de/",
+                "name": "OpenBGPd"
+            },
+            {
+                "url": "http://www.ccc.de/",
+                "name": "CCC e.V."
+            },
+            {
+                "url": "http://as250.net/",
+                "name": "AS250.net"
+            }
+        ]
+    },
+    {
+        "Nick": "nici",
+        "Name": "Nicole Herath",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.ripe.net/perl/whois?-r+nici",
+                "name": "nici"
+            }
+        ]
+    },
+    {
+        "Nick": "nick6",
+        "Name": "Nick Vollmar",
+        "NIC Handle": "VOLL-RIPE",
+        "ASN": [
+            "31333",
+            "33956"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.vollmar.net",
+                "name": "vollmar.net"
+            }
+        ]
+    },
+    {
+        "Nick": "nicoduck",
+        "Name": "Nicola von Thadden",
+        "NIC Handle": "",
+        "ASN": [
+            "15945",
+            "21473"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.pfalzkom-manet.de/",
+                "name": "Pfalzkom"
+            },
+            {
+                "url": null,
+                "name": "Manet"
+            }
+        ]
+    },
+    {
+        "Nick": "nido009",
+        "Name": "Nils Dohse",
+        "NIC Handle": "NIDO-RIPE",
+        "ASN": [
+            "25415"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "ADDIX Internet Services GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "nik0n",
+        "Name": "Christian Pössinger",
+        "NIC Handle": "CP2379-RIPE",
+        "ASN": [
+            "12817"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.gefoekom.de/",
+                "name": "GeFoekoM e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "nr5_",
+        "Name": "Frank Bergknecht",
+        "NIC Handle": "FB8-RIPE",
+        "ASN": [
+            "12579"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.xnc.com/",
+                "name": "Xenologics Networks & Communications GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "olba",
+        "Name": "Olaf Baumert",
+        "NIC Handle": "OLBA-RIPE",
+        "ASN": [
+            "8881"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "olisac",
+        "Name": "Oliver Sachs",
+        "NIC Handle": "OS4038-RIPE",
+        "ASN": [
+            "62177"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.oscon.de/",
+                "name": "oscan itk GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "ollifast",
+        "Name": "Oliver Bartels",
+        "NIC Handle": "OB6-RIPE",
+        "ASN": [
+            "15434"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.bartels.de/",
+                "name": "Bartels Systems GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "otaku42",
+        "Name": "Michael Renzmann",
+        "NIC Handle": "",
+        "ASN": [
+            "15844"
+        ],
+        "Organisation": [
+            {
+                "url": "http://tgc.de/",
+                "name": "true global communications GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "pace|da",
+        "Name": "Lars Stenzel",
+        "NIC Handle": "",
+        "ASN": [
+            "20676"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.qsc.de/",
+                "name": "QSC AG"
+            }
+        ]
+    },
+    {
+        "Nick": "Panther_1",
+        "Name": "Ruben Herold",
+        "NIC Handle": "RH6896-rIPE",
+        "ASN": [
+            "62086"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "pberndro",
+        "Name": "Philip Berndroth",
+        "NIC Handle": "PB19268-RIPE",
+        "ASN": [
+            "201701",
+            "199714"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "philuweb UG"
+            }
+        ]
+    },
+    {
+        "Nick": "pennylane",
+        "Name": "Jacky Hammer",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://deafops.de/",
+                "name": "deafops.de"
+            }
+        ]
+    },
+    {
+        "Nick": "pfy",
+        "Name": "Joerg Dorchain",
+        "NIC Handle": "PFY-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Catella Bank"
+            }
+        ]
+    },
+    {
+        "Nick": "phils",
+        "Name": "Philipp Schmidt",
+        "NIC Handle": "PHIL-RIPE",
+        "ASN": [
+            "29670"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.in-berlin.de/",
+                "name": "IN Berlin"
+            }
+        ]
+    },
+    {
+        "Nick": "Phrewfuf",
+        "Name": "Andreas Kist",
+        "NIC Handle": "",
+        "ASN": [
+            "9183"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Robert Bosch GmbH, shack"
+            }
+        ]
+    },
+    {
+        "Nick": "pkern",
+        "Name": "Philipp Kern",
+        "NIC Handle": "PK2186-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "plopix",
+        "Name": "Erik Wenzel",
+        "NIC Handle": "EW12-RIPE",
+        "ASN": [
+            "6724",
+            "15506"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.strato.de/",
+                "name": "STRATO AG"
+            }
+        ]
+    },
+    {
+        "Nick": "poldii",
+        "Name": "Inga Mewes",
+        "NIC Handle": "IM9-RIPE",
+        "ASN": [
+            "6659"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.nexinto.com",
+                "name": "Nexinto GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "ppit",
+        "Name": "Dieter Hirt",
+        "NIC Handle": "DH1053-RIPE",
+        "ASN": [
+            "12399"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.scan-plus.de",
+                "name": "ScanPlus GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "profmakx",
+        "Name": "Markus Pfeiffer",
+        "NIC Handle": "MP9573-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "proGamler",
+        "Name": "Jan-Philipp Warmers",
+        "NIC Handle": "JW940-RIPE",
+        "ASN": [
+            "31371",
+            "47556"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.free.de",
+                "name": "Wissenschaftsladen Dortmund e.V."
+            },
+            {
+                "url": "http://www.netarge.com",
+                "name": "netarge communication GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "psi",
+        "Name": "Peter Sievers",
+        "NIC Handle": "PSI76-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "puschni",
+        "Name": "Karsten Hillmann",
+        "NIC Handle": "KH2911-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "pyco",
+        "Name": "Robyn Bachofer",
+        "NIC Handle": "RB12621-RIPE",
+        "ASN": [
+            "20677"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.imos.net",
+                "name": "imos Gesellschaft fuer Internet-Marketing und Online-Services mbH"
+            }
+        ]
+    },
+    {
+        "Nick": "qchn",
+        "Name": "Robert Grösser",
+        "NIC Handle": "RG7406-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "qoreQyaS",
+        "Name": "Sven Grewe",
+        "NIC Handle": "SG11315-RIPE",
+        "ASN": [
+            "20694"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.nmmn.com/",
+                "name": "NMMN New Media Markets & Networks IT-Services GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "qybl",
+        "Name": "Hannes Rist",
+        "NIC Handle": "",
+        "ASN": [
+            "48918",
+            "59745"
+        ],
+        "Organisation": [
+            {
+                "url": "www.dc1.com",
+                "name": "Globalways AG"
+            },
+            {
+                "url": null,
+                "name": "Selfnet e.V."
+            },
+            {
+                "url": null,
+                "name": "Datacenter One GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Rabaehh",
+        "Name": "Jens Hoffmann",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.netsit.net/",
+                "name": "NETSit GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "racoon",
+        "Name": "Frank Altpeter",
+        "NIC Handle": "FA-RIPE",
+        "ASN": [
+            "13135"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.irz42.net/",
+                "name": "Wieske's Crew GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "raider",
+        "Name": "Michael Hayler",
+        "NIC Handle": "MH16422-RIPE, MH8562-RIPE",
+        "ASN": [
+            "12857",
+            "28918",
+            "205867",
+            "49097"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Fujitsu TDS GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "rapido",
+        "Name": "Fredy Künzler",
+        "NIC Handle": "FKU-RIPE",
+        "ASN": [
+            "13030"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.init7.net/",
+                "name": "Init7"
+            }
+        ]
+    },
+    {
+        "Nick": "rbott",
+        "Name": "Rudolph Bott",
+        "NIC Handle": "",
+        "ASN": [
+            "15594"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Netzquadrat"
+            }
+        ]
+    },
+    {
+        "Nick": "rene",
+        "Name": "Rene Caspari",
+        "NIC Handle": "RC3481-RIPE",
+        "ASN": [
+            "35258"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.akquinet.de/",
+                "name": "akquinet AG"
+            }
+        ]
+    },
+    {
+        "Nick": "rfc2795",
+        "Name": "Sven Kalkbrenner",
+        "NIC Handle": "SKA42-RIPE",
+        "ASN": [
+            "24679"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.hostway.de",
+                "name": "Hostway Deutschland GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "RichiH",
+        "Name": "Richard Hartmann",
+        "NIC Handle": "RMH23-RIPE",
+        "ASN": [
+            "5539"
+        ],
+        "Organisation": [
+            {
+                "url": "http://space.net/",
+                "name": "SpaceNet AG"
+            }
+        ]
+    },
+    {
+        "Nick": "ripp",
+        "Name": "Alexander Kinscher",
+        "NIC Handle": "AKIN-RIPE",
+        "ASN": [
+            "1668"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.atdn.net/",
+                "name": "AOL"
+            }
+        ]
+    },
+    {
+        "Nick": "rmoriz",
+        "Name": "Roland Moriz",
+        "NIC Handle": "RM1343-RIPEUNIX-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://moriz.de/",
+                "name": "moriz GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "rob",
+        "Name": "Robert Hennig",
+        "NIC Handle": "RHE-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "Robe",
+        "Name": "Michael Renner",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://amd.co.at/",
+                "name": "GitHub"
+            }
+        ]
+    },
+    {
+        "Nick": "Robinayor_",
+        "Name": "Robin Kara",
+        "NIC Handle": "ROBI-RIPE",
+        "ASN": [
+            "33988",
+            "21083"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.teamix.de",
+                "name": "Team(ix) GmbH"
+            },
+            {
+                "url": "http://www.n-ix.de",
+                "name": "N-IX (Nürnberg Internet Exchange)"
+            }
+        ]
+    },
+    {
+        "Nick": "robo",
+        "Name": "Ronny Boesger",
+        "NIC Handle": "ROBO-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "robrem",
+        "Name": "Robert Remenyi",
+        "NIC Handle": "RR4510-RIPE",
+        "ASN": [
+            "13045"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.htp.net",
+                "name": "htp GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "ronny-isppro",
+        "Name": "Ronny Boesger",
+        "NIC Handle": "ROBO-RIPE",
+        "ASN": [
+            "35366"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.isppro.de/",
+                "name": "ISPpro Internet KG"
+            },
+            {
+                "url": "http://www.euserv.de/",
+                "name": "EUserv Internet"
+            },
+            {
+                "url": "http://www.kos-online.de/",
+                "name": "KOS-Online"
+            }
+        ]
+    },
+    {
+        "Nick": "rowi",
+        "Name": "Sven Rohweder",
+        "NIC Handle": "SR4711-RIPE",
+        "ASN": [
+            "8223"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.exitec.de",
+                "name": "Exitec GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "sb",
+        "Name": "Sascha Bielski",
+        "NIC Handle": "SBI",
+        "ASN": [
+            "34549",
+            "51058"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.laxin.de/",
+                "name": "Laxin IT-Services GmbH & Co. KG"
+            },
+            {
+                "url": "http://www.rdns.de/",
+                "name": "RDNS Networks"
+            }
+        ]
+    },
+    {
+        "Nick": "schmoggie",
+        "Name": "Jan Czmok",
+        "NIC Handle": "JC226-RIPE",
+        "ASN": [
+            "9033"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "sebast",
+        "Name": "Sebastian Schikora",
+        "NIC Handle": "SS7971-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "sethos",
+        "Name": "Marco Eulenfeld",
+        "NIC Handle": "",
+        "ASN": [
+            "16509"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "AWS"
+            }
+        ]
+    },
+    {
+        "Nick": "shedenig",
+        "Name": "Stefan Hedenig",
+        "NIC Handle": "SH13964-RIPE",
+        "ASN": [
+            "47147",
+            "42473"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.anexia-it.com/",
+                "name": "Anexia"
+            }
+        ]
+    },
+    {
+        "Nick": "Shezr",
+        "Name": "Torsten-Sven Urbas",
+        "NIC Handle": "TUPS-RIPE",
+        "ASN": [
+            "8972",
+            "34088"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.plusserver.de/",
+                "name": "Plusserver"
+            }
+        ]
+    },
+    {
+        "Nick": "shl",
+        "Name": "Sebastian Laubscher",
+        "NIC Handle": "SHL4-RIPE",
+        "ASN": [
+            "8560"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.1und1.de/",
+                "name": "1&1 Internet AG"
+            }
+        ]
+    },
+    {
+        "Nick": "simo",
+        "Name": "Simo Radenovic",
+        "NIC Handle": "",
+        "ASN": [
+            "20940"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.akamai.com/",
+                "name": "Akamai Technologies GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "SJ-mtw1",
+        "Name": "Stefan Jakob",
+        "NIC Handle": "SJ8763-RIPE",
+        "ASN": [
+            "8763",
+            "31529"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.denic.de",
+                "name": "DENIC eG"
+            }
+        ]
+    },
+    {
+        "Nick": "skorpy",
+        "Name": "Magnus Fruehling",
+        "NIC Handle": "MF16389-RIPE",
+        "ASN": [
+            "58145",
+            "64475"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Freifunk Frankfurt am Main e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "Smur",
+        "Name": "Nicolaj Kamensek",
+        "NIC Handle": "NKA-RIPE",
+        "ASN": [
+            "31400"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.accelerated.de",
+                "name": "Accelerated IT Services GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "smurfy",
+        "Name": "Peter Heidenreich",
+        "NIC Handle": "PHSG",
+        "ASN": [
+            "51483"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.sasg.de/",
+                "name": "SaSG GmbH & Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "smuuth",
+        "Name": "Jens Heisterkamp",
+        "NIC Handle": "HJ-RIPE",
+        "ASN": [
+            "15598",
+            "24899",
+            "24900"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.ip-exchange.de",
+                "name": "IP Exchange GmbH"
+            },
+            {
+                "url": "http://www.ipx-server.de",
+                "name": "IPX Server GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "solis",
+        "Name": "Jan Dirnberger",
+        "NIC Handle": "",
+        "ASN": [
+            "12337"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.noris.de/",
+                "name": "noris network AG"
+            }
+        ]
+    },
+    {
+        "Nick": "souls",
+        "Name": "Daniel Berg",
+        "NIC Handle": "",
+        "ASN": [
+            "33687"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "Spaxxx",
+        "Name": "Maurice Funke",
+        "NIC Handle": "MAFU-RIPE",
+        "ASN": [
+            "25486",
+            "34764"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.lightupnet.de",
+                "name": "Lightup Network Solutions GmbH & Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "spion",
+        "Name": "Jan Wagner",
+        "NIC Handle": "JW8767-RIPE",
+        "ASN": [
+            "16316",
+            "33896"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.tmt.de/",
+                "name": "TMT GmbH & Co. KG"
+            },
+            {
+                "url": "http://www.waaf.net/",
+                "name": "waaf.net GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "stargazer",
+        "Name": "S. P. Zeidler",
+        "NIC Handle": "SPZ",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.netbsd.org/",
+                "name": "NetBSD"
+            }
+        ]
+    },
+    {
+        "Nick": "Stefan2",
+        "Name": "Stefan Schellenberg",
+        "NIC Handle": "STS",
+        "ASN": [
+            "8495"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.internic.de",
+                "name": "INTERNIC GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "steinex",
+        "Name": "Frank Steinborn",
+        "NIC Handle": "FS4020-RIPE",
+        "ASN": [
+            "15594"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.netzquadrat.de/",
+                "name": "netzquadrat GmbH"
+            },
+            {
+                "url": "http://www.sipgate.de/",
+                "name": "sipgate GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "steve",
+        "Name": "Stephan Fischer",
+        "NIC Handle": "SF3464-RIPE",
+        "ASN": [
+            "12429"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.cybernet.ch/",
+                "name": "Cybernet"
+            }
+        ]
+    },
+    {
+        "Nick": "steven",
+        "Name": "Steven Glogger",
+        "NIC Handle": "SG7777-RIPE",
+        "ASN": [
+            "12429"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.cybernet.ch",
+                "name": "Swisscom (Schweiz) AG (ex-Cybernet)"
+            }
+        ]
+    },
+    {
+        "Nick": "Stoepsel",
+        "Name": "Stefan Plug",
+        "NIC Handle": "",
+        "ASN": [
+            "9033"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.ecix.net",
+                "name": "ECIX"
+            }
+        ]
+    },
+    {
+        "Nick": "StyleWarz",
+        "Name": "Franz Bettag",
+        "NIC Handle": "FB67-RIPE",
+        "ASN": [
+            "34868"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.qs-housing.net",
+                "name": "QS Housing"
+            }
+        ]
+    },
+    {
+        "Nick": "sv--",
+        "Name": "Steffen Voigt",
+        "NIC Handle": "SV141-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.electrolyte.de",
+                "name": "electrolyte consulting"
+            }
+        ]
+    },
+    {
+        "Nick": "swaio",
+        "Name": "Stefan Wahl",
+        "NIC Handle": "",
+        "ASN": [
+            "208262",
+            "9033"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "OPEN7"
+            },
+            {
+                "url": "http://www.megaport.com/",
+                "name": "MEGAPORT"
+            },
+            {
+                "url": "http://www.ecix.net/",
+                "name": "ECIX"
+            }
+        ]
+    },
+    {
+        "Nick": "sworn",
+        "Name": "Sören Todt",
+        "NIC Handle": "ST364-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.todt.org",
+                "name": "Systemhaus Todt"
+            }
+        ]
+    },
+    {
+        "Nick": "syn23",
+        "Name": "Christian Korn",
+        "NIC Handle": "CHK2342-RIPE",
+        "ASN": [
+            "60955"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Wavecon GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "TabTwo",
+        "Name": "Ralph J. Mayer",
+        "NIC Handle": "",
+        "ASN": [
+            "AS33848"
+        ],
+        "Organisation": [
+            {
+                "url": "www.nerd-residenz.de",
+                "name": "Porsche AG"
+            }
+        ]
+    },
+    {
+        "Nick": "takt",
+        "Name": "Oliver Herms",
+        "NIC Handle": "TAKT1-RIPE",
+        "ASN": [
+            "15169",
+            "201701",
+            "199714"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Google"
+            },
+            {
+                "url": null,
+                "name": "Freifunk Rheinland e.V."
+            }
+        ]
+    },
+    {
+        "Nick": "Taucher",
+        "Name": "Norbert Surowy",
+        "NIC Handle": "NOBY-RIPE",
+        "ASN": [
+            "9145"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.ewetel.de/",
+                "name": "EWETEL"
+            }
+        ]
+    },
+    {
+        "Nick": "tbm",
+        "Name": "Michael Neumann",
+        "NIC Handle": "MN5",
+        "ASN": [
+            "38955"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.world4you.com/",
+                "name": "World4You Internet Services GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "testpil0t",
+        "Name": "Matthias Fetzer",
+        "NIC Handle": "MF17425-RIPE",
+        "ASN": [
+            "205365"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "ThomAS196714",
+        "Name": "Thomas Voigt",
+        "NIC Handle": "TV1427-RIPE",
+        "ASN": [
+            "196714"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.netkom.de/",
+                "name": "Thüringer Netkom GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "thomasDOTwtf",
+        "Name": "Thomas Drewermann",
+        "NIC Handle": "TD2676-RIPEtdre",
+        "ASN": [
+            "201701",
+            "197965"
+        ],
+        "Organisation": [
+            {
+                "url": "http://freifunk-rheinland.net/",
+                "name": "Freifunk Rheinland e.V."
+            },
+            {
+                "url": "http://ahd.de/",
+                "name": "ahd hellweg data GmbH & Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "Thor-20940",
+        "Name": "Torsten Blum",
+        "NIC Handle": "TBAK-RIPE",
+        "ASN": [
+            "20940",
+            "32787"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Akamai Technologies"
+            }
+        ]
+    },
+    {
+        "Nick": "TimKleefass",
+        "Name": "Tim Kleefass",
+        "NIC Handle": "",
+        "ASN": [
+            "51324"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.exaring.de",
+                "name": "EXARING AG"
+            }
+        ]
+    },
+    {
+        "Nick": "toBee",
+        "Name": "Tom Spier",
+        "NIC Handle": "TS5901-RIPE",
+        "ASN": [
+            "25394"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.mk.de/",
+                "name": "MK Netzdienste GmbH und Co. KG"
+            }
+        ]
+    },
+    {
+        "Nick": "tobifix",
+        "Name": "Tobias Rehn",
+        "NIC Handle": "TOBI-RIPE",
+        "ASN": [
+            "47447"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.23media.eu/",
+                "name": "23Media"
+            }
+        ]
+    },
+    {
+        "Nick": "tobi_",
+        "Name": "Tobias Hadem",
+        "NIC Handle": "THDE-RIPE",
+        "ASN": [
+            "42135"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.lt-ec.de/",
+                "name": "LT-ec"
+            }
+        ]
+    },
+    {
+        "Nick": "ToJe",
+        "Name": "Torsten Jerzembeck",
+        "NIC Handle": "EJOT-RIPE",
+        "ASN": [
+            "41698"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.bfk.de/",
+                "name": "BFK edv-consulting GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "tomate42",
+        "Name": "Torben von Nolcken",
+        "NIC Handle": "TN847-RIPE",
+        "ASN": [
+            "12731"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.iphh.net/",
+                "name": "IPHH Internet Port Hamburg GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "tomislav",
+        "Name": "Thomas Wiebe",
+        "NIC Handle": "TW1225-RIPE",
+        "ASN": [
+            "39928"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.webperoni.de",
+                "name": "webperoni GmbH"
+            },
+            {
+                "url": "http://www.llweb.de",
+                "name": "LLweb GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "Toshima",
+        "Name": "Thomas Jessen",
+        "NIC Handle": "TOSH1-RIPE",
+        "ASN": [
+            "286",
+            "517"
+        ],
+        "Organisation": [
+            {
+                "url": "https://as286.net",
+                "name": "KPN EuroRings B.V."
+            }
+        ]
+    },
+    {
+        "Nick": "Toxid",
+        "Name": "Stefan Rauscher",
+        "NIC Handle": "",
+        "ASN": [
+            "21385"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "TraXo",
+        "Name": "Florian Bauhaus",
+        "NIC Handle": "FBH-RIPE",
+        "ASN": [
+            "52088"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.portrix-systems.de/",
+                "name": "portrix Systems GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "tuxfan",
+        "Name": "Ronny Lippold",
+        "NIC Handle": "RL2513-RIPE",
+        "ASN": [
+            "41039"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.dslonair.de",
+                "name": "DBD Deutsche Breitband Dienste GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "tvberlin",
+        "Name": "Theo Voss",
+        "NIC Handle": "ANXT-RIPETHEO-RIPE",
+        "ASN": [
+            "47147",
+            "42473"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Anexia"
+            }
+        ]
+    },
+    {
+        "Nick": "twiddern",
+        "Name": "Tizian Cardinal von Widdern",
+        "NIC Handle": "TCVW-RIPE",
+        "ASN": [
+            "203507",
+            "206970"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.avira.com/",
+                "name": "Avira"
+            }
+        ]
+    },
+    {
+        "Nick": "ulf",
+        "Name": "Ulf Fischer",
+        "NIC Handle": "ULF-RIPE",
+        "ASN": [
+            "12731"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.iphh.net/",
+                "name": "IPHH Internet Port Hamburg GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "ulli",
+        "Name": "Ulrich Köhler",
+        "NIC Handle": "UK489-RIPE",
+        "ASN": [
+            "33891"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.core-backbone.com",
+                "name": "Core Backbone GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "vidister",
+        "Name": "David Weber",
+        "NIC Handle": "DW5217-RIPE",
+        "ASN": [
+            "208942",
+            "9136"
+        ],
+        "Organisation": []
+    },
+    {
+        "Nick": "viro",
+        "Name": "Matthias Döring",
+        "NIC Handle": "",
+        "ASN": [
+            "35258"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "akquinet AG"
+            }
+        ]
+    },
+    {
+        "Nick": "VT100",
+        "Name": "Peter S.",
+        "NIC Handle": "VT100",
+        "ASN": [
+            "1764",
+            "25538"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "IN Ulm"
+            },
+            {
+                "url": null,
+                "name": "next layer GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "weiti",
+        "Name": "Tim Weippert",
+        "NIC Handle": "TW739-RIPE",
+        "ASN": [
+            "12857",
+            "28918"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.tds.fujitsu.com/",
+                "name": "Fujitsu TDS GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "winni",
+        "Name": "Winfried Haug",
+        "NIC Handle": "WH9",
+        "ASN": [
+            "6666",
+            "5549",
+            "20968"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.carrier24.de",
+                "name": "Carrier24"
+            },
+            {
+                "url": "http://www.seicom.de",
+                "name": "Seicom"
+            },
+            {
+                "url": "http://www.headlight.de",
+                "name": "Headlight"
+            }
+        ]
+    },
+    {
+        "Nick": "Wodenn",
+        "Name": "Astrid Janssen",
+        "NIC Handle": "AJ109-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "wotan",
+        "Name": "Oliver Korbl",
+        "NIC Handle": "OK700-RIPE",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "wusel",
+        "Name": "Kai 'wusel' Siering",
+        "NIC Handle": "KS281",
+        "ASN": [
+            "49475",
+            "206813"
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "uu.org"
+            },
+            {
+                "url": "https://freifunk-kreisgt.de/",
+                "name": "Freifunk Kreis GT"
+            }
+        ]
+    },
+    {
+        "Nick": "ZaphodB",
+        "Name": "Stefan Schmidt",
+        "NIC Handle": "ZAP",
+        "ASN": [
+            "60955"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.wavecon.de/",
+                "name": "Wavecon GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "zeroC",
+        "Name": "Daniel Franke",
+        "NIC Handle": "",
+        "ASN": [],
+        "Organisation": []
+    },
+    {
+        "Nick": "Zugschlus",
+        "Name": "Marc Haber",
+        "NIC Handle": "ZUG2-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://uri.zugschlus.de/homepage",
+                "name": "Freelance IT Insultant"
+            }
+        ]
+    },
+    {
+        "Nick": "_andre_",
+        "Name": "Andre Heckrath",
+        "NIC Handle": "AH2792-RIPE",
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.heckrath.net/",
+                "name": "heckrath.net IT-Services"
+            }
+        ]
+    },
+    {
+        "Nick": "_garry_",
+        "Name": "Garry Glendown",
+        "NIC Handle": "GGRN-RIPE",
+        "ASN": [
+            "8319"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.nethinks.com/",
+                "name": "Nethinks GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "_mrplow",
+        "Name": "Moritz Krause",
+        "NIC Handle": "MK14357-RIPE",
+        "ASN": [
+            "24679"
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.hostway.de/",
+                "name": "Hostway Deutschland GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "_sb_",
+        "Name": "Sebastian Becker",
+        "NIC Handle": "SB15220-RIPE",
+        "ASN": [
+            "3320",
+            "20570",
+            "44178",
+            "48951"
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.telekom.com/",
+                "name": "Deutsche Telekom AG"
+            },
+            {
+                "url": null,
+                "name": "T-Systems International GmbH"
+            }
+        ]
+    }
+]
