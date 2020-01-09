@@ -31,6 +31,7 @@ layout: liste
           {% if org.url %}<a href="{{ org.url }}">{% endif %}
           {{ org.name }}
           {% if org.url %}</a>{% endif %}
+          <br>
         {% endfor %}{% endif %}
       </td>
     </tr>
