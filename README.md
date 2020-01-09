@@ -10,6 +10,7 @@ Request.
 Sobald der PR gemerged wurde, werden die Daten [hier](https://www.denog.de/de/chatterliste_iframe.html) und
 [hier](https://www.denog.de/chatterliste/) erscheinen.
 
+Ist JSON nicht so deins? Eröffne eine Issue [hier](https://github.com/denog/chatterliste/issues/new/choose) und beantworte die Fragen. 
 
 ----------------
 
@@ -21,6 +22,7 @@ Request.
 Once the PR has been merged, the data will appear [here](https://www.denog.de/de/chatterliste_iframe.html) and
 [here](https://www.denog.de/chatterliste/).
 
+Don't feel like editing JSON? Open a Issue [here](https://github.com/denog/chatterliste/issues/new/choose) and answer the questions.
 
 Development
 -----------
