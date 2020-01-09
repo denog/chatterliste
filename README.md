@@ -20,3 +20,12 @@ Request.
 
 Once the PR has been merged, the data will appear [here](https://www.denog.de/de/chatterliste_iframe.html) and
 [here](https://www.denog.de/chatterliste/).
+
+
+Development
+-----------
+
+Run ``bundle install`` and ``bundle exec jekyll serve`` to see how the list will look like.
+
+The general layout is in the ``_layouts`` directory, and the list itself is rendered from the data file in
+``index.markdown``.
