@@ -1,0 +1,66 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://github.com/denog/chatterliste/blob/master/_data/schema.json",
+    "description": "An address similar to http://microformats.org/wiki/h-card",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "Nick": {
+                "type": "string"
+            },
+            "Name": {
+                "type": "string"
+            },
+            "NIC Handle": {
+                "type": ["string", "null"]
+            },
+            "ASN": {
+                "type": "array",
+                "items": {
+                    "type": ["integer", "null"]
+                },
+                "uniqueItems": true
+            },
+            "Organisation": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "url": {
+                            "type": ["string", "null"]
+                        },
+                        "name": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "name"
+                    ]
+                },
+                "uniqueItems": true
+            }
+        },
+        "required": [
+            "Nick",
+            "Name"
+        ]
+    },
+    "uniqueItems": true,
+    "examples": [
+        {
+            "Nick": "jdoe",
+            "Name": "Jane Doe",
+            "NIC Handle": "JXXXX-RIPE",
+            "ASN": [
+                47000
+            ],
+            "Organisation": [
+                {
+                    "url": "http://example.org/",
+                    "name": "Example GmbH"
+                }
+            ]
+        }
+    ]
+}
