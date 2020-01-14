@@ -17,9 +17,9 @@ layout: liste
       <td>{{ entry.Nick }}</td>
       <td>{{ entry.Name }}</td>
       <td>
-        {% if entry["NIC Handle"] %}
-        <a href="http://apps.db.ripe.net/search/query.html?searchtext={{ entry["NIC Handle"] }}&flags=r&types=PERSON">{{ entry["NIC Handle"] }}</a>
-        {% endif %}
+        {% if entry["NIC Handle"] %}{% for handle in entry["NIC Handle"] %}
+        <a href="http://apps.db.ripe.net/search/query.html?searchtext={{ handle }}&flags=r&types=PERSON">{{ handle }}</a><br>
+        {% endfor %}{% endif %}
       </td>
       <td>
         {% if entry.ASN %}{% for asn in entry.ASN %}

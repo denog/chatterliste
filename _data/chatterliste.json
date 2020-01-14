@@ -2,21 +2,25 @@
     {
         "Nick": "a-zlex",
         "Name": "Alexander Schlensog",
-        "NIC Handle": "ALEX42-RIPE",
+        "NIC Handle": [
+            "ALEX42-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "abien",
         "Name": "Alexander Bien",
-        "NIC Handle": "BIEN-RIPE",
+        "NIC Handle": [
+            "BIEN-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "abraXxl",
         "Name": "Joerg Jungermann",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             42263
         ],
@@ -30,7 +34,9 @@
     {
         "Nick": "absynth",
         "Name": "Christopher Kunz",
-        "NIC Handle": "CK1643-RIPE",
+        "NIC Handle": [
+            "CK1643-RIPE"
+        ],
         "ASN": [
             47215
         ],
@@ -44,7 +50,7 @@
     {
         "Nick": "adan0s",
         "Name": "Sven Ludwig",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             8292
         ],
@@ -58,7 +64,9 @@
     {
         "Nick": "akarl",
         "Name": "Alexander Karl",
-        "NIC Handle": "AK14946-RIPE",
+        "NIC Handle": [
+            "AK14946-RIPE"
+        ],
         "ASN": [
             203531
         ],
@@ -72,7 +80,9 @@
     {
         "Nick": "alamar",
         "Name": "Julian Seifert",
-        "NIC Handle": "JULI-RIPE",
+        "NIC Handle": [
+            "JULI-RIPE"
+        ],
         "ASN": [
             28876,
             50642
@@ -87,7 +97,7 @@
     {
         "Nick": "almi",
         "Name": "Alexander Mischke",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -99,7 +109,9 @@
     {
         "Nick": "aloah",
         "Name": "Werner Detter",
-        "NIC Handle": "WD8481-RIPE",
+        "NIC Handle": [
+            "WD8481-RIPE"
+        ],
         "ASN": [
             8481
         ],
@@ -113,7 +125,9 @@
     {
         "Nick": "andi-",
         "Name": "Andreas Rammhold",
-        "NIC Handle": "NX101",
+        "NIC Handle": [
+            "NX101"
+        ],
         "ASN": [
             62023,
             6766
@@ -128,7 +142,9 @@
     {
         "Nick": "andm100",
         "Name": "Andre Mamitzsch",
-        "NIC Handle": "AM4880-RIPE",
+        "NIC Handle": [
+            "AM4880-RIPE"
+        ],
         "ASN": [
             58243
         ],
@@ -142,7 +158,7 @@
     {
         "Nick": "Andreas5555",
         "Name": "Andreas Götz",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             33891
         ],
@@ -156,7 +172,9 @@
     {
         "Nick": "Any",
         "Name": "Martin Kluge",
-        "NIC Handle": "KLM-RIPE",
+        "NIC Handle": [
+            "KLM-RIPE"
+        ],
         "ASN": [
             35292
         ],
@@ -170,7 +188,9 @@
     {
         "Nick": "arcturus",
         "Name": "Tobias Neumann",
-        "NIC Handle": "TN6695-RIPE",
+        "NIC Handle": [
+            "TN6695-RIPE"
+        ],
         "ASN": [
             6695
         ],
@@ -184,7 +204,9 @@
     {
         "Nick": "argonius",
         "Name": "Patrick Kaiser",
-        "NIC Handle": "PK3264-RIPE",
+        "NIC Handle": [
+            "PK3264-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -196,7 +218,9 @@
     {
         "Nick": "arnotron",
         "Name": "Arne Böttger",
-        "NIC Handle": "APB9-RIPE",
+        "NIC Handle": [
+            "APB9-RIPE"
+        ],
         "ASN": [
             20694
         ],
@@ -210,7 +234,9 @@
     {
         "Nick": "as.as.as",
         "Name": "Andre Scholz",
-        "NIC Handle": "ATS",
+        "NIC Handle": [
+            "ATS"
+        ],
         "ASN": [
             8475,
             196608
@@ -225,7 +251,9 @@
     {
         "Nick": "atraxs",
         "Name": "Martin Prager",
-        "NIC Handle": "NP2275-RIPE",
+        "NIC Handle": [
+            "NP2275-RIPE"
+        ],
         "ASN": [
             43847
         ],
@@ -239,7 +267,9 @@
     {
         "Nick": "axel-49024",
         "Name": "Axel Fischer",
-        "NIC Handle": "AFI5-RIPE",
+        "NIC Handle": [
+            "AFI5-RIPE"
+        ],
         "ASN": [
             49024
         ],
@@ -253,7 +283,7 @@
     {
         "Nick": "baboo",
         "Name": "Sebastian Posner",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -265,7 +295,7 @@
     {
         "Nick": "bapho",
         "Name": "Christopher Dworczak",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             13237
         ],
@@ -279,7 +309,9 @@
     {
         "Nick": "Barbarossa",
         "Name": "Maximilian Wilhelm",
-        "NIC Handle": "MWFF12-RIPE",
+        "NIC Handle": [
+            "MWFF12-RIPE"
+        ],
         "ASN": [
             201701
         ],
@@ -297,21 +329,25 @@
     {
         "Nick": "Ba|rog",
         "Name": "Axel Eble",
-        "NIC Handle": "AE12-RIPE",
+        "NIC Handle": [
+            "AE12-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "bedeck",
         "Name": "Christoph Badura",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "berniv6",
         "Name": "Bernhard Schmidt",
-        "NIC Handle": "BSC-RIPE",
+        "NIC Handle": [
+            "BSC-RIPE"
+        ],
         "ASN": [
             12816,
             29259
@@ -330,7 +366,7 @@
     {
         "Nick": "bitjab",
         "Name": "Marco Prause",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             31529,
             8763
@@ -345,7 +381,9 @@
     {
         "Nick": "bj",
         "Name": "Björn  Engels",
-        "NIC Handle": "BE298-RIPE",
+        "NIC Handle": [
+            "BE298-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -357,21 +395,25 @@
     {
         "Nick": "Blackblade",
         "Name": "Michael Heck",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "blackwing",
         "Name": "Sebastian Werner",
-        "NIC Handle": "GEEK-RIPE",
+        "NIC Handle": [
+            "GEEK-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "bnfh",
         "Name": "Matthias Kupfer",
-        "NIC Handle": "KUMA-RIPE",
+        "NIC Handle": [
+            "KUMA-RIPE"
+        ],
         "ASN": [
             20686
         ],
@@ -385,7 +427,9 @@
     {
         "Nick": "Bommel",
         "Name": "Gregor Möller",
-        "NIC Handle": "GM-RIPE",
+        "NIC Handle": [
+            "GM-RIPE"
+        ],
         "ASN": [
             12731
         ],
@@ -399,7 +443,7 @@
     {
         "Nick": "boosty",
         "Name": "Jens Lüdemann",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             13237
         ],
@@ -413,7 +457,9 @@
     {
         "Nick": "brainy",
         "Name": "Jörg Städele",
-        "NIC Handle": "JSTN",
+        "NIC Handle": [
+            "JSTN"
+        ],
         "ASN": [
             21385
         ],
@@ -427,7 +473,7 @@
     {
         "Nick": "bundy",
         "Name": "Stefan Funke",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             20647
         ],
@@ -441,7 +487,7 @@
     {
         "Nick": "carp",
         "Name": "Marc Redeker",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -453,7 +499,9 @@
     {
         "Nick": "caz",
         "Name": "Carsten Zimmermann",
-        "NIC Handle": "CZ2-RIPE",
+        "NIC Handle": [
+            "CZ2-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -465,7 +513,9 @@
     {
         "Nick": "cerbfs",
         "Name": "Gerd Feiner",
-        "NIC Handle": "GF84-RIPE",
+        "NIC Handle": [
+            "GF84-RIPE"
+        ],
         "ASN": [
             35244
         ],
@@ -479,7 +529,11 @@
     {
         "Nick": "Chaotarch",
         "Name": "Jens Brey",
-        "NIC Handle": "NSJB-RIPEMSJB1-RIPEDEJB-RIPE",
+        "NIC Handle": [
+            "NSJB-RIPE",
+            "MSJB1-RIPE",
+            "DEJB-RIPE"
+        ],
         "ASN": [
             34115
         ],
@@ -493,7 +547,9 @@
     {
         "Nick": "Charlie`",
         "Name": "Christian Schmidt",
-        "NIC Handle": "CPS1-RIPE",
+        "NIC Handle": [
+            "CPS1-RIPE"
+        ],
         "ASN": [
             8495
         ],
@@ -507,7 +563,10 @@
     {
         "Nick": "chn",
         "Name": "Christoph Neukirch",
-        "NIC Handle": "CN202-RIPECHN42-RIPE",
+        "NIC Handle": [
+            "CN202-RIPE",
+            "CHN42-RIPE"
+        ],
         "ASN": [
             50343
         ],
@@ -521,7 +580,9 @@
     {
         "Nick": "Chosen",
         "Name": "Yves Roquette",
-        "NIC Handle": "YR198-RIPE",
+        "NIC Handle": [
+            "YR198-RIPE"
+        ],
         "ASN": [
             15657
         ],
@@ -535,7 +596,7 @@
     {
         "Nick": "Chosi",
         "Name": "Alexander Bienzeisler",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -547,7 +608,9 @@
     {
         "Nick": "chrische",
         "Name": "Christian Schmidt",
-        "NIC Handle": "CHSC-RIPE",
+        "NIC Handle": [
+            "CHSC-RIPE"
+        ],
         "ASN": [
             50629
         ],
@@ -561,7 +624,9 @@
     {
         "Nick": "chrisk",
         "Name": "Christian Kildau",
-        "NIC Handle": "CKPL",
+        "NIC Handle": [
+            "CKPL"
+        ],
         "ASN": [
             12306,
             206564
@@ -576,7 +641,7 @@
     {
         "Nick": "Chrissi1",
         "Name": "Christan Gebhardt",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             6695
         ],
@@ -590,7 +655,9 @@
     {
         "Nick": "clockwork",
         "Name": "Raphael Rosenberg",
-        "NIC Handle": "CLK1338-RIPE",
+        "NIC Handle": [
+            "CLK1338-RIPE"
+        ],
         "ASN": [
             60955
         ],
@@ -604,7 +671,9 @@
     {
         "Nick": "CoreTex-51861",
         "Name": "Eric Dorr",
-        "NIC Handle": "ED51861-RIPE",
+        "NIC Handle": [
+            "ED51861-RIPE"
+        ],
         "ASN": [
             51861
         ],
@@ -613,7 +682,7 @@
     {
         "Nick": "Cornholio21",
         "Name": "Anton Khonych",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             28876
         ],
@@ -627,7 +696,9 @@
     {
         "Nick": "crampl",
         "Name": "Georg Kröber",
-        "NIC Handle": "GKSK-RIPE",
+        "NIC Handle": [
+            "GKSK-RIPE"
+        ],
         "ASN": [
             41470
         ],
@@ -645,7 +716,9 @@
     {
         "Nick": "cratzer",
         "Name": "Christian Kratzer",
-        "NIC Handle": "CK12-RIPE",
+        "NIC Handle": [
+            "CK12-RIPE"
+        ],
         "ASN": [
             57407
         ],
@@ -659,7 +732,9 @@
     {
         "Nick": "cron2",
         "Name": "Gert Döring",
-        "NIC Handle": "GERT-RIPE",
+        "NIC Handle": [
+            "GERT-RIPE"
+        ],
         "ASN": [
             5539,
             8878,
@@ -679,7 +754,7 @@
     {
         "Nick": "cy",
         "Name": "Christian Kühn",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -691,7 +766,9 @@
     {
         "Nick": "cz8s",
         "Name": "Christoph Klünter",
-        "NIC Handle": "CK207-RIPE",
+        "NIC Handle": [
+            "CK207-RIPE"
+        ],
         "ASN": [
             12731
         ],
@@ -705,7 +782,9 @@
     {
         "Nick": "dAEnG",
         "Name": "Daniel Gründler",
-        "NIC Handle": "DaGr100-RIPE",
+        "NIC Handle": [
+            "DaGr100-RIPE"
+        ],
         "ASN": [
             12399
         ],
@@ -719,7 +798,9 @@
     {
         "Nick": "danrl",
         "Name": "Dan Luedtke",
-        "NIC Handle": "DAN1337-RIPE",
+        "NIC Handle": [
+            "DAN1337-RIPE"
+        ],
         "ASN": [
             57821
         ],
@@ -733,7 +814,10 @@
     {
         "Nick": "dan_nrw",
         "Name": "Daniel Czerwonk",
-        "NIC Handle": "DC16585-RIPEDAN213-RIPE",
+        "NIC Handle": [
+            "DC16585-RIPE",
+            "DAN213-RIPE"
+        ],
         "ASN": [
             48821,
             202739,
@@ -753,7 +837,9 @@
     {
         "Nick": "daster",
         "Name": "Daniel Maresch",
-        "NIC Handle": "DM2147-RIPE",
+        "NIC Handle": [
+            "DM2147-RIPE"
+        ],
         "ASN": [
             33891
         ],
@@ -767,7 +853,9 @@
     {
         "Nick": "davidc",
         "Name": "David Croft",
-        "NIC Handle": "DC5052-RIPE",
+        "NIC Handle": [
+            "DC5052-RIPE"
+        ],
         "ASN": [
             32346,
             42579
@@ -782,7 +870,9 @@
     {
         "Nick": "DC1PF",
         "Name": "Peter Fabeck",
-        "NIC Handle": "PF3862-RIPE",
+        "NIC Handle": [
+            "PF3862-RIPE"
+        ],
         "ASN": [
             13237
         ],
@@ -796,7 +886,9 @@
     {
         "Nick": "Der-Tim",
         "Name": "Tim Korves",
-        "NIC Handle": "WHTK-RIPE",
+        "NIC Handle": [
+            "WHTK-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -812,7 +904,9 @@
     {
         "Nick": "derjohn",
         "Name": "Andreas John",
-        "NIC Handle": "JOHN-RIPE",
+        "NIC Handle": [
+            "JOHN-RIPE"
+        ],
         "ASN": [
             20755,
             8804
@@ -827,7 +921,9 @@
     {
         "Nick": "dinoex",
         "Name": "Dirk Meyer",
-        "NIC Handle": "DM996-RIPE",
+        "NIC Handle": [
+            "DM996-RIPE"
+        ],
         "ASN": [
             20810
         ],
@@ -841,7 +937,9 @@
     {
         "Nick": "dinux",
         "Name": "Oliver Dreier",
-        "NIC Handle": "OD55-RIPE",
+        "NIC Handle": [
+            "OD55-RIPE"
+        ],
         "ASN": [
             15763
         ],
@@ -855,7 +953,9 @@
     {
         "Nick": "dk",
         "Name": "Dennis Kögel",
-        "NIC Handle": "AMF-RIPE",
+        "NIC Handle": [
+            "AMF-RIPE"
+        ],
         "ASN": [
             20621
         ],
@@ -869,7 +969,9 @@
     {
         "Nick": "Dlareg",
         "Name": "Gerald Krause",
-        "NIC Handle": "GKR-RIPE",
+        "NIC Handle": [
+            "GKR-RIPE"
+        ],
         "ASN": [
             20783
         ],
@@ -883,7 +985,9 @@
     {
         "Nick": "dockmaster",
         "Name": "Sascha E. Pollok",
-        "NIC Handle": "SEP7-RIPE",
+        "NIC Handle": [
+            "SEP7-RIPE"
+        ],
         "ASN": [
             12731
         ],
@@ -897,7 +1001,9 @@
     {
         "Nick": "Donner",
         "Name": "Lutz Donnerhacke",
-        "NIC Handle": "LD26",
+        "NIC Handle": [
+            "LD26"
+        ],
         "ASN": [
             15725,
             199284
@@ -920,7 +1026,10 @@
     {
         "Nick": "dr",
         "Name": "Daniel Rösen",
-        "NIC Handle": "CLUE-RIPEDARO-RIPE",
+        "NIC Handle": [
+            "CLUE-RIPE",
+            "DARO-RIPE"
+        ],
         "ASN": [
             5401
         ],
@@ -938,14 +1047,18 @@
     {
         "Nick": "dr3x",
         "Name": "Hendrik Braasch",
-        "NIC Handle": "HB4202-RIPE",
+        "NIC Handle": [
+            "HB4202-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "DrB",
         "Name": "Andreas Schwarz",
-        "NIC Handle": "ASZ-RIPE",
+        "NIC Handle": [
+            "ASZ-RIPE"
+        ],
         "ASN": [
             13184,
             6805
@@ -955,14 +1068,16 @@
     {
         "Nick": "Drizzt",
         "Name": "Jens Roesen",
-        "NIC Handle": "JENS6-RIPE",
+        "NIC Handle": [
+            "JENS6-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "dspierling",
         "Name": "Daniel Spierling",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             6695
         ],
@@ -976,7 +1091,9 @@
     {
         "Nick": "dth",
         "Name": "Dennis Thomas",
-        "NIC Handle": "DTH",
+        "NIC Handle": [
+            "DTH"
+        ],
         "ASN": [
             16509,
             38895,
@@ -992,7 +1109,9 @@
     {
         "Nick": "dwalin",
         "Name": "Jürgen Unger",
-        "NIC Handle": "JU1-RIPE",
+        "NIC Handle": [
+            "JU1-RIPE"
+        ],
         "ASN": [
             29472
         ],
@@ -1006,7 +1125,9 @@
     {
         "Nick": "E1-6695",
         "Name": "Yvonne Hahn",
-        "NIC Handle": "YH6695-RIPE",
+        "NIC Handle": [
+            "YH6695-RIPE"
+        ],
         "ASN": [
             6695
         ],
@@ -1020,7 +1141,9 @@
     {
         "Nick": "efraim",
         "Name": "Alexander Koch",
-        "NIC Handle": "AKO4-RIPE",
+        "NIC Handle": [
+            "AKO4-RIPE"
+        ],
         "ASN": [
             1299
         ],
@@ -1034,7 +1157,9 @@
     {
         "Nick": "Eimann",
         "Name": "Dominik Bay",
-        "NIC Handle": "DB4242-RIPE",
+        "NIC Handle": [
+            "DB4242-RIPE"
+        ],
         "ASN": [
             702,
             35244,
@@ -1058,7 +1183,7 @@
     {
         "Nick": "elch",
         "Name": "Gregor Radtke",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             51176
         ],
@@ -1072,7 +1197,9 @@
     {
         "Nick": "enux",
         "Name": "Peter Maisel",
-        "NIC Handle": "PM1",
+        "NIC Handle": [
+            "PM1"
+        ],
         "ASN": [
             16316
         ],
@@ -1086,7 +1213,9 @@
     {
         "Nick": "EP",
         "Name": "Edwin Punt",
-        "NIC Handle": "EP",
+        "NIC Handle": [
+            "EP"
+        ],
         "ASN": [
             46489
         ],
@@ -1100,7 +1229,9 @@
     {
         "Nick": "fairlight0815",
         "Name": "Falk Brockerhoff",
-        "NIC Handle": "FB1992-RIPE",
+        "NIC Handle": [
+            "FB1992-RIPE"
+        ],
         "ASN": [
             35548
         ],
@@ -1114,7 +1245,9 @@
     {
         "Nick": "falk",
         "Name": "Falk Stern",
-        "NIC Handle": "FS12874-RIPE",
+        "NIC Handle": [
+            "FS12874-RIPE"
+        ],
         "ASN": [
             204127
         ],
@@ -1123,7 +1256,10 @@
     {
         "Nick": "FaUL",
         "Name": "Immo Wehrenberg",
-        "NIC Handle": "FAUL-RIPEIW4242-RIPE",
+        "NIC Handle": [
+            "FAUL-RIPE",
+            "IW4242-RIPE"
+        ],
         "ASN": [
             31371,
             35675,
@@ -1143,7 +1279,7 @@
     {
         "Nick": "Felix-20773",
         "Name": "Felix Schueren",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             20773
         ],
@@ -1157,7 +1293,9 @@
     {
         "Nick": "fl0",
         "Name": "Florian Sippel",
-        "NIC Handle": "FLO-RIPE",
+        "NIC Handle": [
+            "FLO-RIPE"
+        ],
         "ASN": [
             12337
         ],
@@ -1171,7 +1309,7 @@
     {
         "Nick": "fl1ger",
         "Name": "Ralf Weber",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             8220
         ],
@@ -1185,7 +1323,9 @@
     {
         "Nick": "florian",
         "Name": "Florian Hibler",
-        "NIC Handle": "FH-RIPE",
+        "NIC Handle": [
+            "FH-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -1197,7 +1337,7 @@
     {
         "Nick": "flotu",
         "Name": "Florian Lenzen",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             47215
         ],
@@ -1211,14 +1351,16 @@
     {
         "Nick": "FrauStief",
         "Name": "Kerstin Mende",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "freddy436",
         "Name": "Frederik Kriewitz",
-        "NIC Handle": "NX123",
+        "NIC Handle": [
+            "NX123"
+        ],
         "ASN": [
             62023,
             197711,
@@ -1234,7 +1376,9 @@
     {
         "Nick": "FredNeuberger",
         "Name": "Oliver Haake",
-        "NIC Handle": "OHPS-RIPE",
+        "NIC Handle": [
+            "OHPS-RIPE"
+        ],
         "ASN": [
             13237
         ],
@@ -1248,7 +1392,7 @@
     {
         "Nick": "frickler",
         "Name": "Dr. Jens Harbott",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             60664
         ],
@@ -1262,7 +1406,9 @@
     {
         "Nick": "ftaeger",
         "Name": "Florian Täger",
-        "NIC Handle": "FT-RIPE",
+        "NIC Handle": [
+            "FT-RIPE"
+        ],
         "ASN": [
             3356,
             35684
@@ -1277,7 +1423,9 @@
     {
         "Nick": "FvD",
         "Name": "Markus Weber",
-        "NIC Handle": "FVD5-RIPE",
+        "NIC Handle": [
+            "FVD5-RIPE"
+        ],
         "ASN": [
             286,
             517
@@ -1292,7 +1440,9 @@
     {
         "Nick": "gaggaman",
         "Name": "Gerald Nowitzky",
-        "NIC Handle": "GN2536-RIPE",
+        "NIC Handle": [
+            "GN2536-RIPE"
+        ],
         "ASN": [
             48484
         ],
@@ -1306,14 +1456,18 @@
     {
         "Nick": "Galaxis",
         "Name": "Alexander Bochmann",
-        "NIC Handle": "AB54-RIPE",
+        "NIC Handle": [
+            "AB54-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "Garf",
         "Name": "Wolfgang Tremmel",
-        "NIC Handle": "WT5-RIPE",
+        "NIC Handle": [
+            "WT5-RIPE"
+        ],
         "ASN": [
             6695
         ],
@@ -1327,7 +1481,9 @@
     {
         "Nick": "GERD",
         "Name": "Gerhard Scholz",
-        "NIC Handle": "GERD1-RIPE",
+        "NIC Handle": [
+            "GERD1-RIPE"
+        ],
         "ASN": [
             9145
         ],
@@ -1341,7 +1497,7 @@
     {
         "Nick": "GigaStorm",
         "Name": "Martin Weigelt",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             58243
         ],
@@ -1355,7 +1511,10 @@
     {
         "Nick": "gizzmo",
         "Name": "Christian Seitz",
-        "NIC Handle": "CHSE-RIPECHRS-RIPE",
+        "NIC Handle": [
+            "CHSE-RIPE",
+            "CHRS-RIPE"
+        ],
         "ASN": [
             6724,
             29670
@@ -1374,7 +1533,9 @@
     {
         "Nick": "Glenlivet",
         "Name": "Hans-Christoph Deeken",
-        "NIC Handle": "HCD20-RIPE",
+        "NIC Handle": [
+            "HCD20-RIPE"
+        ],
         "ASN": [
             8878
         ],
@@ -1388,7 +1549,9 @@
     {
         "Nick": "glowfish",
         "Name": "Daniel Odoj",
-        "NIC Handle": "GFDO-RIPE",
+        "NIC Handle": [
+            "GFDO-RIPE"
+        ],
         "ASN": [
             59407
         ],
@@ -1402,7 +1565,9 @@
     {
         "Nick": "GPF",
         "Name": "Sebastian Wiesinger",
-        "NIC Handle": "GPF-RIPE",
+        "NIC Handle": [
+            "GPF-RIPE"
+        ],
         "ASN": [
             12337
         ],
@@ -1416,7 +1581,10 @@
     {
         "Nick": "gremlin",
         "Name": "Martin Mersberger",
-        "NIC Handle": "MM22282-RIPEMAME-RIPE",
+        "NIC Handle": [
+            "MM22282-RIPE",
+            "MAME-RIPE"
+        ],
         "ASN": [
             8489
         ],
@@ -1430,7 +1598,9 @@
     {
         "Nick": "grind_",
         "Name": "Michael Riexinger",
-        "NIC Handle": "RIEX-RIPE",
+        "NIC Handle": [
+            "RIEX-RIPE"
+        ],
         "ASN": [
             8196
         ],
@@ -1444,7 +1614,9 @@
     {
         "Nick": "guphi2600",
         "Name": "Philip Gulati",
-        "NIC Handle": "PG2978-RIPE",
+        "NIC Handle": [
+            "PG2978-RIPE"
+        ],
         "ASN": [
             12731
         ],
@@ -1458,14 +1630,18 @@
     {
         "Nick": "hajo",
         "Name": "Heiko Schabert",
-        "NIC Handle": "HS3657-ripe",
+        "NIC Handle": [
+            "HS3657-ripe"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "HammerFall",
         "Name": "Roman Schliessmeyer",
-        "NIC Handle": "RS8888-RIPE",
+        "NIC Handle": [
+            "RS8888-RIPE"
+        ],
         "ASN": [
             196763
         ],
@@ -1483,7 +1659,7 @@
     {
         "Nick": "hendrik",
         "Name": "Hendrik Kahmann",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             9145
         ],
@@ -1497,7 +1673,9 @@
     {
         "Nick": "hexa-",
         "Name": "Martin Weinelt",
-        "NIC Handle": "WT1191-RIPE",
+        "NIC Handle": [
+            "WT1191-RIPE"
+        ],
         "ASN": [
             6766
         ],
@@ -1511,7 +1689,9 @@
     {
         "Nick": "hf|work",
         "Name": "Roman Schliessmeyer",
-        "NIC Handle": "RS8888-RIPE",
+        "NIC Handle": [
+            "RS8888-RIPE"
+        ],
         "ASN": [
             196763
         ],
@@ -1529,7 +1709,9 @@
     {
         "Nick": "Honk-20773",
         "Name": "Malte von dem Hagen",
-        "NIC Handle": "HONK",
+        "NIC Handle": [
+            "HONK"
+        ],
         "ASN": [
             20773
         ],
@@ -1543,7 +1725,9 @@
     {
         "Nick": "insane^",
         "Name": "Jürgen Gotteswinter",
-        "NIC Handle": "JG2487-RIPE",
+        "NIC Handle": [
+            "JG2487-RIPE"
+        ],
         "ASN": [
             15456
         ],
@@ -1557,7 +1741,9 @@
     {
         "Nick": "ipmaniac",
         "Name": "Johannes Treml",
-        "NIC Handle": "JT405-RIPE",
+        "NIC Handle": [
+            "JT405-RIPE"
+        ],
         "ASN": [
             25279
         ],
@@ -1571,14 +1757,16 @@
     {
         "Nick": "iQ",
         "Name": "Jan Walzer",
-        "NIC Handle": "IQ-RIPE",
+        "NIC Handle": [
+            "IQ-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "Isotopp",
         "Name": "Kristian Köhntopp",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             43996
         ],
@@ -1592,14 +1780,18 @@
     {
         "Nick": "ixs",
         "Name": "Andreas Thienemann",
-        "NIC Handle": "AT1918-RIPE",
+        "NIC Handle": [
+            "AT1918-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "izemaen",
         "Name": "Tobias Heister",
-        "NIC Handle": "TH5876-RIPE",
+        "NIC Handle": [
+            "TH5876-RIPE"
+        ],
         "ASN": [
             203520
         ],
@@ -1613,7 +1805,9 @@
     {
         "Nick": "janno",
         "Name": "Jan Marquardt",
-        "NIC Handle": "JM13768-RIPE",
+        "NIC Handle": [
+            "JM13768-RIPE"
+        ],
         "ASN": [
             8893
         ],
@@ -1627,7 +1821,7 @@
     {
         "Nick": "Jay2k1",
         "Name": "Robert Klostermann",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             20694
         ],
@@ -1641,7 +1835,7 @@
     {
         "Nick": "jchome",
         "Name": "Frederic Jaeckel",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             36459
         ],
@@ -1655,7 +1849,10 @@
     {
         "Nick": "jeedi",
         "Name": "Tobias Rosenstock",
-        "NIC Handle": "TRO-RIPETOBI42-RIPE",
+        "NIC Handle": [
+            "TRO-RIPE",
+            "TOBI42-RIPE"
+        ],
         "ASN": [
             50324
         ],
@@ -1669,7 +1866,9 @@
     {
         "Nick": "jens",
         "Name": "Jens Reichmann",
-        "NIC Handle": "JR52-RIPE",
+        "NIC Handle": [
+            "JR52-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -1681,7 +1880,9 @@
     {
         "Nick": "JEns`",
         "Name": "Jens Remme",
-        "NIC Handle": "JR1428-RIPE",
+        "NIC Handle": [
+            "JR1428-RIPE"
+        ],
         "ASN": [
             20899
         ],
@@ -1695,7 +1896,9 @@
     {
         "Nick": "jesk",
         "Name": "Christian Meutes",
-        "NIC Handle": "JESK-RIPE",
+        "NIC Handle": [
+            "JESK-RIPE"
+        ],
         "ASN": [
             50061
         ],
@@ -1709,7 +1912,9 @@
     {
         "Nick": "jmahamburg",
         "Name": "Johannes Mattes",
-        "NIC Handle": "JM1448-RIPE",
+        "NIC Handle": [
+            "JM1448-RIPE"
+        ],
         "ASN": [
             12731
         ],
@@ -1723,7 +1928,9 @@
     {
         "Nick": "job",
         "Name": "Job Snijders",
-        "NIC Handle": "JWJS1-RIPE",
+        "NIC Handle": [
+            "JWJS1-RIPE"
+        ],
         "ASN": [
             2914
         ],
@@ -1737,7 +1944,9 @@
     {
         "Nick": "jpbe",
         "Name": "Jan-Philipp Benecke",
-        "NIC Handle": "JB16811-RIPE",
+        "NIC Handle": [
+            "JB16811-RIPE"
+        ],
         "ASN": [
             206479
         ],
@@ -1755,7 +1964,9 @@
     {
         "Nick": "kay",
         "Name": "Kay Rechthien",
-        "NIC Handle": "XTC23-RIPE",
+        "NIC Handle": [
+            "XTC23-RIPE"
+        ],
         "ASN": [
             13020,
             20940,
@@ -1779,7 +1990,9 @@
     {
         "Nick": "kn",
         "Name": "Fabian Lenker",
-        "NIC Handle": "FL3390-RIPE",
+        "NIC Handle": [
+            "FL3390-RIPE"
+        ],
         "ASN": [
             13247
         ],
@@ -1793,7 +2006,9 @@
     {
         "Nick": "KnicklichtJedi",
         "Name": "Sascha Growe",
-        "NIC Handle": "SG13291-RIPE",
+        "NIC Handle": [
+            "SG13291-RIPE"
+        ],
         "ASN": [
             61157
         ],
@@ -1807,7 +2022,9 @@
     {
         "Nick": "KnockandO",
         "Name": "Elmar K. Bins",
-        "NIC Handle": "ELMI-RIPE",
+        "NIC Handle": [
+            "ELMI-RIPE"
+        ],
         "ASN": [
             42856
         ],
@@ -1816,7 +2033,9 @@
     {
         "Nick": "kraut",
         "Name": "Thomas Kühling",
-        "NIC Handle": "TK2325-RIPE",
+        "NIC Handle": [
+            "TK2325-RIPE"
+        ],
         "ASN": [
             9145
         ],
@@ -1830,7 +2049,9 @@
     {
         "Nick": "krd",
         "Name": "Patrick Rother",
-        "NIC Handle": "KRD2",
+        "NIC Handle": [
+            "KRD2"
+        ],
         "ASN": [
             5430
         ],
@@ -1844,7 +2065,9 @@
     {
         "Nick": "lairsdragon",
         "Name": "Steffen Weinreich",
-        "NIC Handle": "SW4568-RIPE",
+        "NIC Handle": [
+            "SW4568-RIPE"
+        ],
         "ASN": [
             200567
         ],
@@ -1858,7 +2081,9 @@
     {
         "Nick": "Lalufu",
         "Name": "Ralf Ertzinger",
-        "NIC Handle": "RE2256-RIPE",
+        "NIC Handle": [
+            "RE2256-RIPE"
+        ],
         "ASN": [
             43996
         ],
@@ -1872,7 +2097,7 @@
     {
         "Nick": "LarsB",
         "Name": "Lars Bussmann",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             201701
         ],
@@ -1886,7 +2111,9 @@
     {
         "Nick": "laxxie",
         "Name": "Andreas Worbs",
-        "NIC Handle": "ANW5-RIPE",
+        "NIC Handle": [
+            "ANW5-RIPE"
+        ],
         "ASN": [
             8893
         ],
@@ -1900,7 +2127,7 @@
     {
         "Nick": "lazyfrosch",
         "Name": "Markus Frosch",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             61303
         ],
@@ -1914,7 +2141,7 @@
     {
         "Nick": "leoluk",
         "Name": "Leopold Schabel",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             199610
         ],
@@ -1923,7 +2150,9 @@
     {
         "Nick": "leonn",
         "Name": "Leon Weber",
-        "NIC Handle": "LWE42-RIPE",
+        "NIC Handle": [
+            "LWE42-RIPE"
+        ],
         "ASN": [
             9033,
             13020
@@ -1942,7 +2171,9 @@
     {
         "Nick": "lolob",
         "Name": "Lorenz Barth",
-        "NIC Handle": "LB1811-RIPE",
+        "NIC Handle": [
+            "LB1811-RIPE"
+        ],
         "ASN": [
             50189
         ],
@@ -1956,7 +2187,7 @@
     {
         "Nick": "Lorddusty",
         "Name": "Jens Ott",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             48200
         ],
@@ -1965,7 +2196,7 @@
     {
         "Nick": "lucian-decix",
         "Name": "Lucian Cioltan",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             6695
         ],
@@ -1979,7 +2210,9 @@
     {
         "Nick": "lucius_",
         "Name": "Michael Hufnagl",
-        "NIC Handle": "MH3220-RIPE",
+        "NIC Handle": [
+            "MH3220-RIPE"
+        ],
         "ASN": [
             8741
         ],
@@ -1993,7 +2226,9 @@
     {
         "Nick": "lukas",
         "Name": "Lukas Gerhold",
-        "NIC Handle": "LG128-RIPE",
+        "NIC Handle": [
+            "LG128-RIPE"
+        ],
         "ASN": [
             8365,
             35548
@@ -2012,7 +2247,9 @@
     {
         "Nick": "Luke6",
         "Name": "Robert Blechinger",
-        "NIC Handle": "LUKE-RIPE",
+        "NIC Handle": [
+            "LUKE-RIPE"
+        ],
         "ASN": [
             5539
         ],
@@ -2026,7 +2263,9 @@
     {
         "Nick": "Lysis",
         "Name": "Marcus Stögbauer",
-        "NIC Handle": "LYS-RIPE",
+        "NIC Handle": [
+            "LYS-RIPE"
+        ],
         "ASN": [
             9033
         ],
@@ -2040,7 +2279,9 @@
     {
         "Nick": "m00se",
         "Name": "Peter Lieven",
-        "NIC Handle": "ELCH-RIPE",
+        "NIC Handle": [
+            "ELCH-RIPE"
+        ],
         "ASN": [
             9033,
             8648,
@@ -2056,14 +2297,14 @@
     {
         "Nick": "macna",
         "Name": "Mario Nacke",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "maha",
         "Name": "Mathias Handsche",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             6695
         ],
@@ -2077,7 +2318,9 @@
     {
         "Nick": "MarcL",
         "Name": "Marc Langer",
-        "NIC Handle": "MLA-RIPE",
+        "NIC Handle": [
+            "MLA-RIPE"
+        ],
         "ASN": [
             15747
         ],
@@ -2091,7 +2334,10 @@
     {
         "Nick": "marlow",
         "Name": "Martin List-Petersen",
-        "NIC Handle": "ML6710-RIPEMLP91-RIPE",
+        "NIC Handle": [
+            "ML6710-RIPE",
+            "MLP91-RIPE"
+        ],
         "ASN": [
             42227,
             47490
@@ -2110,7 +2356,7 @@
     {
         "Nick": "marvin",
         "Name": "Robert Finze",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             6695
         ],
@@ -2124,7 +2370,10 @@
     {
         "Nick": "master",
         "Name": "Sascha Lenz",
-        "NIC Handle": "SL277-RIPESLZ-RIPE",
+        "NIC Handle": [
+            "SL277-RIPE",
+            "SLZ-RIPE"
+        ],
         "ASN": [
             12657,
             12817,
@@ -2148,7 +2397,7 @@
     {
         "Nick": "matthias",
         "Name": "Matthias Behn",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             9211
         ],
@@ -2162,7 +2411,9 @@
     {
         "Nick": "mc",
         "Name": "Rico Glöckner",
-        "NIC Handle": "RICO-RIPE",
+        "NIC Handle": [
+            "RICO-RIPE"
+        ],
         "ASN": [
             33988,
             21083
@@ -2181,7 +2432,9 @@
     {
         "Nick": "McMurphy",
         "Name": "Soenke Mumm",
-        "NIC Handle": "SOM-RIPE",
+        "NIC Handle": [
+            "SOM-RIPE"
+        ],
         "ASN": [
             4589
         ],
@@ -2195,7 +2448,9 @@
     {
         "Nick": "medea61",
         "Name": "Roman Hochuli",
-        "NIC Handle": "RHO3-RIPE",
+        "NIC Handle": [
+            "RHO3-RIPE"
+        ],
         "ASN": [
             31424
         ],
@@ -2209,7 +2464,9 @@
     {
         "Nick": "Milin",
         "Name": "Michael Ankelin",
-        "NIC Handle": "MA1225-RIPE",
+        "NIC Handle": [
+            "MA1225-RIPE"
+        ],
         "ASN": [
             13054
         ],
@@ -2223,7 +2480,7 @@
     {
         "Nick": "mm",
         "Name": "Mirko Mach",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -2235,14 +2492,18 @@
     {
         "Nick": "mmi",
         "Name": "Christian Zeng",
-        "NIC Handle": "XZM1-SIXXS",
+        "NIC Handle": [
+            "XZM1-SIXXS"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "moemoe",
         "Name": "Moritz Augsburger",
-        "NIC Handle": "MOAU-RIPE",
+        "NIC Handle": [
+            "MOAU-RIPE"
+        ],
         "ASN": [
             41698
         ],
@@ -2256,7 +2517,9 @@
     {
         "Nick": "moghaddas",
         "Name": "Mohammad Moghaddas",
-        "NIC Handle": "MM34938",
+        "NIC Handle": [
+            "MM34938"
+        ],
         "ASN": [
             47823
         ],
@@ -2265,7 +2528,9 @@
     {
         "Nick": "momorientes",
         "Name": "Moritz Frenzel",
-        "NIC Handle": "MOMO23-RIPE",
+        "NIC Handle": [
+            "MOMO23-RIPE"
+        ],
         "ASN": [
             48918
         ],
@@ -2279,7 +2544,7 @@
     {
         "Nick": "MoneySack",
         "Name": "Dirk Willbrandt",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             24905
         ],
@@ -2293,7 +2558,9 @@
     {
         "Nick": "mordner",
         "Name": "Matthias Ordner",
-        "NIC Handle": "MORD-RIPE",
+        "NIC Handle": [
+            "MORD-RIPE"
+        ],
         "ASN": [
             12337
         ],
@@ -2307,7 +2574,9 @@
     {
         "Nick": "morpheus",
         "Name": "Simon Frerichs",
-        "NIC Handle": "SFX23-RIPE",
+        "NIC Handle": [
+            "SFX23-RIPE"
+        ],
         "ASN": [
             50629
         ],
@@ -2321,7 +2590,9 @@
     {
         "Nick": "mortzu",
         "Name": "Moritz Kaspar Rudert",
-        "NIC Handle": "MKR26-RIPE",
+        "NIC Handle": [
+            "MKR26-RIPE"
+        ],
         "ASN": [
             49855
         ],
@@ -2335,7 +2606,9 @@
     {
         "Nick": "motp",
         "Name": "Bjørn Bürger",
-        "NIC Handle": "BJOE1-RIPE",
+        "NIC Handle": [
+            "BJOE1-RIPE"
+        ],
         "ASN": [
             201824
         ],
@@ -2349,7 +2622,9 @@
     {
         "Nick": "mrjack",
         "Name": "Florian Wiessner",
-        "NIC Handle": "FLOW-RIPE",
+        "NIC Handle": [
+            "FLOW-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -2365,7 +2640,9 @@
     {
         "Nick": "MrTux",
         "Name": "Thomas Eichhorn",
-        "NIC Handle": "TE999-RIPE",
+        "NIC Handle": [
+            "TE999-RIPE"
+        ],
         "ASN": [
             43911,
             25291
@@ -2380,7 +2657,7 @@
     {
         "Nick": "MrXermon",
         "Name": "Jan Gilla",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             209844,
             205614
@@ -2399,7 +2676,9 @@
     {
         "Nick": "mst",
         "Name": "Michael Stevens",
-        "NIC Handle": "MST",
+        "NIC Handle": [
+            "MST"
+        ],
         "ASN": [
             24961
         ],
@@ -2413,14 +2692,14 @@
     {
         "Nick": "mutax",
         "Name": "Florian Streibelt",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "nbrodermann",
         "Name": "Nikolas Brodermann",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             6695
         ],
@@ -2434,7 +2713,9 @@
     {
         "Nick": "neitzel",
         "Name": "Martin Neitzel",
-        "NIC Handle": "MN40-RIPE",
+        "NIC Handle": [
+            "MN40-RIPE"
+        ],
         "ASN": [
             24956
         ],
@@ -2448,7 +2729,9 @@
     {
         "Nick": "NetFreak",
         "Name": "Joey Julian König",
-        "NIC Handle": "JJK57-RIPE",
+        "NIC Handle": [
+            "JJK57-RIPE"
+        ],
         "ASN": [
             49697
         ],
@@ -2462,7 +2745,9 @@
     {
         "Nick": "neufeind",
         "Name": "Stefan Neufeind",
-        "NIC Handle": "NEUF-RIPE",
+        "NIC Handle": [
+            "NEUF-RIPE"
+        ],
         "ASN": [
             34225,
             41692
@@ -2481,7 +2766,9 @@
     {
         "Nick": "neuner",
         "Name": "Sebastian Neuner",
-        "NIC Handle": "NEUN9-RIPE",
+        "NIC Handle": [
+            "NEUN9-RIPE"
+        ],
         "ASN": [
             553
         ],
@@ -2495,7 +2782,10 @@
     {
         "Nick": "nibbler",
         "Name": "Michael Horn",
-        "NIC Handle": "HORN-RIPEMH250-RIPE",
+        "NIC Handle": [
+            "HORN-RIPE",
+            "MH250-RIPE"
+        ],
         "ASN": [
             248,
             249,
@@ -2519,7 +2809,7 @@
     {
         "Nick": "nici",
         "Name": "Nicole Herath",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -2531,7 +2821,9 @@
     {
         "Nick": "nick6",
         "Name": "Nick Vollmar",
-        "NIC Handle": "VOLL-RIPE",
+        "NIC Handle": [
+            "VOLL-RIPE"
+        ],
         "ASN": [
             31333,
             33956
@@ -2546,7 +2838,7 @@
     {
         "Nick": "nicoduck",
         "Name": "Nicola von Thadden",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             15945,
             21473
@@ -2565,7 +2857,9 @@
     {
         "Nick": "nido009",
         "Name": "Nils Dohse",
-        "NIC Handle": "NIDO-RIPE",
+        "NIC Handle": [
+            "NIDO-RIPE"
+        ],
         "ASN": [
             25415
         ],
@@ -2579,7 +2873,9 @@
     {
         "Nick": "nik0n",
         "Name": "Christian Pössinger",
-        "NIC Handle": "CP2379-RIPE",
+        "NIC Handle": [
+            "CP2379-RIPE"
+        ],
         "ASN": [
             12817
         ],
@@ -2593,7 +2889,9 @@
     {
         "Nick": "nr5_",
         "Name": "Frank Bergknecht",
-        "NIC Handle": "FB8-RIPE",
+        "NIC Handle": [
+            "FB8-RIPE"
+        ],
         "ASN": [
             12579
         ],
@@ -2607,7 +2905,9 @@
     {
         "Nick": "olba",
         "Name": "Olaf Baumert",
-        "NIC Handle": "OLBA-RIPE",
+        "NIC Handle": [
+            "OLBA-RIPE"
+        ],
         "ASN": [
             8881
         ],
@@ -2616,7 +2916,9 @@
     {
         "Nick": "olisac",
         "Name": "Oliver Sachs",
-        "NIC Handle": "OS4038-RIPE",
+        "NIC Handle": [
+            "OS4038-RIPE"
+        ],
         "ASN": [
             62177
         ],
@@ -2630,7 +2932,9 @@
     {
         "Nick": "ollifast",
         "Name": "Oliver Bartels",
-        "NIC Handle": "OB6-RIPE",
+        "NIC Handle": [
+            "OB6-RIPE"
+        ],
         "ASN": [
             15434
         ],
@@ -2644,7 +2948,7 @@
     {
         "Nick": "otaku42",
         "Name": "Michael Renzmann",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             15844
         ],
@@ -2658,7 +2962,7 @@
     {
         "Nick": "pace|da",
         "Name": "Lars Stenzel",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             20676
         ],
@@ -2672,7 +2976,9 @@
     {
         "Nick": "Panther_1",
         "Name": "Ruben Herold",
-        "NIC Handle": "RH6896-rIPE",
+        "NIC Handle": [
+            "RH6896-rIPE"
+        ],
         "ASN": [
             62086
         ],
@@ -2681,7 +2987,9 @@
     {
         "Nick": "pberndro",
         "Name": "Philip Berndroth",
-        "NIC Handle": "PB19268-RIPE",
+        "NIC Handle": [
+            "PB19268-RIPE"
+        ],
         "ASN": [
             201701,
             199714
@@ -2696,7 +3004,7 @@
     {
         "Nick": "pennylane",
         "Name": "Jacky Hammer",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -2708,7 +3016,9 @@
     {
         "Nick": "pfy",
         "Name": "Joerg Dorchain",
-        "NIC Handle": "PFY-RIPE",
+        "NIC Handle": [
+            "PFY-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -2720,7 +3030,9 @@
     {
         "Nick": "phils",
         "Name": "Philipp Schmidt",
-        "NIC Handle": "PHIL-RIPE",
+        "NIC Handle": [
+            "PHIL-RIPE"
+        ],
         "ASN": [
             29670
         ],
@@ -2734,7 +3046,7 @@
     {
         "Nick": "Phrewfuf",
         "Name": "Andreas Kist",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             9183
         ],
@@ -2748,14 +3060,18 @@
     {
         "Nick": "pkern",
         "Name": "Philipp Kern",
-        "NIC Handle": "PK2186-RIPE",
+        "NIC Handle": [
+            "PK2186-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "plopix",
         "Name": "Erik Wenzel",
-        "NIC Handle": "EW12-RIPE",
+        "NIC Handle": [
+            "EW12-RIPE"
+        ],
         "ASN": [
             6724,
             15506
@@ -2770,7 +3086,9 @@
     {
         "Nick": "poldii",
         "Name": "Inga Mewes",
-        "NIC Handle": "IM9-RIPE",
+        "NIC Handle": [
+            "IM9-RIPE"
+        ],
         "ASN": [
             6659
         ],
@@ -2784,7 +3102,9 @@
     {
         "Nick": "ppit",
         "Name": "Dieter Hirt",
-        "NIC Handle": "DH1053-RIPE",
+        "NIC Handle": [
+            "DH1053-RIPE"
+        ],
         "ASN": [
             12399
         ],
@@ -2798,14 +3118,18 @@
     {
         "Nick": "profmakx",
         "Name": "Markus Pfeiffer",
-        "NIC Handle": "MP9573-RIPE",
+        "NIC Handle": [
+            "MP9573-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "proGamler",
         "Name": "Jan-Philipp Warmers",
-        "NIC Handle": "JW940-RIPE",
+        "NIC Handle": [
+            "JW940-RIPE"
+        ],
         "ASN": [
             31371,
             47556
@@ -2824,21 +3148,27 @@
     {
         "Nick": "psi",
         "Name": "Peter Sievers",
-        "NIC Handle": "PSI76-RIPE",
+        "NIC Handle": [
+            "PSI76-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "puschni",
         "Name": "Karsten Hillmann",
-        "NIC Handle": "KH2911-RIPE",
+        "NIC Handle": [
+            "KH2911-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "pyco",
         "Name": "Robyn Bachofer",
-        "NIC Handle": "RB12621-RIPE",
+        "NIC Handle": [
+            "RB12621-RIPE"
+        ],
         "ASN": [
             20677
         ],
@@ -2852,14 +3182,18 @@
     {
         "Nick": "qchn",
         "Name": "Robert Grösser",
-        "NIC Handle": "RG7406-RIPE",
+        "NIC Handle": [
+            "RG7406-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "qoreQyaS",
         "Name": "Sven Grewe",
-        "NIC Handle": "SG11315-RIPE",
+        "NIC Handle": [
+            "SG11315-RIPE"
+        ],
         "ASN": [
             20694
         ],
@@ -2873,7 +3207,7 @@
     {
         "Nick": "qybl",
         "Name": "Hannes Rist",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             48918,
             59745
@@ -2896,7 +3230,7 @@
     {
         "Nick": "Rabaehh",
         "Name": "Jens Hoffmann",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -2908,7 +3242,9 @@
     {
         "Nick": "racoon",
         "Name": "Frank Altpeter",
-        "NIC Handle": "FA-RIPE",
+        "NIC Handle": [
+            "FA-RIPE"
+        ],
         "ASN": [
             13135
         ],
@@ -2922,7 +3258,10 @@
     {
         "Nick": "raider",
         "Name": "Michael Hayler",
-        "NIC Handle": "MH16422-RIPE, MH8562-RIPE",
+        "NIC Handle": [
+            "MH16422-RIPE",
+            "MH8562-RIPE"
+        ],
         "ASN": [
             12857,
             28918,
@@ -2939,7 +3278,9 @@
     {
         "Nick": "rapido",
         "Name": "Fredy Künzler",
-        "NIC Handle": "FKU-RIPE",
+        "NIC Handle": [
+            "FKU-RIPE"
+        ],
         "ASN": [
             13030
         ],
@@ -2953,7 +3294,7 @@
     {
         "Nick": "rbott",
         "Name": "Rudolph Bott",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             15594
         ],
@@ -2967,7 +3308,9 @@
     {
         "Nick": "rene",
         "Name": "Rene Caspari",
-        "NIC Handle": "RC3481-RIPE",
+        "NIC Handle": [
+            "RC3481-RIPE"
+        ],
         "ASN": [
             35258
         ],
@@ -2981,7 +3324,9 @@
     {
         "Nick": "rfc2795",
         "Name": "Sven Kalkbrenner",
-        "NIC Handle": "SKA42-RIPE",
+        "NIC Handle": [
+            "SKA42-RIPE"
+        ],
         "ASN": [
             24679
         ],
@@ -2995,7 +3340,9 @@
     {
         "Nick": "RichiH",
         "Name": "Richard Hartmann",
-        "NIC Handle": "RMH23-RIPE",
+        "NIC Handle": [
+            "RMH23-RIPE"
+        ],
         "ASN": [
             5539
         ],
@@ -3009,7 +3356,9 @@
     {
         "Nick": "ripp",
         "Name": "Alexander Kinscher",
-        "NIC Handle": "AKIN-RIPE",
+        "NIC Handle": [
+            "AKIN-RIPE"
+        ],
         "ASN": [
             1668
         ],
@@ -3023,7 +3372,10 @@
     {
         "Nick": "rmoriz",
         "Name": "Roland Moriz",
-        "NIC Handle": "RM1343-RIPEUNIX-RIPE",
+        "NIC Handle": [
+            "RM1343-RIPE",
+            "UNIX-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -3035,14 +3387,16 @@
     {
         "Nick": "rob",
         "Name": "Robert Hennig",
-        "NIC Handle": "RHE-RIPE",
+        "NIC Handle": [
+            "RHE-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "Robe",
         "Name": "Michael Renner",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": [
             {
@@ -3054,7 +3408,9 @@
     {
         "Nick": "Robinayor_",
         "Name": "Robin Kara",
-        "NIC Handle": "ROBI-RIPE",
+        "NIC Handle": [
+            "ROBI-RIPE"
+        ],
         "ASN": [
             33988,
             21083
@@ -3073,14 +3429,18 @@
     {
         "Nick": "robo",
         "Name": "Ronny Boesger",
-        "NIC Handle": "ROBO-RIPE",
+        "NIC Handle": [
+            "ROBO-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "robrem",
         "Name": "Robert Remenyi",
-        "NIC Handle": "RR4510-RIPE",
+        "NIC Handle": [
+            "RR4510-RIPE"
+        ],
         "ASN": [
             13045
         ],
@@ -3094,7 +3454,9 @@
     {
         "Nick": "ronny-isppro",
         "Name": "Ronny Boesger",
-        "NIC Handle": "ROBO-RIPE",
+        "NIC Handle": [
+            "ROBO-RIPE"
+        ],
         "ASN": [
             35366
         ],
@@ -3116,7 +3478,9 @@
     {
         "Nick": "rowi",
         "Name": "Sven Rohweder",
-        "NIC Handle": "SR4711-RIPE",
+        "NIC Handle": [
+            "SR4711-RIPE"
+        ],
         "ASN": [
             8223
         ],
@@ -3130,7 +3494,9 @@
     {
         "Nick": "sb",
         "Name": "Sascha Bielski",
-        "NIC Handle": "SBI",
+        "NIC Handle": [
+            "SBI"
+        ],
         "ASN": [
             34549,
             51058
@@ -3149,7 +3515,9 @@
     {
         "Nick": "schmoggie",
         "Name": "Jan Czmok",
-        "NIC Handle": "JC226-RIPE",
+        "NIC Handle": [
+            "JC226-RIPE"
+        ],
         "ASN": [
             9033
         ],
@@ -3158,14 +3526,16 @@
     {
         "Nick": "sebast",
         "Name": "Sebastian Schikora",
-        "NIC Handle": "SS7971-RIPE",
+        "NIC Handle": [
+            "SS7971-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "sethos",
         "Name": "Marco Eulenfeld",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             16509
         ],
@@ -3179,7 +3549,9 @@
     {
         "Nick": "shedenig",
         "Name": "Stefan Hedenig",
-        "NIC Handle": "SH13964-RIPE",
+        "NIC Handle": [
+            "SH13964-RIPE"
+        ],
         "ASN": [
             47147,
             42473
@@ -3194,7 +3566,9 @@
     {
         "Nick": "Shezr",
         "Name": "Torsten-Sven Urbas",
-        "NIC Handle": "TUPS-RIPE",
+        "NIC Handle": [
+            "TUPS-RIPE"
+        ],
         "ASN": [
             8972,
             34088
@@ -3209,7 +3583,9 @@
     {
         "Nick": "shl",
         "Name": "Sebastian Laubscher",
-        "NIC Handle": "SHL4-RIPE",
+        "NIC Handle": [
+            "SHL4-RIPE"
+        ],
         "ASN": [
             8560
         ],
@@ -3223,7 +3599,7 @@
     {
         "Nick": "simo",
         "Name": "Simo Radenovic",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             20940
         ],
@@ -3237,7 +3613,9 @@
     {
         "Nick": "SJ-mtw1",
         "Name": "Stefan Jakob",
-        "NIC Handle": "SJ8763-RIPE",
+        "NIC Handle": [
+            "SJ8763-RIPE"
+        ],
         "ASN": [
             8763,
             31529
@@ -3252,7 +3630,9 @@
     {
         "Nick": "skorpy",
         "Name": "Magnus Fruehling",
-        "NIC Handle": "MF16389-RIPE",
+        "NIC Handle": [
+            "MF16389-RIPE"
+        ],
         "ASN": [
             58145,
             64475
@@ -3267,7 +3647,9 @@
     {
         "Nick": "Smur",
         "Name": "Nicolaj Kamensek",
-        "NIC Handle": "NKA-RIPE",
+        "NIC Handle": [
+            "NKA-RIPE"
+        ],
         "ASN": [
             31400
         ],
@@ -3281,7 +3663,9 @@
     {
         "Nick": "smurfy",
         "Name": "Peter Heidenreich",
-        "NIC Handle": "PHSG",
+        "NIC Handle": [
+            "PHSG"
+        ],
         "ASN": [
             51483
         ],
@@ -3295,7 +3679,9 @@
     {
         "Nick": "smuuth",
         "Name": "Jens Heisterkamp",
-        "NIC Handle": "HJ-RIPE",
+        "NIC Handle": [
+            "HJ-RIPE"
+        ],
         "ASN": [
             15598,
             24899,
@@ -3315,7 +3701,7 @@
     {
         "Nick": "solis",
         "Name": "Jan Dirnberger",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             12337
         ],
@@ -3329,7 +3715,7 @@
     {
         "Nick": "souls",
         "Name": "Daniel Berg",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             33687
         ],
@@ -3338,7 +3724,9 @@
     {
         "Nick": "Spaxxx",
         "Name": "Maurice Funke",
-        "NIC Handle": "MAFU-RIPE",
+        "NIC Handle": [
+            "MAFU-RIPE"
+        ],
         "ASN": [
             25486,
             34764
@@ -3353,7 +3741,9 @@
     {
         "Nick": "spion",
         "Name": "Jan Wagner",
-        "NIC Handle": "JW8767-RIPE",
+        "NIC Handle": [
+            "JW8767-RIPE"
+        ],
         "ASN": [
             16316,
             33896
@@ -3372,7 +3762,9 @@
     {
         "Nick": "stargazer",
         "Name": "S. P. Zeidler",
-        "NIC Handle": "SPZ",
+        "NIC Handle": [
+            "SPZ"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -3384,7 +3776,9 @@
     {
         "Nick": "Stefan2",
         "Name": "Stefan Schellenberg",
-        "NIC Handle": "STS",
+        "NIC Handle": [
+            "STS"
+        ],
         "ASN": [
             8495
         ],
@@ -3398,7 +3792,9 @@
     {
         "Nick": "steinex",
         "Name": "Frank Steinborn",
-        "NIC Handle": "FS4020-RIPE",
+        "NIC Handle": [
+            "FS4020-RIPE"
+        ],
         "ASN": [
             15594
         ],
@@ -3416,7 +3812,9 @@
     {
         "Nick": "steve",
         "Name": "Stephan Fischer",
-        "NIC Handle": "SF3464-RIPE",
+        "NIC Handle": [
+            "SF3464-RIPE"
+        ],
         "ASN": [
             12429
         ],
@@ -3430,7 +3828,9 @@
     {
         "Nick": "steven",
         "Name": "Steven Glogger",
-        "NIC Handle": "SG7777-RIPE",
+        "NIC Handle": [
+            "SG7777-RIPE"
+        ],
         "ASN": [
             12429
         ],
@@ -3444,7 +3844,7 @@
     {
         "Nick": "Stoepsel",
         "Name": "Stefan Plug",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             9033
         ],
@@ -3458,7 +3858,9 @@
     {
         "Nick": "StyleWarz",
         "Name": "Franz Bettag",
-        "NIC Handle": "FB67-RIPE",
+        "NIC Handle": [
+            "FB67-RIPE"
+        ],
         "ASN": [
             34868
         ],
@@ -3472,7 +3874,9 @@
     {
         "Nick": "sv--",
         "Name": "Steffen Voigt",
-        "NIC Handle": "SV141-RIPE",
+        "NIC Handle": [
+            "SV141-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -3484,7 +3888,7 @@
     {
         "Nick": "swaio",
         "Name": "Stefan Wahl",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             208262,
             9033
@@ -3507,7 +3911,9 @@
     {
         "Nick": "sworn",
         "Name": "Sören Todt",
-        "NIC Handle": "ST364-RIPE",
+        "NIC Handle": [
+            "ST364-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -3519,7 +3925,9 @@
     {
         "Nick": "syn23",
         "Name": "Christian Korn",
-        "NIC Handle": "CHK2342-RIPE",
+        "NIC Handle": [
+            "CHK2342-RIPE"
+        ],
         "ASN": [
             60955
         ],
@@ -3533,7 +3941,7 @@
     {
         "Nick": "TabTwo",
         "Name": "Ralph J. Mayer",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             33848
         ],
@@ -3547,7 +3955,9 @@
     {
         "Nick": "takt",
         "Name": "Oliver Herms",
-        "NIC Handle": "TAKT1-RIPE",
+        "NIC Handle": [
+            "TAKT1-RIPE"
+        ],
         "ASN": [
             15169,
             201701,
@@ -3567,7 +3977,9 @@
     {
         "Nick": "Taucher",
         "Name": "Norbert Surowy",
-        "NIC Handle": "NOBY-RIPE",
+        "NIC Handle": [
+            "NOBY-RIPE"
+        ],
         "ASN": [
             9145
         ],
@@ -3581,7 +3993,9 @@
     {
         "Nick": "tbm",
         "Name": "Michael Neumann",
-        "NIC Handle": "MN5",
+        "NIC Handle": [
+            "MN5"
+        ],
         "ASN": [
             38955
         ],
@@ -3595,7 +4009,9 @@
     {
         "Nick": "testpil0t",
         "Name": "Matthias Fetzer",
-        "NIC Handle": "MF17425-RIPE",
+        "NIC Handle": [
+            "MF17425-RIPE"
+        ],
         "ASN": [
             205365
         ],
@@ -3604,7 +4020,9 @@
     {
         "Nick": "ThomAS196714",
         "Name": "Thomas Voigt",
-        "NIC Handle": "TV1427-RIPE",
+        "NIC Handle": [
+            "TV1427-RIPE"
+        ],
         "ASN": [
             196714
         ],
@@ -3618,7 +4036,10 @@
     {
         "Nick": "thomasDOTwtf",
         "Name": "Thomas Drewermann",
-        "NIC Handle": "TD2676-RIPEtdre",
+        "NIC Handle": [
+            "TD2676-RIPE",
+            "tdre"
+        ],
         "ASN": [
             201701,
             197965
@@ -3637,7 +4058,9 @@
     {
         "Nick": "Thor-20940",
         "Name": "Torsten Blum",
-        "NIC Handle": "TBAK-RIPE",
+        "NIC Handle": [
+            "TBAK-RIPE"
+        ],
         "ASN": [
             20940,
             32787
@@ -3652,7 +4075,7 @@
     {
         "Nick": "TimKleefass",
         "Name": "Tim Kleefass",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             51324
         ],
@@ -3666,7 +4089,9 @@
     {
         "Nick": "toBee",
         "Name": "Tom Spier",
-        "NIC Handle": "TS5901-RIPE",
+        "NIC Handle": [
+            "TS5901-RIPE"
+        ],
         "ASN": [
             25394
         ],
@@ -3680,7 +4105,9 @@
     {
         "Nick": "tobifix",
         "Name": "Tobias Rehn",
-        "NIC Handle": "TOBI-RIPE",
+        "NIC Handle": [
+            "TOBI-RIPE"
+        ],
         "ASN": [
             47447
         ],
@@ -3694,7 +4121,9 @@
     {
         "Nick": "tobi_",
         "Name": "Tobias Hadem",
-        "NIC Handle": "THDE-RIPE",
+        "NIC Handle": [
+            "THDE-RIPE"
+        ],
         "ASN": [
             42135
         ],
@@ -3708,7 +4137,9 @@
     {
         "Nick": "ToJe",
         "Name": "Torsten Jerzembeck",
-        "NIC Handle": "EJOT-RIPE",
+        "NIC Handle": [
+            "EJOT-RIPE"
+        ],
         "ASN": [
             41698
         ],
@@ -3722,7 +4153,9 @@
     {
         "Nick": "tomate42",
         "Name": "Torben von Nolcken",
-        "NIC Handle": "TN847-RIPE",
+        "NIC Handle": [
+            "TN847-RIPE"
+        ],
         "ASN": [
             12731
         ],
@@ -3736,7 +4169,9 @@
     {
         "Nick": "tomislav",
         "Name": "Thomas Wiebe",
-        "NIC Handle": "TW1225-RIPE",
+        "NIC Handle": [
+            "TW1225-RIPE"
+        ],
         "ASN": [
             39928
         ],
@@ -3754,7 +4189,9 @@
     {
         "Nick": "Toshima",
         "Name": "Thomas Jessen",
-        "NIC Handle": "TOSH1-RIPE",
+        "NIC Handle": [
+            "TOSH1-RIPE"
+        ],
         "ASN": [
             286,
             517
@@ -3769,7 +4206,7 @@
     {
         "Nick": "Toxid",
         "Name": "Stefan Rauscher",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             21385
         ],
@@ -3778,7 +4215,9 @@
     {
         "Nick": "TraXo",
         "Name": "Florian Bauhaus",
-        "NIC Handle": "FBH-RIPE",
+        "NIC Handle": [
+            "FBH-RIPE"
+        ],
         "ASN": [
             52088
         ],
@@ -3792,7 +4231,9 @@
     {
         "Nick": "tuxfan",
         "Name": "Ronny Lippold",
-        "NIC Handle": "RL2513-RIPE",
+        "NIC Handle": [
+            "RL2513-RIPE"
+        ],
         "ASN": [
             41039
         ],
@@ -3806,7 +4247,10 @@
     {
         "Nick": "tvberlin",
         "Name": "Theo Voss",
-        "NIC Handle": "ANXT-RIPETHEO-RIPE",
+        "NIC Handle": [
+            "ANXT-RIPE",
+            "THEO-RIPE"
+        ],
         "ASN": [
             47147,
             42473
@@ -3821,7 +4265,9 @@
     {
         "Nick": "twiddern",
         "Name": "Tizian Cardinal von Widdern",
-        "NIC Handle": "TCVW-RIPE",
+        "NIC Handle": [
+            "TCVW-RIPE"
+        ],
         "ASN": [
             203507,
             206970
@@ -3836,7 +4282,9 @@
     {
         "Nick": "ulf",
         "Name": "Ulf Fischer",
-        "NIC Handle": "ULF-RIPE",
+        "NIC Handle": [
+            "ULF-RIPE"
+        ],
         "ASN": [
             12731
         ],
@@ -3850,7 +4298,9 @@
     {
         "Nick": "ulli",
         "Name": "Ulrich Köhler",
-        "NIC Handle": "UK489-RIPE",
+        "NIC Handle": [
+            "UK489-RIPE"
+        ],
         "ASN": [
             33891
         ],
@@ -3864,7 +4314,9 @@
     {
         "Nick": "vidister",
         "Name": "David Weber",
-        "NIC Handle": "DW5217-RIPE",
+        "NIC Handle": [
+            "DW5217-RIPE"
+        ],
         "ASN": [
             208942,
             9136
@@ -3874,7 +4326,7 @@
     {
         "Nick": "viro",
         "Name": "Matthias Döring",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [
             35258
         ],
@@ -3888,7 +4340,9 @@
     {
         "Nick": "VT100",
         "Name": "Peter S.",
-        "NIC Handle": "VT100",
+        "NIC Handle": [
+            "VT100"
+        ],
         "ASN": [
             1764,
             25538
@@ -3907,7 +4361,9 @@
     {
         "Nick": "weiti",
         "Name": "Tim Weippert",
-        "NIC Handle": "TW739-RIPE",
+        "NIC Handle": [
+            "TW739-RIPE"
+        ],
         "ASN": [
             12857,
             28918
@@ -3922,7 +4378,9 @@
     {
         "Nick": "winni",
         "Name": "Winfried Haug",
-        "NIC Handle": "WH9",
+        "NIC Handle": [
+            "WH9"
+        ],
         "ASN": [
             6666,
             5549,
@@ -3946,21 +4404,27 @@
     {
         "Nick": "Wodenn",
         "Name": "Astrid Janssen",
-        "NIC Handle": "AJ109-RIPE",
+        "NIC Handle": [
+            "AJ109-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "wotan",
         "Name": "Oliver Korbl",
-        "NIC Handle": "OK700-RIPE",
+        "NIC Handle": [
+            "OK700-RIPE"
+        ],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "wusel",
         "Name": "Kai 'wusel' Siering",
-        "NIC Handle": "KS281",
+        "NIC Handle": [
+            "KS281"
+        ],
         "ASN": [
             49475,
             206813
@@ -3979,7 +4443,9 @@
     {
         "Nick": "ZaphodB",
         "Name": "Stefan Schmidt",
-        "NIC Handle": "ZAP",
+        "NIC Handle": [
+            "ZAP"
+        ],
         "ASN": [
             60955
         ],
@@ -3993,14 +4459,16 @@
     {
         "Nick": "zeroC",
         "Name": "Daniel Franke",
-        "NIC Handle": "",
+        "NIC Handle": [],
         "ASN": [],
         "Organisation": []
     },
     {
         "Nick": "Zugschlus",
         "Name": "Marc Haber",
-        "NIC Handle": "ZUG2-RIPE",
+        "NIC Handle": [
+            "ZUG2-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -4012,7 +4480,9 @@
     {
         "Nick": "_andre_",
         "Name": "Andre Heckrath",
-        "NIC Handle": "AH2792-RIPE",
+        "NIC Handle": [
+            "AH2792-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -4024,7 +4494,9 @@
     {
         "Nick": "_garry_",
         "Name": "Garry Glendown",
-        "NIC Handle": "GGRN-RIPE",
+        "NIC Handle": [
+            "GGRN-RIPE"
+        ],
         "ASN": [
             8319
         ],
@@ -4038,7 +4510,9 @@
     {
         "Nick": "_mrplow",
         "Name": "Moritz Krause",
-        "NIC Handle": "MK14357-RIPE",
+        "NIC Handle": [
+            "MK14357-RIPE"
+        ],
         "ASN": [
             24679
         ],
@@ -4052,7 +4526,9 @@
     {
         "Nick": "_sb_",
         "Name": "Sebastian Becker",
-        "NIC Handle": "SB15220-RIPE",
+        "NIC Handle": [
+            "SB15220-RIPE"
+        ],
         "ASN": [
             3320,
             20570,

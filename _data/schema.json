@@ -13,7 +13,11 @@
                 "type": "string"
             },
             "NIC Handle": {
-                "type": ["string", "null"]
+                "type": "array",
+                "items": {
+                    "type": ["string", "null"]
+                },
+                "uniqueItems": true
             },
             "ASN": {
                 "type": "array",
