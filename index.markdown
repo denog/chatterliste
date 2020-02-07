@@ -2,7 +2,7 @@
 layout: liste
 ---
 <div class="buttons">
-  <a href="https://github.com/denog/chatterliste/issues/new/choose" class="button">Daten anlegen oder ändern</a>
+  <a href="https://github.com/denog/chatterliste/issues/new/choose" class="button" target="_blank">Daten anlegen oder ändern</a>
 </div>
 <table>
   <thead>
@@ -26,7 +26,7 @@ layout: liste
       </td>
       <td>
         {% if entry.ASN %}{% for asn in entry.ASN %}
-          <a href="http://apps.db.ripe.net/search/query.html?searchtext=AS{{ asn }}&flags=r&types=AUT_NUM">{{ asn }}</a><br>
+          <a href="http://apps.db.ripe.net/search/query.html?searchtext=AS{{ asn }}&flags=r&types=AUT_NUM">{{ asn }}</a> · <a href="https://www.peeringdb.com/asn/{{ asn }}">{{ asn }}</a><br>
         {% endfor %}{% endif %}
       </td>
       <td>
