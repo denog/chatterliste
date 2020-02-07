@@ -2532,12 +2532,12 @@
             "MOMO23-RIPE"
         ],
         "ASN": [
-            48918
+            20940
         ],
         "Organisation": [
             {
-                "url": "http://www.globalways.net/",
-                "name": "Globalways"
+                "url": "http://www.akamai.com/",
+                "name": "Akamai Technologies"
             }
         ]
     },
