@@ -1,6 +1,9 @@
 ---
 layout: liste
 ---
+<div class="buttons">
+  <a href="https://github.com/denog/chatterliste/issues/new/choose" class="button">Daten anlegen oder ändern</a>
+</div>
 <table>
   <thead>
     <tr>
