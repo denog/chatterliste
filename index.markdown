@@ -26,7 +26,7 @@ layout: liste
       </td>
       <td>
         {% if entry.ASN %}{% for asn in entry.ASN %}
-          <a href="http://apps.db.ripe.net/search/query.html?searchtext=AS{{ asn }}&flags=r&types=AUT_NUM">{{ asn }}</a> · <a href="https://www.peeringdb.com/asn/{{ asn }}">{{ asn }}</a><br>
+          <a href="http://apps.db.ripe.net/search/query.html?searchtext=AS{{ asn }}&flags=r&types=AUT_NUM">{{ asn }}</a><br>
         {% endfor %}{% endif %}
       </td>
       <td>
