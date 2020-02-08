@@ -21,17 +21,17 @@ layout: liste
       <td>{{ entry.Name }}</td>
       <td>
         {% if entry["NIC Handle"] %}{% for handle in entry["NIC Handle"] %}
-        <a href="https://apps.db.ripe.net/search/query.html?searchtext={{ handle }}&flags=r&types=PERSON">{{ handle }}</a><br>
+        <a href="https://apps.db.ripe.net/search/query.html?searchtext={{ handle }}&flags=r&types=PERSON" target="_blank">{{ handle }}</a><br>
         {% endfor %}{% endif %}
       </td>
       <td>
         {% if entry.ASN %}{% for asn in entry.ASN %}
-          <a href="https://apps.db.ripe.net/search/query.html?searchtext=AS{{ asn }}&flags=r&types=AUT_NUM">{{ asn }}</a><br>
+          <a href="https://apps.db.ripe.net/search/query.html?searchtext=AS{{ asn }}&flags=r&types=AUT_NUM" target="_blank">{{ asn }}</a><br>
         {% endfor %}{% endif %}
       </td>
       <td>
         {% if entry.Organisation %}{% for org in entry.Organisation %}
-          {% if org.url %}<a href="{{ org.url }}">{% endif %}
+          {% if org.url %}<a href="{{ org.url }}" target="_blank">{% endif %}
           {{ org.name }}
           {% if org.url %}</a>{% endif %}
           <br>
