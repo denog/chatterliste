@@ -313,16 +313,26 @@
             "MWFF12-RIPE"
         ],
         "ASN": [
+            39225,
+            41981,
             201701
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "Universität Paderborn"
+                "url": "https://blog.sdn.clinic/",
+                "name": "SDN.clinic"
             },
             {
-                "url": null,
+                "url": "https://ffho.net/",
+                "name": "Freifunk Hochstift"
+            },
+            {
+                "url": "https://ffrl.de/",
                 "name": "Freifunk Rheinland"
+            },
+            {
+                "url": "https://imt.uni-paderborn.de/",
+                "name": "Universität Paderborn"
             }
         ]
     },
