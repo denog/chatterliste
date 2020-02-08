@@ -4447,12 +4447,13 @@
             "ZAP"
         ],
         "ASN": [
-            60955
+            112,
+            29670
         ],
         "Organisation": [
             {
-                "url": "http://www.wavecon.de/",
-                "name": "Wavecon GmbH"
+                "url": "http://www.in-berlin.de",
+                "name": "Individual Network Berlin e.V."
             }
         ]
     },
