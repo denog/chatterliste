@@ -3856,6 +3856,22 @@
         ]
     },
     {
+        "Nick": "stv0g",
+        "Name": "Steffen Vogel",
+        "NIC Handle": [
+            "STV27-RIPE"
+        ],
+        "ASN": [
+            207613
+        ],
+        "Organisation": [
+            {
+                "url": "https://dev.0l.de",
+                "name": "/dev/nulll"
+            }
+        ]
+    },
+    {
         "Nick": "StyleWarz",
         "Name": "Franz Bettag",
         "NIC Handle": [
