@@ -3021,16 +3021,25 @@
         "Nick": "pberndro",
         "Name": "Philip Berndroth",
         "NIC Handle": [
-            "PB19268-RIPE"
+            "PB20582-RIPE"
         ],
         "ASN": [
+            205112,
             201701,
-            199714
+            206356
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "philuweb UG"
+                "url": "http://philunet.de",
+                "name": "PHILUNET GmbH"
+            },
+            {
+                "url": "http://freifunk-rheinland.net",
+                "name": "Freifunk Rheinland e.V."
+            },
+            {
+                "url": "http://freifunk-essen.de",
+                "name": "Freifunk Essen e.V."
             }
         ]
     },
