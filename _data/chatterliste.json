@@ -3386,12 +3386,11 @@
             "RMH23-RIPE"
         ],
         "ASN": [
-            5539
         ],
         "Organisation": [
             {
-                "url": "http://space.net/",
-                "name": "SpaceNet AG"
+                "url": "http://grafana.com/",
+                "name": "Grafana Labs"
             }
         ]
     },
