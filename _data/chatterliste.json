@@ -1359,6 +1359,22 @@
         ]
     },
     {
+        "Nick": "fragstone",
+        "Name": "Thomas Fragstein",
+        "NIC Handle": [
+            "TF4351-RIPE"
+        ],
+        "ASN": [
+            203215
+        ],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Datagroup Enterprise Services Gmbh"
+            }
+        ]
+    },
+    {
         "Nick": "FrauStief",
         "Name": "Kerstin Mende",
         "NIC Handle": [],
