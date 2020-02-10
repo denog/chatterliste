@@ -216,22 +216,6 @@
         ]
     },
     {
-        "Nick": "arnotron",
-        "Name": "Arne Böttger",
-        "NIC Handle": [
-            "APB9-RIPE"
-        ],
-        "ASN": [
-            20694
-        ],
-        "Organisation": [
-            {
-                "url": "http://www.nmmn.com/",
-                "name": "NMMN"
-            }
-        ]
-    },
-    {
         "Nick": "as.as.as",
         "Name": "Andre Scholz",
         "NIC Handle": [
@@ -3274,15 +3258,8 @@
         "NIC Handle": [
             "SG11315-RIPE"
         ],
-        "ASN": [
-            20694
-        ],
-        "Organisation": [
-            {
-                "url": "https://www.nmmn.com/",
-                "name": "NMMN New Media Markets & Networks IT-Services GmbH"
-            }
-        ]
+        "ASN": [],
+        "Organisation": []
     },
     {
         "Nick": "qybl",
