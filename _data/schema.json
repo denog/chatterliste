@@ -55,7 +55,9 @@
         {
             "Nick": "jdoe",
             "Name": "Jane Doe",
-            "NIC Handle": "JXXXX-RIPE",
+            "NIC Handle": [
+                "JXXXX-RIPE"
+            ],
             "ASN": [
                 47000
             ],
