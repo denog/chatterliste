@@ -963,16 +963,12 @@
     {
         "Nick": "dk",
         "Name": "Dennis Kögel",
-        "NIC Handle": [
-            "AMF-RIPE"
-        ],
-        "ASN": [
-            20621
-        ],
+        "NIC Handle": [],
+        "ASN": [],
         "Organisation": [
             {
-                "url": "http://www.openit.de",
-                "name": "OpenIT GmbH"
+                "url": "https://www.cloud-mates.de/",
+                "name": "Cloud Mates GmbH"
             }
         ]
     },
