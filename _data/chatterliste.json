@@ -2921,6 +2921,27 @@
         ]
     },
     {
+        "Nick": "nomaster",
+        "Name": "Mic Szillat",
+        "NIC Handle": [
+            "NOMA"
+        ],
+        "ASN": [
+            207871,
+            198018
+        ],
+        "Organisation": [
+            {
+                "url": "https://freifunk-duesseldorf.de/",
+                "name": "Freifunk Düsseldorf e.V."
+            },
+            {
+                "url": "https://company.trivago.com/",
+                "name": "trivago N.V."
+            }
+        ]
+    },
+    {
         "Nick": "nr5_",
         "Name": "Frank Bergknecht",
         "NIC Handle": [
