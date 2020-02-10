@@ -2172,17 +2172,17 @@
             "LWE42-RIPE"
         ],
         "ASN": [
-            9033,
-            13020
+            13020,
+            48918
         ],
         "Organisation": [
             {
                 "url": null,
-                "name": "ECIX"
+                "name": "CCC"
             },
             {
                 "url": null,
-                "name": "CCC"
+                "name": "Datacenter One GmbH"
             }
         ]
     },
