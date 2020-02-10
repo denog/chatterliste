@@ -4396,6 +4396,18 @@
         "Organisation": []
     },
     {
+        "Nick": "vilwarin",
+        "Name": "Michael Prinzinger",
+        "NIC Handle": [],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://port-zero.com/",
+                "name" : "Port Zero"
+            }
+        ]
+    },
+    {
         "Nick": "viro",
         "Name": "Matthias Döring",
         "NIC Handle": [],
