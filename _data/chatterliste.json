@@ -4344,12 +4344,14 @@
         ],
         "ASN": [
             47147,
-            42473
+            42473,
+            57555,
+            51847
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "Anexia"
+                "url": "https://www.anexia.com",
+                "name": "ANEXIA Internetdienstleistungs GmbH"
             }
         ]
     },
