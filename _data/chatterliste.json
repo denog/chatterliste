@@ -1115,13 +1115,12 @@
     {
         "Nick": "dusty",
         "Name": "Jens Ott",
-        "NIC Handle": [
-        ],
+        "NIC Handle": [],
         "ASN": [
             48200,
             52051,
             60164,
-	    200548
+            200548
         ],
         "Organisation": [
             {
