@@ -249,6 +249,24 @@
         ]
     },
     {
+        "Nick": "awlnx",
+        "Name": "Annika Wickert",
+        "NIC Handle": [],
+        "ASN": [
+            51324
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.exaring.de",
+                "name": "EXARING AG"
+            },
+            {
+                "url": "https://ffmuc.net/",
+                "name": "Freifunk München"
+            }
+        ]
+    },
+    {
         "Nick": "axel-49024",
         "Name": "Axel Fischer",
         "NIC Handle": [
