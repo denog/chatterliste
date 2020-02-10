@@ -899,15 +899,13 @@
         "NIC Handle": [
             "WHTK-RIPE"
         ],
-        "ASN": [],
+        "ASN": [
+            207439
+        ],
         "Organisation": [
             {
-                "url": "http://www.whtec.net",
-                "name": "whTec"
-            },
-            {
-                "url": "http://wir-helfen.tv/",
-                "name": "wir-helfen.TV e.V."
+                "url": "https://www.Korves.Net",
+                "name": "Korves.Net"
             }
         ]
     },
