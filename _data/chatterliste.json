@@ -1491,10 +1491,12 @@
         "Nick": "Garf",
         "Name": "Wolfgang Tremmel",
         "NIC Handle": [
-            "WT5-RIPE"
+            "WT5-RIPE",
+            "WT6695-RIPE"
         ],
         "ASN": [
-            6695
+            6695,
+            196610
         ],
         "Organisation": [
             {
