@@ -1454,12 +1454,13 @@
         ],
         "ASN": [
             286,
-            517
+            517,
+            3257
         ],
         "Organisation": [
             {
                 "url": "https://as286.net",
-                "name": "KPN EuroRings B.V."
+                "name": "KPN EuroRings B.V. - now a GTT company"
             }
         ]
     },
