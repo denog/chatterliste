@@ -4347,6 +4347,22 @@
         ]
     },
     {
+        "Nick": "TS680",
+        "Name": "Thomas Schmid",
+        "NIC Handle": [
+            "TS150-RIPE"
+        ],
+        "ASN": [
+            680
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.dfn.de/",
+                "name": "DFN"
+            }
+        ]
+    },
+    {
         "Nick": "tuxfan",
         "Name": "Ronny Lippold",
         "NIC Handle": [
