@@ -1797,6 +1797,15 @@
         ]
     },
     {
+        "Nick": "iQ",
+        "Name": "Jan Walzer",
+        "NIC Handle": [
+            "IQ-RIPE"
+        ],
+        "ASN": [],
+        "Organisation": []
+    },
+    {
         "Nick": "irrwitzer",
         "Name": "Johannes Jakob",
         "NIC Handle": [
@@ -1816,15 +1825,6 @@
                 "name": "Datacenter One GmbH"
             }
         ]
-    },
-    {
-        "Nick": "iQ",
-        "Name": "Jan Walzer",
-        "NIC Handle": [
-            "IQ-RIPE"
-        ],
-        "ASN": [],
-        "Organisation": []
     },
     {
         "Nick": "Isotopp",
