@@ -15,7 +15,8 @@ layout: liste
     </tr>
   </thead>
   <tbody>
-  {% for entry in site.data.chatterliste %}
+  {% assign sorted = site.data.chatterliste | sort_natural: 'Nick' %}
+  {% for entry in sorted %}
     <tr>
       <td>{{ entry.Nick }}</td>
       <td>{{ entry.Name }}</td>
