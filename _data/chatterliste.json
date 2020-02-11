@@ -1806,6 +1806,27 @@
         "Organisation": []
     },
     {
+        "Nick": "irrwitzer",
+        "Name": "Johannes Jakob",
+        "NIC Handle": [
+            "JJJ42"
+        ],
+        "ASN": [
+            48918,
+            59745
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.globalways.net",
+                "name": "Globalways GmbH"
+            },
+            {
+                "url": "https:/www.dc1.com",
+                "name": "Datacenter One GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "Isotopp",
         "Name": "Kristian Köhntopp",
         "NIC Handle": [],
