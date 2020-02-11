@@ -249,6 +249,24 @@
         ]
     },
     {
+        "Nick": "awlnx",
+        "Name": "Annika Wickert",
+        "NIC Handle": [],
+        "ASN": [
+            51324
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.exaring.de",
+                "name": "EXARING AG"
+            },
+            {
+                "url": "https://ffmuc.net/",
+                "name": "Freifunk München"
+            }
+        ]
+    },
+    {
         "Nick": "axel-49024",
         "Name": "Axel Fischer",
         "NIC Handle": [
@@ -945,16 +963,12 @@
     {
         "Nick": "dk",
         "Name": "Dennis Kögel",
-        "NIC Handle": [
-            "AMF-RIPE"
-        ],
-        "ASN": [
-            20621
-        ],
+        "NIC Handle": [],
+        "ASN": [],
         "Organisation": [
             {
-                "url": "http://www.openit.de",
-                "name": "OpenIT GmbH"
+                "url": "https://www.cloud-mates.de/",
+                "name": "Cloud Mates GmbH"
             }
         ]
     },
@@ -1095,6 +1109,23 @@
             {
                 "url": "http://www.fastit.de",
                 "name": "Amazon"
+            }
+        ]
+    },
+    {
+        "Nick": "dusty",
+        "Name": "Jens Ott",
+        "NIC Handle": [],
+        "ASN": [
+            48200,
+            52051,
+            60164,
+            200548
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.opteamax.de",
+                "name": "Opteamax GmbH"
             }
         ]
     },
@@ -2172,17 +2203,17 @@
             "LWE42-RIPE"
         ],
         "ASN": [
-            9033,
-            13020
+            13020,
+            48918
         ],
         "Organisation": [
             {
                 "url": null,
-                "name": "ECIX"
+                "name": "CCC"
             },
             {
                 "url": null,
-                "name": "CCC"
+                "name": "Datacenter One GmbH"
             }
         ]
     },
@@ -4091,6 +4122,20 @@
         "Organisation": []
     },
     {
+        "Nick": "Theuni",
+        "Name": "Christian Theune",
+        "NIC Handle": [
+            "CT5862-RIPE"
+        ],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://flyingcircus.io/",
+                "name": "Flying Circus Internet Operations GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "ThomAS196714",
         "Name": "Thomas Voigt",
         "NIC Handle": [
@@ -4326,12 +4371,14 @@
         ],
         "ASN": [
             47147,
-            42473
+            42473,
+            57555,
+            51847
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "Anexia"
+                "url": "https://www.anexia.com",
+                "name": "ANEXIA Internetdienstleistungs GmbH"
             }
         ]
     },
