@@ -576,17 +576,19 @@
         "Nick": "chn",
         "Name": "Christoph Neukirch",
         "NIC Handle": [
-            "CN202-RIPE",
-            "CHN42-RIPE"
+            "CN202-RIPE"
         ],
         "ASN": [
             50343
         ],
         "Organisation": [
             {
-                "url": "http://www.xing.com/",
-                "name": "XING AG"
-            }
+                "url": "https://www.new-work.se/",
+                "name": "New Work SE"
+            },
+            {
+                "url": "https://www.xing.com/",
+                "name": "XING"
         ]
     },
     {
