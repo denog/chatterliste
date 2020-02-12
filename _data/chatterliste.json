@@ -654,15 +654,8 @@
         "Nick": "Chrissi1",
         "Name": "Christan Gebhardt",
         "NIC Handle": [],
-        "ASN": [
-            6695
-        ],
-        "Organisation": [
-            {
-                "url": "http://www.de-cix.net/",
-                "name": "DE-CIX"
-            }
-        ]
+        "ASN": [],
+        "Organisation": []
     },
     {
         "Nick": "clockwork",
