@@ -1892,6 +1892,18 @@
         ]
     },
     {
+        "Nick": "jbacksch",
+        "Name": "Jörg Backschues",
+        "NIC Handle": [],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "backschues.NET"
+            }
+        ]
+    },   
+    {
         "Nick": "jchome",
         "Name": "Frederic Jaeckel",
         "NIC Handle": [],
