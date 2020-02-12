@@ -2260,15 +2260,8 @@
         "Nick": "lucian-decix",
         "Name": "Lucian Cioltan",
         "NIC Handle": [],
-        "ASN": [
-            6695
-        ],
-        "Organisation": [
-            {
-                "url": "http://www.de-cix.net/",
-                "name": "DE-CIX Management GmbH"
-            }
-        ]
+        "ASN": [],
+        "Organisation": []
     },
     {
         "Nick": "lucius_",
@@ -2368,15 +2361,8 @@
         "Nick": "maha",
         "Name": "Mathias Handsche",
         "NIC Handle": [],
-        "ASN": [
-            6695
-        ],
-        "Organisation": [
-            {
-                "url": "https://www.de-cix.net",
-                "name": "DE-CIX"
-            }
-        ]
+        "ASN": [],
+        "Organisation": []
     },
     {
         "Nick": "MarcL",
