@@ -2207,11 +2207,16 @@
     {
         "Nick": "leoluk",
         "Name": "Leopold Schabel",
-        "NIC Handle": [],
-        "ASN": [
-            199610
+        "NIC Handle": [
+            "LS14103-RIPE"
         ],
-        "Organisation": []
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Nexantic GmbH"
+            }
+        ]
     },
     {
         "Nick": "leonn",
