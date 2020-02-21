@@ -1761,6 +1761,22 @@
         ]
     },
     {
+        "Nick": "hs",
+        "Name": "Henry Schaefer",
+        "NIC Handle": [
+            "hsvz-ripe"
+        ],
+        "ASN": [
+            702
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.verizon.de/",
+                "name": "Verizon"
+            }
+        ]
+    },
+    {
         "Nick": "icebreak",
         "Name": "Alex Senderkin",
         "NIC Handle": [
