@@ -1554,17 +1554,22 @@
             "CHRS-RIPE"
         ],
         "ASN": [
-            6724,
-            29670
+            29670,
+            50030,
+            57555
         ],
         "Organisation": [
             {
-                "url": "http://www.strato.de",
-                "name": "STRATO AG"
+                "url": "https://www.in-berlin.de/",
+                "name": "Individual Network Berlin e.V."
             },
             {
-                "url": "http://www.in-berlin.de",
-                "name": "Individual Network Berlin e.V."
+                "url": "https://www.system.de/",
+                "name": "system.de - System & Project GmbH"
+            },
+            {
+                "url": "https://www.community-ix.de/",
+                "name": "Community-IX"
             }
         ]
     },
