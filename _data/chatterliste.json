@@ -2081,11 +2081,14 @@
         "Nick": "kay",
         "Name": "Kay Rechthien",
         "NIC Handle": [
-            "XTC23-RIPE"
+            "KAYR-RIPE",
+            "XTC23-RIPE",
+            "AKAY-RIPE"
         ],
         "ASN": [
             13020,
             20940,
+            49225,
             50472
         ],
         "Organisation": [
@@ -2096,6 +2099,10 @@
             {
                 "url": "https://www.akamai.com/",
                 "name": "Akamai Technologies"
+            },
+            {
+                "url": "https://berlin.ccc.de/",
+                "name": "CCC Berlin e.V."
             },
             {
                 "url": "https://www.ccc.de/",
