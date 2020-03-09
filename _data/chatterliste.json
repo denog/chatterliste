@@ -865,13 +865,25 @@
             "DC5052-RIPE"
         ],
         "ASN": [
+            8330,
+            8550,
             32346,
-            42579
+            39767,
+            42579,
+            60079
         ],
         "Organisation": [
             {
                 "url": "http://www.sargasso.de/",
                 "name": "Sargasso Networks"
+            },
+            {
+                "url": "http://www.lonap.net/",
+                "name": "LONAP"
+            },
+            {
+                "url": "http://www.emfcamp.org/",
+                "name": "Electromagnetic Field"
             }
         ]
     },
