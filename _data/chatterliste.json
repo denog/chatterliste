@@ -637,6 +637,22 @@
         ]
     },
     {
+        "Nick": "chrisd",
+        "Name": "Christian Dieckhoff",
+        "NIC Handle": [
+            "CD9196-RIPE"
+        ],
+        "ASN": [
+            9136
+        ],
+        "Organisation": [
+            {
+                "url:" "https://wobcom.de",
+                "name": "WOBCOM GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "chrisk",
         "Name": "Christian Kildau",
         "NIC Handle": [
