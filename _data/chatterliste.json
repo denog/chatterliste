@@ -1634,6 +1634,29 @@
         ]
     },
     {
+        "Nick": "gordon",
+        "Name": "Leonard Wagner",
+        "NIC Handle": [],
+        "ASN": [
+            29670,
+            57555
+        ],
+        "Organisation": [
+            {
+                "url": "https://hello.global.ntt",
+                "name": "NTT Germany AG & Co. KG"
+            },
+            {
+                "url": "https://in-berlin.de",
+                "name": "Individual Network Berlin e.V."
+            },
+            {
+                "url": "https://community-ix.de",
+                "name": "Community-IX"
+            }
+        ]
+    },
+    {
         "Nick": "GPF",
         "Name": "Sebastian Wiesinger",
         "NIC Handle": [
