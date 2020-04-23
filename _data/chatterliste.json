@@ -4351,6 +4351,22 @@
             }
         ]
     },
+        {
+        "Nick": "TksHamburg",
+        "Name": "Christian Adler",
+        "NIC Handle": [ 
+                "CA4524-RIPE"
+        ],
+        "ASN": [
+            61157
+        ],
+        "Organisation": [
+            {
+                "url": "http://www.plusserver.com",
+                "name": "Plusserver GmbH"
+            }
+        ]
+    },
     {
         "Nick": "toBee",
         "Name": "Tom Spier",
