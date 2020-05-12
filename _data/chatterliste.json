@@ -2129,6 +2129,20 @@
         ]
     },
     {
+        "Nick": "jssfr",
+        "Name": "Jonas Schäfer",
+        "NIC-Handle": [],
+        "ASN": [
+            203592
+        ],
+        "Organisation": [
+            {
+                "url": "https://cloudandheat.com",
+                "name": "CLOUD&HEAT Technologies GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "kay",
         "Name": "Kay Rechthien",
         "NIC Handle": [
