@@ -956,15 +956,28 @@
         "Nick": "dinoex",
         "Name": "Dirk Meyer",
         "NIC Handle": [
-            "DM996-RIPE"
+            "DM996-RIPE",
+            "DM15507-RIPE",
+            "DM16590-RIPE",
+            "DM16663-RIPE"
         ],
         "ASN": [
-            20810
+            20810,
+            205376,
+            209509
         ],
         "Organisation": [
             {
-                "url": "http://www.netcom-kassel.de/",
+                "url": "https://www.netcom-kassel.de/",
                 "name": "Netcom Kassel"
+            },
+            {
+                "url": "https://www.dinoex.de/",
+                "name": "Dirk Meyer"
+            },
+            {
+                "url": "https://www.servator.de/",
+                "name": "Servator Consulting GmbH"
             }
         ]
     },
