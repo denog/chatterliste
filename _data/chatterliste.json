@@ -4896,5 +4896,22 @@
                 "name": "T-Systems International GmbH"
             }
         ]
-    }
+    },
+    {
+    "Nick": "bene_",
+    "Name": "Benedikt Merkl",
+    "NIC Handle": [
+        "BENE2-RIPE"
+    ],
+    "ASN": [
+        201026,
+        199012
+    ],
+    "Organisation": [
+        {
+            "url": "https://tech.zalando.com",
+            "name": "Zalando SE"
+        }
+    ]
+  } 
 ]
