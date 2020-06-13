@@ -3896,6 +3896,7 @@
             "MF16389-RIPE"
         ],
         "ASN": [
+            42263,
             58145,
             64475
         ],
@@ -3903,6 +3904,10 @@
             {
                 "url": null,
                 "name": "Freifunk Frankfurt am Main e.V."
+            },
+            {
+                "url": null,
+                "name": "iNNOVO Cloud"
             }
         ]
     },
