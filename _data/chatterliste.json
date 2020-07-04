@@ -3297,6 +3297,22 @@
         ]
     },
     {
+        "Nick": "PhilAd",
+        "Name": "Philipp Adam",
+        "NIC Handle": [
+            "PA10346-RIPE"
+        ],
+        "ASN": [
+            3320
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.telekom.com",
+                "name": "Deutsche Telekom AG"
+            }
+        ]
+    },
+    {
         "Nick": "phils",
         "Name": "Philipp Schmidt",
         "NIC Handle": [
