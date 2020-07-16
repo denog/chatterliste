@@ -295,6 +295,20 @@
         ]
     },
     {
+        "Nick": "baduck",
+        "Name": "Christoph Badura",
+        "NIC Handle": [
+	    "CB8-RIPE"
+	],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "http://www.netbsd.org/",
+                "name": "NetBSD"
+            }
+        ]
+    },
+    {
         "Nick": "bapho",
         "Name": "Christopher Dworczak",
         "NIC Handle": [],
