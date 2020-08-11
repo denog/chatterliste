@@ -3155,9 +3155,14 @@
             "OLBA-RIPE"
         ],
         "ASN": [
-            8881
+            
         ],
-        "Organisation": []
+        "Organisation": [
+	  {
+		"url": "https://www.bfh.ch",
+		"name": "Berner Fachhochschule"
+	  }
+	]
     },
     {
         "Nick": "olisac",
