@@ -390,6 +390,18 @@
         ]
     },
     {
+        "Nick": "bene",
+        "Name": "Benedikt Rollik",
+        "NIC Handle": [],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://www.scaleway.com/",
+                "name": "Scaleway"
+            }
+        ]
+    },
+    {
         "Nick": "bitjab",
         "Name": "Marco Prause",
         "NIC Handle": [],
