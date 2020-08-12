@@ -1918,11 +1918,9 @@
     {
         "Nick": "iQ",
         "Name": "Jan Walzer",
-        "NIC Handle": [
-            "IQ-RIPE"
-        ],
+        "NIC Handle": [],
         "ASN": [],
-        "Organisation": []
+        "Organisation": ["Cloudical"]
     },
     {
         "Nick": "irrwitzer",
