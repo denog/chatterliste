@@ -1920,7 +1920,12 @@
         "Name": "Jan Walzer",
         "NIC Handle": [],
         "ASN": [],
-        "Organisation": ["Cloudical"]
+        "Organisation": [
+	    { 
+		"url": "http://cloudical.io",
+		"name": "Cloudical"		 
+	    }
+	]
     },
     {
         "Nick": "irrwitzer",
