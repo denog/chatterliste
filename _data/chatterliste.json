@@ -3164,6 +3164,27 @@
         "Organisation": []
     },
     {
+        "Nick": "ogelpre",
+        "Name": "Benedikt Neuffer",
+        "NIC Handle": [
+            "BN2907-RIPE",
+            "BN2918-RIPE"
+        ],
+        "ASN": [
+            34878,
+            58069,
+            204680,
+            208974,
+            213068
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.kit.edu",
+                "name": "Karlsruhe Institute of Technology / Steinbuch Centre for Computing"
+            }
+        ]
+    },
+    {
         "Nick": "olba",
         "Name": "Olaf Baumert",
         "NIC Handle": [
