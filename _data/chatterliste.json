@@ -4996,5 +4996,19 @@
             "name": "Zalando SE"
         }
     ]
-  } 
+  },
+  {
+        "Nick": "t-k-s",
+        "Name": "Thomas King",
+        "NIC Handle": [],
+        "ASN": [
+            31451
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.de-cix.net",
+                "name": "Works for DE-cIX"
+            }
+        ]
+    }	
 ]
