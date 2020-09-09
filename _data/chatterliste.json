@@ -2761,12 +2761,18 @@
             "MOMO23-RIPE"
         ],
         "ASN": [
-            20940
+            47147,
+	    42473,
+	    41139
         ],
         "Organisation": [
             {
-                "url": "http://www.akamai.com/",
-                "name": "Akamai Technologies"
+                "url": "http://www.anexia-it.com/",
+                "name": "ANEXIA Internetdienstleistungs GmbH"
+            },
+            {
+                "url": "http://www.stuttgart-ix.de/",
+                "name": "Stuttgart-IX"
             }
         ]
     },
