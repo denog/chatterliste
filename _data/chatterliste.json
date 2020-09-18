@@ -353,6 +353,22 @@
         ]
     },
     {
+        "Nick": "banym",
+        "Name": "Dominik Zajac",
+        "NIC Handle": [
+            "DZ2621-RIPE"
+        ],
+        "ASN": [
+            12657
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.baycix.de",
+                "name": "BayCIX GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "Ba|rog",
         "Name": "Axel Eble",
         "NIC Handle": [
