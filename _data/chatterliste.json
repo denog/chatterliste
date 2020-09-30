@@ -1399,11 +1399,13 @@
             "FLO-RIPE"
         ],
         "ASN": [
-            12337
+            12337,
+            8222,
+            44880
         ],
         "Organisation": [
             {
-                "url": "http://www.noris.net/",
+                "url": "https://www.noris.de/",
                 "name": "noris network AG"
             }
         ]
@@ -1718,11 +1720,13 @@
             "GPF-RIPE"
         ],
         "ASN": [
-            12337
+            12337,
+            8222,
+            44880
         ],
         "Organisation": [
             {
-                "url": "http://www.noris.de/",
+                "url": "https://www.noris.de/",
                 "name": "noris network AG"
             }
         ]
@@ -2813,7 +2817,9 @@
             "MORD-RIPE"
         ],
         "ASN": [
-            12337
+            12337,
+            8222,
+            44880
         ],
         "Organisation": [
             {
@@ -4063,11 +4069,13 @@
         "Name": "Jan Dirnberger",
         "NIC Handle": [],
         "ASN": [
-            12337
+            12337,
+            8222,
+            44880
         ],
         "Organisation": [
             {
-                "url": "http://www.noris.de/",
+                "url": "https://www.noris.de/",
                 "name": "noris network AG"
             }
         ]
