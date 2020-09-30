@@ -3908,6 +3908,22 @@
         ]
     },
     {
+        "Nick": "shaddi",
+        "Name": "Karl Szmutny",
+        "NIC Handle": [],
+        "ASN": [
+            12337,
+            8222,
+            44880
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.noris.de/",
+                "name": "noris network AG"
+            }
+        ]
+    },
+    {
         "Nick": "shedenig",
         "Name": "Stefan Hedenig",
         "NIC Handle": [
