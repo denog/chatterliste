@@ -3150,17 +3150,12 @@
             "NOMA"
         ],
         "ASN": [
-            207871,
-            15594
+            207871
         ],
         "Organisation": [
             {
                 "url": "https://freifunk-duesseldorf.de/",
                 "name": "Freifunk Düsseldorf e.V."
-            },
-            {
-                "url": "https://www.sipgate.de/",
-                "name": "sipgate GmbH"
             }
         ]
     },
