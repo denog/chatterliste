@@ -97,7 +97,9 @@
     {
         "Nick": "almi",
         "Name": "Alexander Mischke",
-        "NIC Handle": [],
+        "NIC Handle": [
+            "AM43368-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
