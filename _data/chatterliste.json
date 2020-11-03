@@ -5043,5 +5043,22 @@
                 "name": "Works for DE-CIX"
             }
         ]
-    }	
+    },
+    {
+        "Nick": "_992jo",
+        "Name": "Johannes Erwerle",
+        "NIC Handle": [
+            "JOER-RIPE"
+        ],
+        "ASN": [
+            553,
+            213341
+        ],
+        "Organisation": [
+            {
+                "url": "https://belwue.de",
+                "name": "BelWue"
+            }
+        ]
+    }
 ]
