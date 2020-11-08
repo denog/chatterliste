@@ -4281,7 +4281,10 @@
     {
         "Nick": "swaio",
         "Name": "Stefan Wahl",
-        "NIC Handle": [],
+        "NIC Handle": [
+	    "SW7-RIPE",
+            "SW6038-RIPE"
+	],
         "ASN": [
             208262,
             9033
