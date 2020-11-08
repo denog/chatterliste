@@ -4307,23 +4307,32 @@
     {
         "Nick": "swaio",
         "Name": "Stefan Wahl",
-        "NIC Handle": [],
+        "NIC Handle": [
+	    "SW7-RIPE",
+            "SW6038-RIPE",
+	    "SW5374-RIPE"
+	],
         "ASN": [
             208262,
+	    41948,
             9033
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "OPEN7"
+                "url": "https://www.open7.net",
+                "name": "Open7"
             },
             {
-                "url": "http://www.megaport.com/",
-                "name": "MEGAPORT"
+                "url": "https://www.megaport.com/",
+                "name": "Megaport"
+            },
+	    {
+		"url": "https://www.megaport.com/services/internet-exchange/",
+		"name": "Megaport Internet Exchanges"
             },
             {
-                "url": "http://www.ecix.net/",
-                "name": "ECIX"
+                "url": "https://www.ecix.net/",
+                "name": "Megaport ECIX"
             }
         ]
     },
