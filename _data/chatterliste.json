@@ -3888,6 +3888,22 @@
         "Organisation": []
     },
     {
+        "Nick": "scip",
+        "Name": "Thomas von Dein",
+        "NIC Handle": [
+            "TL1083-RIPE"
+        ],
+        "ASN": [
+            12316
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.f-i-ts.de/",
+                "name": "Finanz Informatik Technologie Service GmbH & Co KG"
+            }
+        ]
+    },
+    {
         "Nick": "sebast",
         "Name": "Sebastian Schikora",
         "NIC Handle": [
