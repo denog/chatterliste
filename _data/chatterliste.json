@@ -465,6 +465,18 @@
         "Organisation": []
     },
     {
+        "Nick": "blownaway",
+        "Name": "Christian F.",
+        "NIC Handle": [],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Charité Berlin"
+            }
+        ]
+    },
+    {
         "Nick": "bnfh",
         "Name": "Matthias Kupfer",
         "NIC Handle": [
