@@ -2545,13 +2545,11 @@
         "NIC Handle": [
             "LYS-RIPE"
         ],
-        "ASN": [
-            9033
-        ],
+        "ASN": [],
         "Organisation": [
             {
-                "url": "https://www.ecix.net",
-                "name": "ECIX / Peering GmbH"
+                "url": null,
+                "name": "Vattenfall Bitstream Infrastructure"
             }
         ]
     },
