@@ -2906,7 +2906,9 @@
         "NIC Handle": [
             "FLOW-RIPE"
         ],
-        "ASN": [],
+        "ASN": [
+		209480
+	],
         "Organisation": [
             {
                 "url": "http://www.smart-weblications.com/",
