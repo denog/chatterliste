@@ -255,12 +255,13 @@
         "Name": "Annika Wickert",
         "NIC Handle": [],
         "ASN": [
-            51324
+            36459,
+            212567
         ],
         "Organisation": [
             {
-                "url": "https://www.exaring.de",
-                "name": "EXARING AG"
+                "url": "https://www.github.com",
+                "name": "Github Inc."
             },
             {
                 "url": "https://ffmuc.net/",
