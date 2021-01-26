@@ -4395,19 +4395,19 @@
     },
     {
         "Nick": "takt",
-        "Name": "Oliver Herms",
+        "Name": "Oliver Geiselhardt-Herms",
         "NIC Handle": [
             "TAKT1-RIPE"
         ],
         "ASN": [
-            15169,
+            51324,
             201701,
             199714
         ],
         "Organisation": [
             {
                 "url": null,
-                "name": "Google"
+                "name": "EXARING AG"
             },
             {
                 "url": null,
