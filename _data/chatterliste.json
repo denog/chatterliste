@@ -5119,5 +5119,19 @@
                 "name": "BelWue"
             }
         ]
+    },
+    {
+        "Nick": "Peanuts68",
+        "Name": "Kurt Kayser",
+        "NIC Handle": [
+            "KK37-RIPE"
+        ],
+        "ASN": [49234],
+        "Organisation": [
+            {
+                "url": null,
+                "name": "Kurt Kayser Konsultation"
+            }
+        ]
     }
 ]
