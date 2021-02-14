@@ -2356,6 +2356,18 @@
         ]
     },
     {
+        "Nick": "kunsi",
+        "Name": "Franziska Kunsmann",
+        "NIC Handle": [],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://seibert-media.net/",
+                "name": "//SEIBERT/MEDIA GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "lairsdragon",
         "Name": "Steffen Weinreich",
         "NIC Handle": [
