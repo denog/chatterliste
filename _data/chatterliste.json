@@ -2962,19 +2962,18 @@
     {
         "Nick": "MrXermon",
         "Name": "Jan Gilla",
-        "NIC Handle": [],
+        "NIC Handle": [
+            "JG9387-RIPE"
+        ],
         "ASN": [
-            209844,
-            205614
+            56381,
+            205614,
+            209844
         ],
         "Organisation": [
             {
                 "url": " https://level66.network",
                 "name": "level66.network"
-            },
-            {
-                "url": "https://www.medialine.ag",
-                "name": "Medialine EuroTrade AG"
             }
         ]
     },
@@ -5145,5 +5144,12 @@
                 "name": "Kurt Kayser Konsultation"
             }
         ]
+    },
+    {
+        "Nick": "hixharris",
+        "Name": "Haris Trgo",
+        "NIC Handle": [],
+        "ASN": [],
+        "Organisation": []
     }
 ]
