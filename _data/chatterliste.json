@@ -3597,11 +3597,16 @@
     {
         "Nick": "qoreQyaS",
         "Name": "Sven Grewe",
-        "NIC Handle": [
-            "SG11315-RIPE"
+        "NIC Handle": [],
+        "ASN": [
+            35258
         ],
-        "ASN": [],
-        "Organisation": []
+        "Organisation": [
+            {
+                "url": "https://akquinet.com",
+                "name": "akquinet AG"
+            }
+        ]
     },
     {
         "Nick": "qybl",
