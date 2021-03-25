@@ -1,5 +1,25 @@
 [
-	
+    {
+        "Nick": "RobWei",
+        "Name": "Robin Weiligmann",
+        "NIC Handle": [
+            "RW5093-RIPE"
+        ],
+        "ASN": [
+            207622,
+            209894
+        ],
+        "Organisation": [
+            {
+                "url": "https://infrastruktur.ms/",
+                "name": "Foerderverein Freie Infrastruktur e. V."
+            },
+            {
+                "url": "https://www.uni-muenster.de/IT/",
+                "name": "Westfälische Wilhelms-Universität Münster"
+            }
+        ]
+    },
     {
         "Nick": "_Craig_",
         "Name": "Stefan Behte",
