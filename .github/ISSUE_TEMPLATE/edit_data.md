@@ -4,7 +4,7 @@ about: Personendaten aktualisieren · Update personal data
 
 ---
 
-<!-- Wenn du keinen PR erstellen möchtest, kannst du auch einen Issue aufmachen. -->
+<!-- Bitte nach Moeglichkeit als PR, nicht als Issue, schicken. -->
 <!-- Bitte fülle die folgenden Zeilen aus: -->
 
 Name: 
