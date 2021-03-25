@@ -4,7 +4,7 @@ about: Neue Person der Liste hinzufügen · Add a new person to the list
 
 ---
 
-<!-- Wenn du keinen PR erstellen möchtest, kannst du auch einen Issue aufmachen. -->
+<!-- Bitte nach Moeglichkeit als PR, nicht als Issue, schicken -->
 <!-- Bitte fülle die folgenden Zeilen aus: -->
 
 Name: 
