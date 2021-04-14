@@ -3224,6 +3224,22 @@
         ]
     },
     {
+        "Nick": "n0emis",
+        "Name": "Simeon Keske",
+        "NIC Handle": [
+            "SK14897-RIPE"
+        ],
+        "ASN": [
+            211479
+        ],
+        "Organisation": [
+            {
+                "url": "https://gwdg.de/",
+                "name": "GWDG"
+            }
+        ]
+    },
+    {
         "Nick": "nomaster",
         "Name": "Mic Szillat",
         "NIC Handle": [
