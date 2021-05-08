@@ -5147,14 +5147,11 @@
     "NIC Handle": [
         "BENE2-RIPE"
     ],
-    "ASN": [
-        201026,
-        199012
-    ],
+    "ASN": [],
     "Organisation": [
         {
-            "url": "https://tech.zalando.com",
-            "name": "Zalando SE"
+            "url": "https://www.gropyus.com",
+            "name": "Gropyus Technologies GmbH"
         }
     ]
   },
