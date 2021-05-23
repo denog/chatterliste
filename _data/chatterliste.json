@@ -4851,13 +4851,13 @@
             "TCVW-RIPE"
         ],
         "ASN": [
-            203507,
-            206970
+            21263,
+            39525
         ],
         "Organisation": [
             {
-                "url": "https://www.avira.com/",
-                "name": "Avira"
+                "url": "https://www.teledata.de//",
+                "name": "TeleData GmbH"
             }
         ]
     },
