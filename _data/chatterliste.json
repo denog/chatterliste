@@ -1793,14 +1793,13 @@
             "GPF-RIPE"
         ],
         "ASN": [
-            12337,
-            8222,
-            44880
+            47147,
+            42473
         ],
         "Organisation": [
             {
-                "url": "https://www.noris.de/",
-                "name": "noris network AG"
+                "url": "http://www.anexia.com/",
+                "name": "ANEXIA Internetdienstleistungs GmbH"
             }
         ]
     },
