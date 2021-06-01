@@ -2569,10 +2569,15 @@
             "LG128-RIPE"
         ],
         "ASN": [
+            51324,
             8365,
             35548
         ],
         "Organisation": [
+            {
+                "url": "https://www.exaring.de",
+                "name": "EXARING AG"
+            },
             {
                 "url": null,
                 "name": "man-da.de GmbH"
