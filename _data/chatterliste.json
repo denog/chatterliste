@@ -3399,12 +3399,18 @@
         "Nick": "Panther_1",
         "Name": "Ruben Herold",
         "NIC Handle": [
-            "RH6896-rIPE"
+            "RH6896-RIPE"
         ],
         "ASN": [
-            62086
+            62086,
+            210198
         ],
-        "Organisation": []
+        "Organisation": [
+		{
+			"url": "https://www.via-online.de",
+			"name": "ViA-Online GmbH"
+		}
+	]
     },
     {
         "Nick": "pberndro",
