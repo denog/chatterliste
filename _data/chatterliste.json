@@ -5216,5 +5216,17 @@
         "NIC Handle": [],
         "ASN": [],
         "Organisation": []
+    },
+    {
+        "Nick": "paktosan",
+        "Name": "Julian Fölsch",
+        "NIC Handle": [],
+        "ASN": [196610],
+        "Organisation": [
+            {
+                "url": "https://www.de-cix.net",
+                "name": "DE-CIX"
+            }
+        ]
     }
 ]
