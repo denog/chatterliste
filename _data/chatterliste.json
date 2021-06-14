@@ -2716,16 +2716,20 @@
             29317
         ],
         "Organisation": [
+	    {
+		"url": "https://www.rockenstein.de/",
+		"name": "rockenstein AG"
+	    },
             {
-                "url": "http://www.baycix.de",
+                "url": "https://www.baycix.de",
                 "name": "BayCIX GmbH"
             },
             {
-                "url": "http://www.gefoekom.de",
+                "url": "https://www.gefoekom.de",
                 "name": "GeFoekoM e.V."
             },
             {
-                "url": "http://www.s-lz.net",
+                "url": "https://www.s-lz.net",
                 "name": "s-lz.net"
             }
         ]
