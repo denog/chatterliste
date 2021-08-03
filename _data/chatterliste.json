@@ -669,20 +669,13 @@
     {
         "Nick": "chn",
         "Name": "Christoph Neukirch",
-        "NIC Handle": [
-            "CN202-RIPE"
-        ],
         "ASN": [
-            50343
+            12731
         ],
         "Organisation": [
             {
-                "url": "https://www.new-work.se/",
-                "name": "New Work SE"
-            },
-            {
-                "url": "https://www.xing.com/",
-                "name": "XING"
+                "url": "https://www.iphh.net/",
+                "name": "IPHH Internet Port Hamburg GmbH"
             }
         ]
     },
