@@ -5117,16 +5117,12 @@
     {
         "Nick": "_mrplow",
         "Name": "Moritz Krause",
-        "NIC Handle": [
-            "MK14357-RIPE"
-        ],
-        "ASN": [
-            24679
-        ],
+        "NIC Handle": [],
+        "ASN": [],
         "Organisation": [
             {
-                "url": "http://www.hostway.de/",
-                "name": "Hostway Deutschland GmbH"
+                "url": "https://www.medondo.com/",
+                "name": "medondo AG"
             }
         ]
     },
