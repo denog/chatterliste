@@ -669,6 +669,9 @@
     {
         "Nick": "chn",
         "Name": "Christoph Neukirch",
+        "NIC Handle": [
+            "CHN"
+        ],
         "ASN": [
             12731
         ],
