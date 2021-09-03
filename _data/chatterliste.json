@@ -772,15 +772,8 @@
         "NIC Handle": [
             "CLK1338-RIPE"
         ],
-        "ASN": [
-            60955
-        ],
-        "Organisation": [
-            {
-                "url": "http://wavecon.de/",
-                "name": "Wavecon GmbH"
-            }
-        ]
+        "ASN": [],
+        "Organisation": []
     },
     {
         "Nick": "CoreTex-51861",
@@ -4465,15 +4458,8 @@
         "NIC Handle": [
             "CHK2342-RIPE"
         ],
-        "ASN": [
-            60955
-        ],
-        "Organisation": [
-            {
-                "url": null,
-                "name": "Wavecon GmbH"
-            }
-        ]
+        "ASN": [],
+        "Organisation": []
     },
     {
         "Nick": "TabTwo",
@@ -5066,12 +5052,17 @@
         ],
         "ASN": [
             112,
-            29670
+            29670,
+            60955
         ],
         "Organisation": [
             {
                 "url": "http://www.in-berlin.de",
                 "name": "Individual Network Berlin e.V."
+            },
+            {
+                "url": "https://wavecon.de/",
+                "name": "Wavecon GmbH"
             }
         ]
     },
