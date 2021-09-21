@@ -5261,7 +5261,9 @@
         "Nick": "Gustaf",
         "Name": "Florian Zinke",
         "NIC Handle": [],
-        "ASN": [43409],
+        "ASN": [
+		43409
+	],
         "Organisation": [
             {
                 "url": "https://www.link11.com/",
