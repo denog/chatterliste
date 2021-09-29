@@ -4758,14 +4758,11 @@
         "NIC Handle": [
             "TOSH1-RIPE"
         ],
-        "ASN": [
-            286,
-            517
-        ],
+        "ASN": [],
         "Organisation": [
             {
-                "url": "https://as286.net",
-                "name": "KPN EuroRings B.V."
+                "url": "https://exainfra.net",
+                "name": "EXA Infratructure"
             }
         ]
     },
