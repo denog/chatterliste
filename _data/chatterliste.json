@@ -2932,17 +2932,12 @@
             "MKR26-RIPE"
         ],
         "ASN": [
-            3624,
-            49855
+            3624
         ],
         "Organisation": [
             {
                 "url": "https://bremen.freifunk.net/",
                 "name": "Freifunk Bremen"
-            },
-            {
-                "url": "https://www.plutex.de/",
-                "name": "PLUTEX GmbH"
             }
         ]
     },
