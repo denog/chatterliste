@@ -4753,14 +4753,11 @@
         "NIC Handle": [
             "TOSH1-RIPE"
         ],
-        "ASN": [
-            286,
-            517
-        ],
+        "ASN": [],
         "Organisation": [
             {
-                "url": "https://as286.net",
-                "name": "KPN EuroRings B.V."
+                "url": "https://exainfra.net",
+                "name": "EXA Infrastructure"
             }
         ]
     },
@@ -5249,6 +5246,30 @@
             {
                 "url": "https://www.eventim.de/",
                 "name": "CTS Eventim"
+            }
+        ]
+    },
+    {
+        "Nick": "Gustaf",
+        "Name": "Florian Zinke",
+        "NIC Handle": [],
+        "ASN": [43409],
+        "Organisation": [
+            {
+                "url": "https://www.link11.com/",
+                "name": "Link11"
+            }
+        ]
+    },
+    {
+        "Nick": "schfr",
+        "Name": "Jonas Schäfer",
+        "NIC Handle": [],
+        "ASN": [43409],
+        "Organisation": [
+            {
+                "url": "https://www.link11.com/",
+                "name": "Link11"
             }
         ]
     }
