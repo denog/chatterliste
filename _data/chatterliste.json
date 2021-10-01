@@ -4822,19 +4822,12 @@
         "Nick": "tvberlin",
         "Name": "Theo Voss",
         "NIC Handle": [
-            "ANXT-RIPE",
             "THEO-RIPE"
         ],
-        "ASN": [
-            47147,
-            42473,
-            57555,
-            51847
-        ],
+        "ASN": [],
         "Organisation": [
             {
-                "url": "https://www.anexia.com",
-                "name": "ANEXIA Internetdienstleistungs GmbH"
+                "name": "Inter.link GmbH"
             }
         ]
     },
