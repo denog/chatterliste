@@ -2600,11 +2600,11 @@
         "NIC Handle": [
             "LYS-RIPE"
         ],
-        "ASN": [],
+        "ASN": [211752],
         "Organisation": [
             {
-                "url": null,
-                "name": "Vattenfall Bitstream Infrastructure"
+                "url": "https://vattenfall-eurofiber.de/",
+                "name": "Vattenfall Eurofiber"
             }
         ]
     },
