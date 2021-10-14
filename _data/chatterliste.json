@@ -5245,8 +5245,10 @@
     {
         "Nick": "Gustaf",
         "Name": "Florian Zinke",
-        "NIC Handle": [],
-        "ASN": [43409],
+        "NIC Handle": [
+		"FZ2840-RIPE"
+	],
+        "ASN": [34309],
         "Organisation": [
             {
                 "url": "https://www.link11.com/",
@@ -5257,8 +5259,10 @@
     {
         "Nick": "schfr",
         "Name": "Jonas Schäfer",
-        "NIC Handle": [],
-        "ASN": [43409],
+        "NIC Handle": [
+		"JS23259-RIPE"
+	],
+        "ASN": [34309],
         "Organisation": [
             {
                 "url": "https://www.link11.com/",
