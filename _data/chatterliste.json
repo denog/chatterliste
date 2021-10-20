@@ -953,6 +953,23 @@
         ]
     },
     {
+        "Nick": "das_j",
+        "Name": "Janne Heß",
+        "ASN": [
+            553
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.belwue.de/",
+                "name": "BelWü"
+            },
+            {
+                "url": "https://helsinki-systems.de/",
+                "name": "Helsinki Systems"
+            }
+        ]
+    },
+    {
         "Nick": "daster",
         "Name": "Daniel Maresch",
         "NIC Handle": [
@@ -3113,7 +3130,7 @@
         ],
         "Organisation": [
             {
-                "url": "http://www.belwue.de/",
+                "url": "https://www.belwue.de/",
                 "name": "BelWü"
             }
         ]
