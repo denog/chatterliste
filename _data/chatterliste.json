@@ -1593,12 +1593,11 @@
         "Name": "Dr. Jens Harbott",
         "NIC Handle": [],
         "ASN": [
-            60664
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "x-ion GmbH"
+                "url": "https://osism.tech",
+                "name": "OSISM GmbH"
             }
         ]
     },
