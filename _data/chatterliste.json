@@ -4637,13 +4637,11 @@
         "Nick": "TimKleefass",
         "Name": "Tim Kleefass",
         "NIC Handle": [],
-        "ASN": [
-            51324
-        ],
+        "ASN": [],
         "Organisation": [
             {
-                "url": "http://www.exaring.de",
-                "name": "EXARING AG"
+                "url": "http://www.onefiber.de",
+                "name": "OneFiber Interconnect Germany GmbH"
             }
         ]
     },
