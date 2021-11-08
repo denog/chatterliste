@@ -2914,14 +2914,12 @@
             "MORD-RIPE"
         ],
         "ASN": [
-            12337,
-            8222,
-            44880
+            51324
         ],
         "Organisation": [
             {
-                "url": "https://www.noris.de/",
-                "name": "noris network AG"
+                "url": "https://www.exaring.de/",
+                "name": "EXARING AG"
             }
         ]
     },
