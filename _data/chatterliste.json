@@ -270,6 +270,21 @@
                 "name": "INTERNIC GmbH"
             }
         ]
+    },    {
+        "Nick": "arthur.popa",
+        "Name": "Arthur Popa",
+        "NIC Handle": [
+            "arthur.popa_"
+        ],
+        "ASN": [
+            197637
+        ],
+        "Organisation": [
+            {
+                "url": "",
+                "name": "ropa GmbH&Co.KG"
+            }
+        ]
     },
     {
         "Nick": "atraxs",
