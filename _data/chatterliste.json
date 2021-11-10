@@ -5298,5 +5298,17 @@
                 "name": "Link11"
             }
         ]
+    },
+    {
+        "Nick": "tobikris",
+        "Name": "Tobias Krischer",
+        "NIC Handle": [],
+        "ASN": [51324],
+        "Organisation": [
+            {
+                "url": "https://www.exaring.de",
+                "name": "EXARING AG"
+            }
+        ]
     }
 ]
