@@ -2770,6 +2770,21 @@
         ]
     },
     {
+        "Nick": "mgoerke",
+        "Name": "Morris Goerke",
+        "NIC Handle": [
+            "MG26595-RIPE"
+        ],
+        "ASN": [
+            208571
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.iternas.com/",
+                "name": "iternas GmbH"
+            }
+        ]
+    },    {
         "Nick": "mc",
         "Name": "Rico Glöckner",
         "NIC Handle": [
