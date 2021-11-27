@@ -5053,6 +5053,23 @@
         "Organisation": []
     },
     {
+        "Nick": "WRMSR",
+        "Name": "Marcel Menzel",
+        "NIC Handle": [
+	    "MM51560-RIPE"
+	],
+        "ASN": [
+            15945,
+            21473
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.pfalzkom.de/",
+                "name": "PFALZKOM GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "wusel",
         "Name": "Kai 'wusel' Siering",
         "NIC Handle": [
