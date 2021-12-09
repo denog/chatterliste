@@ -2302,31 +2302,26 @@
         "Name": "Kay Rechthien",
         "NIC Handle": [
             "KAYR-RIPE",
-            "XTC23-RIPE",
-            "AKAY-RIPE"
+            "BND23-RIPE"
         ],
         "ASN": [
             13020,
-            20940,
-            49225,
-            50472
+	    16374,
+            50472,
+	    54113
         ],
         "Organisation": [
             {
-                "url": "https://events.ccc.de/",
-                "name": "CCC Event Network"
-            },
-            {
-                "url": "https://www.akamai.com/",
-                "name": "Akamai Technologies"
-            },
-            {
-                "url": "https://berlin.ccc.de/",
-                "name": "CCC Berlin e.V."
-            },
-            {
                 "url": "https://www.ccc.de/",
                 "name": "CCC e.V."
+            },
+            {
+                "url": "https://www.bcix.de/",
+                "name": "BCIX"
+            },
+	    {
+                "url": "https://www.fastly.com/",
+                "name": "Fastly, Inc."
             }
         ]
     },
