@@ -2511,14 +2511,14 @@
         ]
     },
     {
-        "Nick": "leonn",
+        "Nick": "leon",
         "Name": "Leon Weber",
         "NIC Handle": [
             "LWE42-RIPE"
         ],
         "ASN": [
             13020,
-            48918
+            211752
         ],
         "Organisation": [
             {
@@ -2526,8 +2526,8 @@
                 "name": "CCC"
             },
             {
-                "url": null,
-                "name": "Datacenter One GmbH"
+                "url": "https://vattenfall-eurofiber.de/",
+                "name": "Vattenfall Eurofiber"
             }
         ]
     },
