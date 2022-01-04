@@ -5328,6 +5328,23 @@
         ]
     },
     {
+        "Nick": "VP1 / Vince",
+        "Name": "Vincentz Petzholtz",
+        "NIC Handle": [
+            "VPVP-RIPE"
+        ],
+        "ASN": [
+            5405,
+            25291
+        ],
+        "Organisation": [
+            {
+                "url": "https://inter.link/",
+                "name": "Inter.link GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "tobikris",
         "Name": "Tobias Krischer",
         "NIC Handle": [],
