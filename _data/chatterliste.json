@@ -2904,18 +2904,20 @@
             "MOMO23-RIPE"
         ],
         "ASN": [
-            47147,
-	    42473,
 	    41139
         ],
         "Organisation": [
             {
-                "url": "http://www.anexia.com/",
-                "name": "ANEXIA Internetdienstleistungs GmbH"
+                "url": "https://noscito.network",
+                "name": "noscito network GmbH"
             },
             {
                 "url": "http://www.stuttgart-ix.de/",
                 "name": "Stuttgart-IX"
+            },
+            {
+                "url": "http://www.denog.de/",
+                "name": "DENOG e.V."
             }
         ]
     },
