@@ -353,8 +353,8 @@
         "Nick": "baduck",
         "Name": "Christoph Badura",
         "NIC Handle": [
-	    "CB8-RIPE"
-	],
+            "CB8-RIPE"
+        ],
         "ASN": [],
         "Organisation": [
             {
@@ -2047,11 +2047,11 @@
         "NIC Handle": [],
         "ASN": [],
         "Organisation": [
-	    { 
-		"url": "http://cloudical.io",
-		"name": "Cloudical"		 
-	    }
-	]
+            {
+                "url": "http://cloudical.io",
+                "name": "Cloudical"
+            }
+        ]
     },
     {
         "Nick": "irrwitzer",
@@ -2154,7 +2154,7 @@
                 "name": "backschues.NET"
             }
         ]
-    },   
+    },
     {
         "Nick": "jchome",
         "Name": "Frederic Jaeckel",
@@ -2307,9 +2307,9 @@
         ],
         "ASN": [
             13020,
-	    16374,
+            16374,
             50472,
-	    54113
+            54113
         ],
         "Organisation": [
             {
@@ -2320,7 +2320,7 @@
                 "url": "https://www.bcix.de/",
                 "name": "BCIX"
             },
-	    {
+            {
                 "url": "https://www.fastly.com/",
                 "name": "Fastly, Inc."
             }
@@ -2733,10 +2733,10 @@
             29317
         ],
         "Organisation": [
-	    {
-		"url": "https://www.rockenstein.de/",
-		"name": "rockenstein AG"
-	    },
+            {
+                "url": "https://www.rockenstein.de/",
+                "name": "rockenstein AG"
+            },
             {
                 "url": "https://www.baycix.de",
                 "name": "BayCIX GmbH"
@@ -2904,7 +2904,7 @@
             "MOMO23-RIPE"
         ],
         "ASN": [
-	    41139
+            41139
         ],
         "Organisation": [
             {
@@ -2970,9 +2970,7 @@
     {
         "Nick": "mortzu",
         "Name": "Moritz Kaspar Rudert",
-        "NIC Handle": [
-            "MKR26-RIPE"
-        ],
+        "NIC Handle": [],
         "ASN": [
             3624
         ],
@@ -3006,8 +3004,8 @@
             "FLOW-RIPE"
         ],
         "ASN": [
-		209480
-	],
+            209480
+        ],
         "Organisation": [
             {
                 "url": "http://www.smart-weblications.com/",
@@ -3349,15 +3347,13 @@
         "NIC Handle": [
             "OLBA-RIPE"
         ],
-        "ASN": [
-            
-        ],
+        "ASN": [],
         "Organisation": [
-	  {
-		"url": "https://www.bfh.ch",
-		"name": "Berner Fachhochschule"
-	  }
-	]
+            {
+                "url": "https://www.bfh.ch",
+                "name": "Berner Fachhochschule"
+            }
+        ]
     },
     {
         "Nick": "olisac",
@@ -3442,11 +3438,11 @@
             210198
         ],
         "Organisation": [
-		{
-			"url": "https://www.via-online.de",
-			"name": "ViA-Online GmbH"
-		}
-	]
+            {
+                "url": "https://www.via-online.de",
+                "name": "ViA-Online GmbH"
+            }
+        ]
     },
     {
         "Nick": "pberndro",
@@ -4447,13 +4443,13 @@
         "Nick": "swaio",
         "Name": "Stefan Wahl",
         "NIC Handle": [
-	    "SW7-RIPE",
+            "SW7-RIPE",
             "SW6038-RIPE",
-	    "SW5374-RIPE"
-	],
+            "SW5374-RIPE"
+        ],
         "ASN": [
             208262,
-	    41948,
+            41948,
             9033
         ],
         "Organisation": [
@@ -4465,9 +4461,9 @@
                 "url": "https://www.megaport.com/",
                 "name": "Megaport"
             },
-	    {
-		"url": "https://www.megaport.com/services/internet-exchange/",
-		"name": "Megaport Internet Exchanges"
+            {
+                "url": "https://www.megaport.com/services/internet-exchange/",
+                "name": "Megaport Internet Exchanges"
             },
             {
                 "url": "https://www.ecix.net/",
@@ -4866,7 +4862,7 @@
         ],
         "ASN": [
             5405
-	],
+        ],
         "Organisation": [
             {
                 "name": "Inter.link GmbH"
@@ -5197,20 +5193,20 @@
         ]
     },
     {
-    "Nick": "bene_",
-    "Name": "Benedikt Merkl",
-    "NIC Handle": [
-        "BENE2-RIPE"
-    ],
-    "ASN": [],
-    "Organisation": [
-        {
-            "url": "https://www.gropyus.com",
-            "name": "Gropyus Technologies GmbH"
-        }
-    ]
-  },
-  {
+        "Nick": "bene_",
+        "Name": "Benedikt Merkl",
+        "NIC Handle": [
+            "BENE2-RIPE"
+        ],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://www.gropyus.com",
+                "name": "Gropyus Technologies GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "t-k-s",
         "Name": "Thomas King",
         "NIC Handle": [],
