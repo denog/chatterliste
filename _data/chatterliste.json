@@ -593,20 +593,6 @@
         ]
     },
     {
-        "Nick": "bundy",
-        "Name": "Stefan Funke",
-        "NIC Handle": [],
-        "ASN": [
-            20647
-        ],
-        "Organisation": [
-            {
-                "url": "http://www.carrier-colo.com",
-                "name": "IPB, CarrierColo"
-            }
-        ]
-    },
-    {
         "Nick": "carp",
         "Name": "Marc Redeker",
         "NIC Handle": [],
@@ -4308,6 +4294,27 @@
             {
                 "url": "http://www.netbsd.org/",
                 "name": "NetBSD"
+            }
+        ]
+    },
+    {
+        "Nick": "stefan",
+        "Name": "Stefan Funke",
+        "NIC Handle": [
+            "ANX23-RIPE"            
+        ],
+        "ASN": [
+            42473,
+            47147
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.anexia.com",
+                "name": "ANEXIA"
+            },
+            {
+                "url": "https://www.peeringdb.com/",
+                "name": "PeeringDB"
             }
         ]
     },
