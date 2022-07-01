@@ -4052,14 +4052,12 @@
         "Name": "Karl Szmutny",
         "NIC Handle": [],
         "ASN": [
-            12337,
-            8222,
-            44880
+            47897
         ],
         "Organisation": [
             {
-                "url": "https://www.noris.de/",
-                "name": "noris network AG"
+                "url": "https://www.redmedical.de/",
+                "name": "RED Medical Systems GmbH"
             }
         ]
     },
