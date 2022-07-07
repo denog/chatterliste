@@ -4451,8 +4451,7 @@
 	],
         "ASN": [
             208262,
-	    41948,
-            9033
+	    41948
         ],
         "Organisation": [
             {
@@ -4460,17 +4459,9 @@
                 "name": "Open7"
             },
             {
-                "url": "https://www.megaport.com/",
-                "name": "Megaport"
-            },
-	    {
-		"url": "https://www.megaport.com/services/internet-exchange/",
-		"name": "Megaport Internet Exchanges"
-            },
-            {
-                "url": "https://www.ecix.net/",
-                "name": "Megaport ECIX"
-            }
+                "url": "https://www.linkedin.com/in/stefan-wahl-0434a3/",
+                "name": "LinkedIN Profil"
+	    }
         ]
     },
     {
