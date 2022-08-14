@@ -2654,6 +2654,27 @@
         "Organisation": []
     },
     {
+        "Nick": "Manawyrm",
+        "Name": "Tobias Mädel",
+        "NIC Handle": [
+            "TM8753-RIPE"
+        ],
+        "ASN": [
+            203478,
+            59437
+        ],
+        "Organisation": [
+            {
+                "url": "https://as203478.net/",
+                "name": "tbspace Networks"
+            },
+            {
+                "url": "https://northerndata.de/",
+                "name": "Northern Data AG"
+            }
+        ]
+    },
+    {
         "Nick": "MarcL",
         "Name": "Marc Langer",
         "NIC Handle": [
