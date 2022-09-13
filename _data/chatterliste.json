@@ -5386,5 +5386,19 @@
                 "name": "Sky"
             }
         ]
+    },
+    {
+        "Nick": "christian29014",
+        "Name": "Christian Hacker",
+        "NIC Handle": [
+            "CH2937-RIPE"
+        ],
+        "ASN": [29014],
+        "Organisation": [
+            {
+                "url": "https://www.scaleuptech.com",
+                "name": "ScaleUp Technologies GmbH & Co. KG"
+            }
+        ]
     }
 ]
