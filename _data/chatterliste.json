@@ -5400,5 +5400,21 @@
                 "name": "ScaleUp Technologies GmbH & Co. KG"
             }
         ]
+    },
+    {
+        "Nick": "dendie",
+        "Name": "Dennis Diehm",
+        "NIC Handle": [],
+        "ASN": [
+            24940,
+            213230,
+            212317
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.hetzner.com",
+                "name": "Hetzner Online GmbH"
+            }
+        ]
     }
 ]
