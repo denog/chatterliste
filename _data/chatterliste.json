@@ -5243,13 +5243,13 @@
             "JOER-RIPE"
         ],
         "ASN": [
-            553,
+            34878,
             213341
         ],
         "Organisation": [
             {
-                "url": "https://belwue.de",
-                "name": "BelWue"
+                "url": "https://www.kit.edu",
+                "name": "Karlsruhe Institute of Technology / Steinbuch Centre for Computing"
             }
         ]
     },
