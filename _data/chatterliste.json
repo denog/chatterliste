@@ -5404,7 +5404,9 @@
     {
         "Nick": "dendie",
         "Name": "Dennis Diehm",
-        "NIC Handle": [],
+        "NIC Handle": [
+	    "DD15478-RIPE"
+	],
         "ASN": [
             24940,
             213230,
