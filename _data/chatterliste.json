@@ -1,4 +1,19 @@
-[
+[    {
+        "Nick": "sspies",
+        "Name": "Sebastian Spies",
+        "NIC Handle": [
+            "SS13877-RIPE"
+        ],
+        "ASN": [
+            15701
+        ],
+        "Organisation": [
+            {
+                "url": "https://nextpacket.net",
+                "name": "nextPacket Bare Metal Router Hosting"
+            }
+        ]
+    },
     {
         "Nick": "RobWei",
         "Name": "Robin Weiligmann",
