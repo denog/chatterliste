@@ -2115,6 +2115,27 @@
         ]
     },
     {
+        "Nick": "janeric",
+        "Name": "Jan-Eric Ortgies",
+        "NIC Handle": [
+            "JO3680-RIPE"
+        ],
+        "ASN": [
+            204003,
+            3624
+        ],
+        "Organisation": [
+            {
+                "url": "https://as204003.net",
+                "name": "Jan-Eric Ortgies"
+            },
+            {
+                "url": "https://bremen.freifunk.net",
+                "name": "Freifunk Bremen"
+            }
+        ]
+    },
+    {
         "Nick": "janno",
         "Name": "Jan Marquardt",
         "NIC Handle": [
