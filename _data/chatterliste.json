@@ -3308,12 +3308,16 @@
             "OLBA-RIPE"
         ],
         "ASN": [
-            
+		203496
         ],
         "Organisation": [
 	  {
-		"url": "https://www.bfh.ch",
-		"name": "Berner Fachhochschule"
+		"url": "https://obnh.network",
+		"name": "OBNH Network"
+	  },
+	  {
+		  "url": "https://www.axpo.com/ch/de/unternehmen/datenkommunikation.html",
+		  "name": "Axpo WZ-Systems AG"
 	  }
 	]
     },
