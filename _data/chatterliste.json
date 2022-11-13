@@ -4972,6 +4972,24 @@
         ]
     },
     {
+        "Nick": "v0tti",
+        "Name": "Alexander Votteler",
+        "NIC Handle": [],
+        "ASN": [
+            34953
+        ],
+        "Organisation": [
+            {
+                "url": "https://relaix.net/",
+                "name": "RelAix Networks"
+            },
+            {
+                "url": "https://fem.tu-ilmenau.de/",
+                "name": "FeM"
+            }
+        ]
+    },
+    {
         "Nick": "vidister",
         "Name": "Fiona Weber",
         "NIC Handle": [],
