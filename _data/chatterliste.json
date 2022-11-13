@@ -5396,6 +5396,22 @@
         ]
     },
     {
+        "Nick": "netali",
+        "Name": "Jennifer Graul",
+        "NIC Handle": [
+            "JG10828-RIPE"
+        ],
+        "ASN": [
+            202729
+        ],
+        "Organisation": [
+            {
+                "url": "https://fem.tu-ilmenau.de/",
+                "name": "FeM e.V."
+            }
+        ]
+    },
+    {
         "Nick": "tobikris",
         "Name": "Tobias Krischer",
         "NIC Handle": [],
