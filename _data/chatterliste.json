@@ -5483,5 +5483,21 @@
                 "name": "Hetzner Online GmbH"
             }
         ]
+    },
+    {
+        "Nick": "fmenge",
+        "Name": "Felix Menge",
+        "NIC Handle": [
+	],
+        "ASN": [
+            48596,
+	        34997
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.inwx.de",
+                "name": "INWX"
+            }
+        ]
     }
 ]
