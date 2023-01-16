@@ -2943,9 +2943,14 @@
             "MOMO23-RIPE"
         ],
         "ASN": [
-            41139
+            41139,
+	    48918
         ],
         "Organisation": [
+            {
+                "url": "https://globalways.net",
+                "name": "Globalways GmbH"
+            },
             {
                 "url": "https://noscito.network",
                 "name": "noscito network GmbH"
