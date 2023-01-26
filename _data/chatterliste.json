@@ -2625,17 +2625,17 @@
     },
     {
         "Nick": "LukeSiX",
-        "Name": "Robert Arrowood",
+        "Name": "Robert Blechinger",
         "NIC Handle": [
             "LUKE-RIPE"
         ],
         "ASN": [
-            5539
+            209045
         ],
         "Organisation": [
             {
                 "url": null,
-                "name": "SpaceNet AG"
+                "name": "GenesisCloud GmbH"
             }
         ]
     },
