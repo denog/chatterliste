@@ -4213,12 +4213,12 @@
         ],
         "Organisation": [
             {
-                "url": null,
+                "url": "https://ffm.freifunk.net/",
                 "name": "Freifunk Frankfurt am Main e.V."
             },
             {
-                "url": null,
-                "name": "iNNOVO Cloud"
+                "url": "https://gec.io/",
+                "name": "German Edge Cloud GmbH & Co. KG"
             }
         ]
     },
