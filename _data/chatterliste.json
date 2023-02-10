@@ -3062,19 +3062,23 @@
         ]
     },
     {
-        "Nick": "MrTux",
-        "Name": "Thomas Eichhorn",
+        "Nick": "SirTux",
+        "Name": "Tom Eichhorn",
         "NIC Handle": [
             "TE999-RIPE"
         ],
         "ASN": [
             43911,
-            25291
+            6695
         ],
         "Organisation": [
             {
                 "url": null,
-                "name": "te3 Networks"
+                "name": "te3 Networks / wirkbetrieb.net"
+            },
+            {
+                "url": "http://www.de-cix.net",
+                "name": "DE-CIX"
             }
         ]
     },
