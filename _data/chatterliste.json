@@ -5515,5 +5515,21 @@
                 "name": "INWX"
             }
         ]
+    },
+        {
+        "Nick": "bandit",
+        "Name": "Nicolas Korten",
+        "NIC Handle": [
+        ],
+        "ASN": [
+            29413,
+            64138
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.komro.net",
+                "name": "komro GmbH"
+            }
+        ]
     }
 ]
