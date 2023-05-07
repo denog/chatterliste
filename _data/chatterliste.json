@@ -5243,11 +5243,13 @@
         "Nick": "_mrplow",
         "Name": "Moritz Krause",
         "NIC Handle": [],
-        "ASN": [],
+        "ASN": [ 
+		13045 
+	],
         "Organisation": [
             {
-                "url": "https://www.medondo.com/",
-                "name": "medondo AG"
+                "url": "https://www.htp.net/",
+                "name": "htp GmbH"
             }
         ]
     },
