@@ -5532,7 +5532,22 @@
             }
         ]
     },
-        {
+    {
+        "Nick": "kieber",
+        "Name": "Ulf Kieber",
+        "NIC Handle": [
+            "UK41-RIPE"
+        ],
+        "ASN": [
+            24603
+        ],
+        "Organisation": [
+            {
+                "name": "xoo networks consulting"
+            }
+        ]
+    },
+    {
         "Nick": "bandit",
         "Name": "Nicolas Korten",
         "NIC Handle": [
