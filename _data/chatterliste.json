@@ -4387,21 +4387,14 @@
     {
         "Nick": "stefan",
         "Name": "Stefan Funke",
-        "NIC Handle": [
-            "ANX23-RIPE"            
-        ],
+        "NIC Handle": [],
         "ASN": [
-            42473,
-            47147
+            5405
         ],
         "Organisation": [
             {
-                "url": "https://www.anexia.com",
-                "name": "ANEXIA"
-            },
-            {
-                "url": "https://www.peeringdb.com/",
-                "name": "PeeringDB"
+                "url": "https://www.inter.link/",
+                "name": "Inter.link"
             }
         ]
     },
