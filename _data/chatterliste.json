@@ -1361,16 +1361,16 @@
         ],
         "Organisation": [
             {
-                "url": "http://www.verizonbusiness.de",
+                "url": "https://www.verizon.com/",
                 "name": "Verizon Business"
             },
             {
-                "url": "http://www.cablesurf.de",
+                "url": "https://www.telecolumbus.com/",
                 "name": "Cablesurf"
             },
             {
-                "url": "http://www.openap-wireless.net",
-                "name": "OpenAP"
+                "url": "https://www.rrbone.net/",
+                "name": "rrbone"
             }
         ]
     },
@@ -1461,11 +1461,11 @@
         ],
         "Organisation": [
             {
-                "url": "http://www.free.de/",
+                "url": "https://www.rrbone.net/",
                 "name": "rrbone"
             },
             {
-                "url": "http://www.rrbone.net/",
+                "url": "https://www.free.de/",
                 "name": "Wissenschaftsladen Dortmund"
             }
         ]
