@@ -5064,16 +5064,17 @@
         "Nick": "weiti",
         "Name": "Tim Weippert",
         "NIC Handle": [
-            "TW739-RIPE"
+            "TW4633-RIPE"
         ],
         "ASN": [
-            12857,
-            28918
+            203759,
+            44076,
+	    211768
         ],
         "Organisation": [
             {
-                "url": "http://www.tds.fujitsu.com/",
-                "name": "Fujitsu TDS GmbH"
+                "url": "http://it.schwarz/",
+                "name": "Schwarz IT KG"
             }
         ]
     },
