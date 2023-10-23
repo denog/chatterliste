@@ -2492,15 +2492,15 @@
         ]
     },
     {
-        "Nick": "lauralani",
-        "Name": "Laura Kalb",
+        "Nick": "adora",
+        "Name": "Adora Kalb",
         "NIC Handle": [],
         "ASN": [
             15451
         ],
         "Organisation": [
             {
-                "url": null,
+                "url": "https://www.datev.de/",
                 "name": "DATEV eG"
             }
         ]
