@@ -5536,5 +5536,23 @@
                 "name": "komro GmbH"
             }
         ]
+    },
+    {
+        "Nick": "janek",
+        "Name": "Janek Gal",
+        "NIC Handle": [
+        ],
+        "ASN": [
+        ],
+        "Organisation": [
+            {
+                "url": "https://freescale.de",
+                "name": "freescale consulting"
+            },
+            {
+                "url": "https://www.sax.de",
+                "name": "SaxNet e. V."
+            }
+        ]
     }
 ]
