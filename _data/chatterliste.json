@@ -3756,20 +3756,11 @@
         "Name": "Hannes Rist",
         "NIC Handle": [],
         "ASN": [
-            48918,
             59745
         ],
         "Organisation": [
             {
-                "url": "www.dc1.com",
-                "name": "Globalways AG"
-            },
-            {
-                "url": null,
-                "name": "Selfnet e.V."
-            },
-            {
-                "url": null,
+                "url": "https://dc1.com/",
                 "name": "Datacenter One GmbH"
             }
         ]
