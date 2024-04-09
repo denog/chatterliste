@@ -4698,14 +4698,16 @@
         ]
     },
     {
-        "Nick": "TimKleefass",
+        "Nick": "@tim:haitabu.net",
         "Name": "Tim Kleefass",
         "NIC Handle": [],
-        "ASN": [],
+        "ASN": [
+            6695
+        ],
         "Organisation": [
             {
-                "url": "http://www.onefiber.de",
-                "name": "OneFiber Interconnect Germany GmbH"
+                "url": "http://www.de-cix.net",
+                "name": "DE-CIX"
             }
         ]
     },
