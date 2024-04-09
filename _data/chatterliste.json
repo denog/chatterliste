@@ -173,6 +173,23 @@
         ]
     },
     {
+        "Nick": "p0ng",
+        "Name": "Niels Dettenbach",
+        "NIC Handle": [
+            "ND74-RIPE", 
+            "ND2000-RIPE"
+        ],
+        "ASN": [
+            199476
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.syndicat.com/",
+                "name": "Syndicat IT & Internet"
+            }
+        ]
+    },
+    {
         "Nick": "andi-",
         "Name": "Andreas Rammhold",
         "NIC Handle": [
