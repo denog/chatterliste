@@ -5545,5 +5545,22 @@
                 "name": "SaxNet e. V."
             }
         ]
+    },
+    {
+        "Nick": "feyo",
+        "Name": "Philipp Rintz",
+        "NIC Handle": [
+            "PR16141-RIPE"
+        ],
+        "ASN": [
+            25291,
+            207455
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.syseleven.de/en/",
+                "name": "SysEleven GmbH"
+            }
+        ]
     }
 ]
