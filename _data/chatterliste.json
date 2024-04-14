@@ -173,6 +173,23 @@
         ]
     },
     {
+        "Nick": "p0ng",
+        "Name": "Niels Dettenbach",
+        "NIC Handle": [
+            "ND74-RIPE", 
+            "ND2000-RIPE"
+        ],
+        "ASN": [
+            199476
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.syndicat.com/",
+                "name": "Syndicat IT & Internet"
+            }
+        ]
+    },
+    {
         "Nick": "andi-",
         "Name": "Andreas Rammhold",
         "NIC Handle": [
@@ -5545,6 +5562,23 @@
             {
                 "url": "https://www.sax.de",
                 "name": "SaxNet e. V."
+            }
+        ]
+    },
+    {
+        "Nick": "feyo",
+        "Name": "Philipp Rintz",
+        "NIC Handle": [
+            "PR16141-RIPE"
+        ],
+        "ASN": [
+            25291,
+            207455
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.syseleven.de/en/",
+                "name": "SysEleven GmbH"
             }
         ]
     }
