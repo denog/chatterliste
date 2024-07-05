@@ -2108,16 +2108,14 @@
     {
         "Nick": "izemaen",
         "Name": "Tobias Heister",
-        "NIC Handle": [
-            "TH5876-RIPE"
-        ],
+        "NIC Handle": [],
         "ASN": [
-            203520
+            20676
         ],
         "Organisation": [
             {
-                "url": "http://www.xantaro.net/",
-                "name": "Xantaro Deutschland GmbH"
+                "url": "http://www.plusnet.de/",
+                "name": "Plusnet GmbH"
             }
         ]
     },
