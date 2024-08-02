@@ -4218,7 +4218,6 @@
             "MF16389-RIPE"
         ],
         "ASN": [
-            42263,
             58145,
             64475
         ],
@@ -4226,10 +4225,6 @@
             {
                 "url": "https://ffm.freifunk.net/",
                 "name": "Freifunk Frankfurt am Main e.V."
-            },
-            {
-                "url": "https://gec.io/",
-                "name": "German Edge Cloud GmbH & Co. KG"
             }
         ]
     },
