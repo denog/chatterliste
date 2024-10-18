@@ -5511,6 +5511,22 @@
         ]
     },
     {
+        "Nick": "fhebold",
+        "Name": "Frank Hebold",
+        "NIC Handle": [
+	],
+        "ASN": [
+            48596,
+	    34997
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.inwx.de",
+                "name": "INWX"
+            }
+        ]
+    },
+    {
         "Nick": "kieber",
         "Name": "Ulf Kieber",
         "NIC Handle": [
