@@ -2341,7 +2341,6 @@
         ],
         "ASN": [
             13020,
-            16374,
             50472,
             54113
         ],
@@ -2349,10 +2348,6 @@
             {
                 "url": "https://www.ccc.de/",
                 "name": "CCC e.V."
-            },
-            {
-                "url": "https://www.bcix.de/",
-                "name": "BCIX"
             },
             {
                 "url": "https://www.fastly.com/",
