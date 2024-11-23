@@ -4755,7 +4755,7 @@
         ]
     },
     {
-        "Nick": "tobifix",
+        "Nick": "tr",
         "Name": "Tobias Rehn",
         "NIC Handle": [
             "TOBI-RIPE"
@@ -4765,8 +4765,8 @@
         ],
         "Organisation": [
             {
-                "url": "http://www.23media.eu/",
-                "name": "23Media"
+                "url": "https://23m.com",
+                "name": "23M GmbH"
             }
         ]
     },
