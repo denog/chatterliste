@@ -5598,5 +5598,29 @@
         "NIC Handle": [],
         "ASN": [],
         "Organisation": []
+    },
+    {
+        "Nick": "Fleischi5",
+        "Name": "Pascal Fleischhauer",
+        "NIC Handle": [],
+        "ASN": [ 196714 ],
+        "Organisation": [
+            {
+                "url": "https://www.netkom.de/Geschaeftskunden",
+                "name": "Thueringer Netkom GmbH"
+            }
+        ]
+    },
+    {
+        "Nick": "mulix",
+        "Name": "Michael Schumann",
+        "NIC Handle": [],
+        "ASN": [ 30766 ],
+        "Organisation": [
+            {
+                "url": "https://www.ggew-net.de",
+                "name": "GGEW Net GmbH"
+            }
+        ]
     }
 ]
