@@ -512,15 +512,15 @@
     },
     {
         "Nick": "bj",
-        "Name": "Björn  Engels",
+        "Name": "Björn Engels",
         "NIC Handle": [
             "BE298-RIPE"
         ],
-        "ASN": [],
+        "ASN": [ 60955 ],
         "Organisation": [
             {
-                "url": "https://www.cloud-mates.de/",
-                "name": "Cloud Mates GmbH"
+                "url": "https://wavecon.de/",
+                "name": "Wavecon GmbH"
             }
         ]
     },
