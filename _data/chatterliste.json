@@ -1146,11 +1146,11 @@
         "Nick": "dk",
         "Name": "Dennis Kögel",
         "NIC Handle": [],
-        "ASN": [],
+        "ASN": [ 60955 ],
         "Organisation": [
             {
-                "url": "https://www.cloud-mates.de/",
-                "name": "Cloud Mates GmbH"
+                "url": "https://wavecon.de/",
+                "name": "Wavecon GmbH"
             }
         ]
     },
