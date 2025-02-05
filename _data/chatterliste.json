@@ -5620,5 +5620,26 @@
                 "name": "GGEW Net GmbH"
             }
         ]
+    },
+    {
+        "Nick": "jhuhn",
+        "Name": "Julian Huhn",
+        "NIC Handle": [
+            "HUHN1-RIPE"
+	],
+        "ASN": [ 
+	    8391,
+	    215236
+	],
+        "Organisation": [
+            {
+                "url": "https://www.knipp.de/",
+                "name": "Knipp Medien und Kommunikation GmbH"
+            },
+	    {
+                "url": "https://www.huhn.dev/",
+		"name": "Julian Huhn"
+	    }
+        ]
     }
 ]
