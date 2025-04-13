@@ -257,12 +257,18 @@
             "KLM-RIPE"
         ],
         "ASN": [
-            35292
+            35292,
+	    25504,
+	    57115
         ],
         "Organisation": [
             {
                 "url": "http://www.elxsi.de",
                 "name": "Elxsi Security"
+            },
+	    {
+                "url": "http://www.vautron.de",
+                "name": "Vautron Rechenzentrum AG"
             }
         ]
     },
