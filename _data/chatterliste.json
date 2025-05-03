@@ -1452,6 +1452,24 @@
         ]
     },
     {
+        "Nick": "error",
+        "Name": "Lara Hallaczek",
+        "NIC Handle": [
+            "LH4476-RIPE"
+        ],
+        "ASN": [],
+        "Organisation": [
+            {
+                "url": "https://www.selfnet.de/",
+                "name": "Selfnet e.V."
+            },
+            {
+                "url": null,
+                "name": "Robert Bosch GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "fairlight0815",
         "Name": "Falk Brockerhoff",
         "NIC Handle": [
