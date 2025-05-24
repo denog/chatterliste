@@ -3794,13 +3794,14 @@
         "Name": "Hannes Rist",
         "NIC Handle": [],
         "ASN": [
-            59745
+            59745,
+            215518
         ],
         "Organisation": [
-            {
-                "url": "https://dc1.com/",
-                "name": "Datacenter One GmbH"
-            }
+	    {
+                "url": "https://atlasedge.com/",
+                "name": "AtlasEdge"
+	    }
         ]
     },
     {
