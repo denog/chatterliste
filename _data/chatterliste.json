@@ -5653,13 +5653,13 @@
             "HUHN1-RIPE"
 	],
         "ASN": [ 
-	    8391,
+	    25291,
 	    215236
 	],
         "Organisation": [
             {
-                "url": "https://www.knipp.de/",
-                "name": "Knipp Medien und Kommunikation GmbH"
+                "url": "https://www.syseleven.de/en/",
+                "name": "SysEleven GmbH"
             },
 	    {
                 "url": "https://www.huhn.dev/",
