@@ -1,5 +1,21 @@
 [
     {
+        "Nick": "davgro",
+        "Name": "David Große Siestrup",
+        "NIC Handle": [
+           "DGS84-RIPE"
+       ],
+        "ASN": [
+            42184
+        ],
+        "Organisation": [
+            {
+                "url": "https://www.tkrz-business.de/", 
+                "name": "TKRZ Stadtwerke GmbH"
+            }
+        ]
+    },
+    {
         "Nick": "Camro",
         "Name": "Marco Zietz",
         "NIC Handle": [],
