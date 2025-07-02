@@ -1182,11 +1182,15 @@
         "Nick": "dk",
         "Name": "Dennis Kögel",
         "NIC Handle": [],
-        "ASN": [ 60955 ],
+        "ASN": [
+            12337,
+            8222,
+            44880
+        ],
         "Organisation": [
             {
-                "url": "https://wavecon.de/",
-                "name": "Wavecon GmbH"
+                "url": "https://www.noris.de/",
+                "name": "noris network AG"
             }
         ]
     },
