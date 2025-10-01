@@ -3441,27 +3441,6 @@
         ]
     },
     {
-        "Nick": "olba",
-        "Name": "Olaf Baumert",
-        "NIC Handle": [
-            "OLBA-RIPE"
-        ],
-        "ASN": [
-		         203496,
-		         60284
-        ],
-        "Organisation": [
-	  {
-		"url": "https://obnh.network",
-		"name": "OBNH Network"
-	  },
-	  {
-		  "url": "http://www.axpo.com/cyber-security-connectivity",
-		  "name": "Axpo Systems AG"
-	  }
-	]
-    },
-    {
         "Nick": "olisac",
         "Name": "Oliver Sachs",
         "NIC Handle": [
