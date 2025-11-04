@@ -4566,8 +4566,15 @@
         "NIC Handle": [
             "CHK2342-RIPE"
         ],
-        "ASN": [],
-        "Organisation": []
+		"ASN": [
+			204053
+		],
+        "Organisation": [
+			{
+				"url": "https://www.adestis.com/",
+				"name": "ADESTIS"
+			}
+		]
     },
     {
         "Nick": "TabTwo",
