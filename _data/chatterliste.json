@@ -1403,25 +1403,15 @@
         "Nick": "Eimann",
         "Name": "Dominik Bay",
         "NIC Handle": [
-            "DB4242-RIPE"
+            "DBAY-RIPE"
         ],
         "ASN": [
-            702,
-            35244,
-            39138
+            200561
         ],
         "Organisation": [
             {
-                "url": "https://www.verizon.com/",
-                "name": "Verizon Business"
-            },
-            {
-                "url": "https://www.telecolumbus.com/",
-                "name": "Cablesurf"
-            },
-            {
-                "url": "https://www.rrbone.net/",
-                "name": "rrbone"
+                "url": "https://www.placetel.de/",
+                "name": "Gamma Placetel"
             }
         ]
     },
