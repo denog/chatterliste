@@ -550,13 +550,14 @@
         "Nick": "bj",
         "Name": "Björn Engels",
         "NIC Handle": [
-            "BE298-RIPE"
+            "BE298-RIPE",
+			"BE3277-RIPE"
         ],
-        "ASN": [ 60955 ],
+        "ASN": [ ],
         "Organisation": [
             {
-                "url": "https://wavecon.de/",
-                "name": "Wavecon GmbH"
+                "url": "https://agestechnologies.com/",
+                "name": "AGES Technologies GmbH & Co. KG"
             }
         ]
     },
