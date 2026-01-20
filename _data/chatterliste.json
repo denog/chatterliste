@@ -3406,9 +3406,15 @@
             "HL4688-RIPE"
         ],
         "ASN": [
-            208059
+            208059,
+            14114
         ],
-        "Organisation": []
+        "Organisation": [
+            {
+                "url": "https://www.sap.com",
+                "name": "SAP SE"
+            }
+        ]
     },
     {
         "Nick": "ogelpre",
