@@ -5187,6 +5187,28 @@
         ]
     },
     {
+        "Nick": "xgwq",
+        "Name": "Peter Lehmann",
+        "NIC Handle": [
+            "PL14985-RIPE"
+        ],
+        "ASN": [
+            47147,
+            42473,
+            213422
+        ],
+        "Organisation": [
+            {
+                "url": "https://anexia.com/",
+                "name": "Anexia Cloud Solutions GmbH"
+            },
+            {
+                "url": "https://as213422.net/",
+                "name": "AS213422"
+            }
+        ]
+    },
+    {
         "Nick": "ZaphodB",
         "Name": "Stefan Schmidt",
         "NIC Handle": [
