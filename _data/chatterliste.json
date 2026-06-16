@@ -2215,14 +2215,16 @@
     {
         "Nick": "Jay2k1",
         "Name": "Robert Klostermann",
-        "NIC Handle": [],
+        "NIC Handle": [
+            "RK9321-RIPE"
+		],
         "ASN": [
             20694
         ],
         "Organisation": [
             {
-                "url": "http://nmmn.com/",
-                "name": "NMMN New Media Markets & Networks IT-Services GmbH"
+                "url": "https://nmmn.com/",
+                "name": "NMMN GmbH"
             }
         ]
     },
@@ -2240,15 +2242,15 @@
     },
     {
         "Nick": "jchome",
-        "Name": "Frederic Jaeckel",
+        "Name": "Frederic Jung",
         "NIC Handle": [],
         "ASN": [
-            36459
+            5405
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "Github Inc."
+                "url": "https://www.inter.link/",
+                "name": "Inter.link"
             }
         ]
     },
