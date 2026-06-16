@@ -2242,15 +2242,15 @@
     },
     {
         "Nick": "jchome",
-        "Name": "Frederic Jaeckel",
+        "Name": "Frederic Jung",
         "NIC Handle": [],
         "ASN": [
-            36459
+            5405
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "Github Inc."
+                "url": "https://www.inter.link/",
+                "name": "Inter.link"
             }
         ]
     },
