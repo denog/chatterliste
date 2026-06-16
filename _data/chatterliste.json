@@ -338,15 +338,15 @@
         "Nick": "arthur.popa",
         "Name": "Arthur Popa",
         "NIC Handle": [
-            "arthur.popa_"
+            "AP57821-RIPE"
         ],
         "ASN": [
-            197637
+            39257
         ],
         "Organisation": [
             {
                 "url": "",
-                "name": "ropa GmbH&Co.KG"
+                "name": "carrierwerke GmbH"
             }
         ]
     },
@@ -2242,15 +2242,15 @@
     },
     {
         "Nick": "jchome",
-        "Name": "Frederic Jaeckel",
+        "Name": "Frederic Jung",
         "NIC Handle": [],
         "ASN": [
-            36459
+            5405
         ],
         "Organisation": [
             {
-                "url": null,
-                "name": "Github Inc."
+                "url": "https://www.inter.link/",
+                "name": "Inter.link"
             }
         ]
     },
@@ -5183,6 +5183,28 @@
             {
                 "url": "https://freifunk-kreisgt.de/",
                 "name": "Freifunk Kreis GT"
+            }
+        ]
+    },
+    {
+        "Nick": "xgwq",
+        "Name": "Peter Lehmann",
+        "NIC Handle": [
+            "PL14985-RIPE"
+        ],
+        "ASN": [
+            47147,
+            42473,
+            213422
+        ],
+        "Organisation": [
+            {
+                "url": "https://anexia.com/",
+                "name": "Anexia Cloud Solutions GmbH"
+            },
+            {
+                "url": "https://as213422.net/",
+                "name": "AS213422"
             }
         ]
     },
