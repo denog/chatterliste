@@ -2721,11 +2721,11 @@
         "NIC Handle": [
             "LYS-RIPE"
         ],
-        "ASN": [211752],
+        "ASN": [5405],
         "Organisation": [
             {
-                "url": "https://vattenfall-eurofiber.de/",
-                "name": "Vattenfall Eurofiber"
+                "url": "https://inter.link/",
+                "name": "Inter.link"
             }
         ]
     },
