@@ -4411,26 +4411,6 @@
         ]
     },
     {
-        "Nick": "steinex",
-        "Name": "Frank Steinborn",
-        "NIC Handle": [
-            "FS4020-RIPE"
-        ],
-        "ASN": [
-            15594
-        ],
-        "Organisation": [
-            {
-                "url": "http://www.netzquadrat.de/",
-                "name": "netzquadrat GmbH"
-            },
-            {
-                "url": "http://www.sipgate.de/",
-                "name": "sipgate GmbH"
-            }
-        ]
-    },
-    {
         "Nick": "steve",
         "Name": "Stephan Fischer",
         "NIC Handle": [
